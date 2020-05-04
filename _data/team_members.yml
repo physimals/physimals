@@ -2,14 +2,13 @@
   photo: stan.jpg
   info: Associate Professor
   email: stamatios.sotiropoulos@nottingham.ac.uk
-  <a href="https://scholar.google.com/citations?user=9p2f6vUAAAAJ&hl=en">Google Scholar Profile</a> | <a href="http://orcid.org/0000-0003-4735-5776">ORCID</a>
   number_educ: 5
   education1: BSc Electronics and Computer Engineering, <a href="https://www.ece.tuc.gr/4455.html">Technical University of Crete</a>, Greece
   education2: MSc Biomedical Engineering, <a href="https://cse.umn.edu/bme">University of Minnesota</a>, USA
   education3: PhD Neuroimage Analysis, <a href="https://www.nottingham.ac.uk/research/groups/spmic"> University of Nottingham</a>, UK
   education4: Postdoc <a href="https://www.win.ox.ac.uk>FMRIB Centre</a>, University of Oxford, UK
-  education5: Research Fellow, <a href="https://www.win.ox.ac.uk>FMRIB Centre</a>, University of Oxford, UK
-
+  education5: <a href="https://scholar.google.com/citations?user=9p2f6vUAAAAJ&hl=en">Google Scholar Profile</a> | <a href="http://orcid.org/0000-0003-4735-5776">ORCID</a>
+  
   
 - name: Matteo Bastiani
   photo: matteo.jpg
@@ -19,6 +18,7 @@
   education1: 
   education2: 
   education3: 
+  
   
 - name: Yi Ming Lai 
   photo: yiming.jpg
@@ -37,38 +37,40 @@
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
 
+
 - name: Elinor Thompson
   photo: ellie.jpg
   info: PhD Student, started October 2017
   email: elinor.thompson@nottingham.ac.uk
-  number_educ: 1
+  number_educ: 2
   education1: BSc Physics, University of Cambridge
-  Funding Source: EPSRC / <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
+  education2: Funding Source: EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
+
 
 - name: Shaun Warrington
   photo: shaun.jpg
   info: PhD Student, started January 2018
   email: shaun.warrington@nottingham.ac.uk
-  number_educ: 2
+  number_educ: 3
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Medical Physics, University of Nottingham, UK
-  Funding Source: MRC / IMPACT DTP
+  education3: Funding Source: MRC | IMPACT DTP
+
 
 - name: Jose Manzano Patron
   photo: jose.jpg
   info: PhD Student, started February 2019
   email: jose.manzanopatron1@nottingham.ac.uk
-  number_educ: 2
+  number_educ: 3
   education1: BSc Electrical and Computer Engineering, University of Madrid, Spain
   education2: MSc Artificial Intelligence, University of Madrid, Spain
-  Funding Source: Precision Imaging Beacon, University of Nottingham
+  education3: Funding Source: Precision Imaging Beacon, University of Nottingham
+  
   
 - name: Asante Ntata
   photo: asante.jpg
   info: PhD Student, started October 2019
   email: asante.ntata@nottingham.ac.uk
-  number_educ: 1
+  number_educ: 2
   education1: BSc Physics, University of Nottingham, UK
-  Funding Source: EPSRC / <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
-
-  
+  education2: Funding Source: EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
