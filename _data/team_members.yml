@@ -44,7 +44,7 @@
   email: elinor.thompson@nottingham.ac.uk
   number_educ: 2
   education1: BSc Physics, University of Cambridge
-  education2: Funding Source: EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
+  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
 
 
 - name: Shaun Warrington
@@ -54,7 +54,7 @@
   number_educ: 3
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Medical Physics, University of Nottingham, UK
-  education3: Funding Source: MRC | IMPACT DTP
+  education3: Funding Source MRC | IMPACT DTP
 
 
 - name: Jose Manzano Patron
@@ -64,7 +64,7 @@
   number_educ: 3
   education1: BSc Electrical and Computer Engineering, University of Madrid, Spain
   education2: MSc Artificial Intelligence, University of Madrid, Spain
-  education3: Funding Source: Precision Imaging Beacon, University of Nottingham
+  education3: Funding Source Precision Imaging Beacon, University of Nottingham
   
   
 - name: Asante Ntata
@@ -73,4 +73,4 @@
   email: asante.ntata@nottingham.ac.uk
   number_educ: 2
   education1: BSc Physics, University of Nottingham, UK
-  education2: Funding Source: EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
+  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
