@@ -14,10 +14,12 @@
   photo: matteo.jpg
   info: Senior Research Fellow, started 10/2018
   email: matteo.bastiani@nottingham.ac.uk
-  number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+  number_educ: 4
+  education1: BSc Electronic N=Engineering, University of Trieste, Italy
+  education2: MSc Clinical Engineering | Cognitive Neuroscience, Maastricht University, NL
+  education3: PhD Maastricht University, NL
+  education4: <a href="https://scholar.google.co.uk/citations?user=fr3BWEAAAAAJ&hl=en">Google Scholar Profile</a> | <a href="https://orcid.org/0000-0002-8436-2919">ORCID</a>
+  
   
   
 - name: Yi Ming Lai 
@@ -55,7 +57,7 @@
   email: shaun.warrington@nottingham.ac.uk
   number_educ: 3
   education1: BSc Physics, University of Leicester, UK
-  education2: MSc Medical Physics, University of Nottingham, UK
+  education2: MSc Clinical Sciences, Newcastle University, UK
   education3: Funding Source MRC | IMPACT DTP
 
 
@@ -64,7 +66,7 @@
   info: PhD Student, started 02/2019
   email: jose.manzanopatron1@nottingham.ac.uk
   number_educ: 3
-  education1: BSc Electrical and Computer Engineering, University of Madrid, Spain
+  education1: BSc Electronic Engineering, University of Madrid, Spain
   education2: MSc Artificial Intelligence, University of Madrid, Spain
   education3: Funding Source Precision Imaging Beacon, University of Nottingham
   
