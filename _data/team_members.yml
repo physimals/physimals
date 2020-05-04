@@ -1,83 +1,74 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+- name: Stam N Sotiropoulos
+  photo: stan.jpg
+  info: Associate Professor
+  email: stamatios.sotiropoulos@nottingham.ac.uk
+  <a href="https://scholar.google.com/citations?user=9p2f6vUAAAAJ&hl=en">Google Scholar Profile</a> | <a href="http://orcid.org/0000-0003-4735-5776">ORCID</a>
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="https://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="https://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="https://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="https://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: BSc Electronics and Computer Engineering, <a href="https://www.ece.tuc.gr/4455.html">Technical University of Crete</a>, Greece
+  education2: MSc Biomedical Engineering, <a href="https://cse.umn.edu/bme">University of Minnesota</a>, USA
+  education3: PhD Neuroimage Analysis, <a href="https://www.nottingham.ac.uk/research/groups/spmic"> University of Nottingham</a>, UK
+  education4: Postdoc <a href="https://www.win.ox.ac.uk>FMRIB Centre</a>, University of Oxford, UK
+  education5: Research Fellow, <a href="https://www.win.ox.ac.uk>FMRIB Centre</a>, University of Oxford, UK
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
+  
+- name: Matteo Bastiani
+  photo: matteo.jpg
+  info: Senior Research Fellow, started Oct 2018
+  email: matteo.bastiani@nottingham.ac.uk
   number_educ: 3
-  education1: Postdoc with <a href="https://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: 
+  education2: 
+  education3: 
+  
+- name: Yi Ming Lai 
+  photo: yiming.jpg
+  info: Post-doctoral Research Associate, started Jan 2020
+  email: 
+  number_educ: 2
+  education1: BSc Mathematics, University of Oxford, UK 
+  education2: D.Phil. University of Oxford, UK 
+ 
+  
+- name: Ali-reza Mohammadinezhad Kisomi 
+  photo: ali.jpg
+  info: Post-doctoral Research Assistant, started May 2018
+  email:Alireza.MohammadinezhadKisomi@nottingham.ac.uk
+  number_educ: 2
+  education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
+  education2: PhD Pattern Recognition, University of Tehran, Iran
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Elinor Thompson
+  photo: ellie.jpg
+  info: PhD Student, started October 2017
+  email: elinor.thompson@nottingham.ac.uk
   number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  education1: BSc Physics, University of Cambridge
+  Funding Source: EPSRC / <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
+- name: Shaun Warrington
+  photo: shaun.jpg
+  info: PhD Student, started January 2018
+  email: shaun.warrington@nottingham.ac.uk
   number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="https://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  education1: BSc Physics, University of Leicester, UK
+  education2: MSc Medical Physics, University of Nottingham, UK
+  Funding Source: MRC / IMPACT DTP
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: Jose Manzano Patron
+  photo: jose.jpg
+  info: PhD Student, started February 2019
+  email: jose.manzanopatron1@nottingham.ac.uk
+  number_educ: 2
+  education1: BSc Electrical and Computer Engineering, University of Madrid, Spain
+  education2: MSc Artificial Intelligence, University of Madrid, Spain
+  Funding Source: Precision Imaging Beacon, University of Nottingham
+  
+- name: Asante Ntata
+  photo: asante.jpg
+  info: PhD Student, started October 2019
+  email: asante.ntata@nottingham.ac.uk
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: BSc Physics, University of Nottingham, UK
+  Funding Source: EPSRC / <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  
