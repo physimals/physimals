@@ -1,18 +1,141 @@
 - title: "XTRACT - Standardised protocols for automated tractography in the human and macaque brain."
   image: dummy.png
   description: ""
-  authors: S Warrington, KL Bryant, AA Khrapitchev, J Sallet, M Charquero-Ballester, G Douaud, S Jbabdi, RB Mars, SN Sotiropoulos
+  authors: Warrington S, Bryant KL, Khrapitchev AA, Sallet J, Charquero-Ballester M, Douaud G, Jbabdi S, Mars RB, Sotiropoulos SN
   link:
     url: https://www.biorxiv.org/content/10.1101/804641v2
     display:  Neuroimage, in press (2020)
   highlight: 0
   news2:
 
+
 - title: "Improved fibre dispersion estimation using b-tensor encoding."
   image: dummy.png
   description: ""
-  authors: M Cottaar, F Szczepankiewicz, M Bastiani, M Hernandez-Fernandez, SN Sotiropoulos, M Nilsson, S Jbabdi
+  authors: Cottaar M, Szczepankiewicz F, Bastiani M, Hernandez-Fernandez M, Sotiropoulos SN, Nilsson M, Jbabdi S 
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.116832
     display: Neuroimage, in press (2020)
   highlight: 0
+
+
+- title: "Towards HCP-Style macaque connectomes: 24-Channel 3T multi-array coil, MRI sequences and preprocessing."
+  image: dummy.png
+  description: ""
+  authors: Autio JA, Glasser MF, Ose T, Donahue CJ, Bastiani M, Ohno M, Kawabata Y, Urushibata Y, Murata K, Nishigori K, Yamaguchi M, Hori Y, Yoshida A, Go Y, Coalson TS, Jbabdi S, Sotiropoulos SN, Kennedy H, Smith S, Van Essen DC, Hayashi T.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2020.116800
+    display: Neuroimage 215: 116800 (2020)
+  highlight: 0
+
+
+- title: "Mechanisms and Risk Factors Contributing to Visual Field Deficits following Stereotactic Laser Amygdalohippocampotomy."
+  image: dummy.png
+  description: ""
+  authors: Voets NL, Alvarez I, Qiu D, Leatherday C, Willie JT, Sotiropoulos S, Gleichgerrcht E, Bonilha L, Pedersen NP, Kadom N, Saindane AM, Gross RE, Drane DL.
+  link:
+    url: https://doi.org/10.1159/000502701
+    display: Stereotactic and Functional Neurosurgery 97:255-265 (2019)
+  highlight: 0
+
+
+- title: "MRS and DTI evidence of progressive posterior cingulate cortex and corpus callosum injury in the hyper-acute phase after Traumatic Brain Injury."
+  image: dummy.png
+  description: ""
+  authors: Lawrence TP, Steel A, Ezra M, Speirs M, Pretorius PM, Douaud G, Sotiropoulos S, Cadoux-Hudson T, Emir UE, Voets NL.
+  link:
+    url: https://doi.org/10.1080/02699052.2019.1584332
+    display: Brain Injury 33:854-868 (2019)
+  highlight: 0
+
+
+- title: "Hierarchical Heterogeneity across Human Cortex Shapes Large-Scale Neural Dynamics."
+  image: dummy.png
+  description: ""
+  authors: Demirtas M, Burt JB, Helmer M, Ji JL, Adkinson BD, Glasser MF, Van Essen DC, Sotiropoulos SN, Anticevic A, Murray JD.
+  link:
+    url: https://doi.org/10.1016/j.neuron.2019.01.017
+    display: Neuron 101:1181-1194 (2019)
+  highlight: 0
+  
+
+- title: "Using GPUs to accelerate computational diffusion MRI: From microstructure estimation to tractography and connectomes."
+  image: dummy.png
+  description: ""
+  authors: Hernandez-Fernandez M, Reguly I, Jbabdi S, Giles M, Smith S, Sotiropoulos SN.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2018.12.015
+    display: Neuroimage 188:598-615 (2019)
+  highlight: 0
+
+
+- title: "Automated processing pipeline for neonatal diffusion MRI in the developing Human Connectome Project."
+  image: dummy.png
+  description: ""
+  authors: Bastiani M, Andersson JLR, Cordero-Grande L, Murgasova M, Hutter J, Price AN, Makropoulos A, Fitzgibbon SP, Hughes E, Rueckert D, Victor S, Rutherford M, Edwards AD, Smith SM, Tournier JD, Hajnal JV, Jbabdi S, Sotiropoulos SN.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2018.05.064
+    display: Neuroimage 185:750-763 (2019)
+  highlight: 0
+  
+
+- title: "How do spatially distinct frequency specific MEG networks emerge from one underlying structural connectome? The role of the structural eigenmodes."
+  image: dummy.png
+  description: ""
+  authors: Tewarie P, Abeysuriya R, Byrne Á, O'Neill GC, Sotiropoulos SN, Brookes MJ, Coombes S.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2018.10.079
+    display: Neuroimage 186:211-220 (2019)
+  highlight: 0
+
+
+- title: "Automated quality control for within and between studies diffusion MRI data using a non-parametric framework for movement and distortion correction."
+  image: dummy.png
+  description: ""
+  authors: Bastiani M, Cottaar M, Fitzgibbon SP, Suri S, Alfaro-Almagro F, Sotiropoulos SN, Jbabdi S, Andersson JLR.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2018.09.073
+    display: Neuroimage 184:801-812 (2019)
+  highlight: 0
+
+
+- title: "Extending the Human Connectome Project across ages: Imaging protocols for the Lifespan Development and Aging projects."
+  image: dummy.png
+  description: ""
+  authors: Harms MP, Somerville LH, Ances BM, Andersson J, Barch DM, Bastiani M, Bookheimer SY, Brown TB, Buckner RL, Burgess GC, Coalson TS, Chappell MA, Dapretto M, Douaud G, Fischl B, Glasser MF, Greve DN, Hodge C, Jamison KW, Jbabdi S, Kandala S, Li X, Mair RW, Mangia S, Marcus D, Mascali D, Moeller S, Nichols TE, Robinson EC, Salat DH, Smith SM, Sotiropoulos SN, Terpstra M, Thomas KM, Tisdall MD, Ugurbil K, van der Kouwe A, Woods RP, Zöllei L, Van Essen DC, Yacoub E.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2018.09.060
+    display: Neuroimage 183:972-984 (2018)
+  highlight: 0
+
+
+- title: "Cognition based bTBI mechanistic criteria; a tool for preventive and therapeutic innovations."
+  image: dummy.png
+  description: ""
+  authors: Garcia-Gonzalez D, Race NS, Voets NL, Jenkins DR, Sotiropoulos SN, Acosta G, Cruz-Haces M, Tang J, Shi R, Jérusalem A.
+  link:
+    url: https://doi.org/10.1038/s41598-018-28271-7
+    display: Scientific Reports 8:10273 (2018)
+  highlight: 0
+
+
+- title: "Whole brain comparative anatomy using connectivity blueprints."
+  image: dummy.png
+  description: ""
+  authors: Mars RB, Sotiropoulos SN, Passingham RE, Sallet J, Verhagen L, Khrapitchev AA, Sibson N, Jbabdi S.
+  link:
+    url: https://doi.org/10.7554/eLife.35237
+    display: Elife 7.pii:e35237 (2018)
+  highlight: 0
+
+
+- title: ""
+  image: dummy.png
+  description: ""
+  authors: 
+  link:
+    url: https://doi.org/
+    display: 
+  highlight: 0
+
+
