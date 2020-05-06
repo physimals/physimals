@@ -15,7 +15,7 @@ human [MRI scanning](#mri-scanning).
 
 ## High Performance Computing 
 
-We have a number of high performance interactive computing **servers**.
+We have a number of high performance **interactive servers**.
 
 These include:
 * A 80-core, 0.5 TB RAM and 4x NVIDIA Tesla K80 GP-GPUs
@@ -25,7 +25,7 @@ We also have access to the Precision Imaging Beacon **HPC cluster**, which
 collectively comprises of:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg}}" width="80%" style="float: right" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg}}" width="80%" style="float: right">
 </figure>
 
 * 14 Compute nodes
@@ -41,7 +41,7 @@ We benefit from access to cutting-edge human **MRI scanners** of the Sir
 Peter Mansfield Imaging Centre.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg}}" width="100%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg}}" width="100%" style="float: left">
 </figure>
 
 These include:

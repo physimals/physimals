@@ -59,8 +59,7 @@ tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI),
 in particular diffusion and functional MRI, to provide principled
 platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
 
-We are located at the University of Nottingham, the birthplace of MRI
-and home to [Sir Peter Mansfield](https://en.wikipedia.org/wiki/Peter_Mansfield). We
+We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield). We
 have a number of national and international collaborations and very
 strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research) group at the [WIN](https://www.win.ox.ac.uk) Centre, University of
 Oxford.
