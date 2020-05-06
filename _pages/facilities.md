@@ -10,7 +10,7 @@ permalink: /facilities
 
 We have access to a number of facilities that allow
 [high performance computing](#high-performance-computing) and
-cutting-edge [MRI scanning](#mri-scanning].
+cutting-edge [MRI scanning](#mri-scanning).
 
 
 ## High Performance Computing 
@@ -18,7 +18,9 @@ cutting-edge [MRI scanning](#mri-scanning].
 We have a number of high performance interactive computing **servers**,
 including:
 
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg}}" class="img-responsive" width="80%" style="float: right" />
+</figure>
 
 * A 80-core, 0.5 TB RAM and 4x NVIDIA Tesla K80 GP-GPUs
 * A 80-core, 0.5 TB RAM and 2x NVIDIA Pascal P100 GP-GPUs
@@ -37,7 +39,9 @@ collectively comprises of:
 We benefit from access to cutting-edge human MRI scanners of the Sir
 Peter Mansfield Imaging Centre.
 
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg}}" class="img-responsive" width="100%" style="float: left" />
+</figure>
 
 These include:
 * 0.5 Tesla Paramed Upright Scanner
