@@ -70,7 +70,7 @@
   
 
 - title: "Hierarchical Heterogeneity across Human Cortex Shapes Large-Scale Neural Dynamics."
-  image: dummy.png
+  image: dynamics.jpg
   description: ""
   authors: Demirtas M, Burt JB, Helmer M, Ji JL, Adkinson BD, Glasser MF, Van Essen DC, Sotiropoulos SN, Anticevic A, Murray JD.
   link:
@@ -120,7 +120,7 @@
 
 
 - title: "Whole brain comparative anatomy using connectivity blueprints."
-  image: dummy.png
+  image: blueprints.jpg
   description: ""
   authors: Mars RB, Sotiropoulos SN, Passingham RE, Sallet J, Verhagen L, Khrapitchev AA, Sibson N, Jbabdi S.
   link:
@@ -211,7 +211,7 @@
 
 
 - title: "Improved tractography using asymmetric fibre orientation distributions."
-  image: dummy.png
+  image: afods.jpg
   description: ""
   authors: Bastiani M, Cottaar M, Dikranian K, Ghosh A, Zhang H, Alexander DC, Behrens TE, Jbabdi S, Sotiropoulos SN.
   link:
@@ -283,7 +283,7 @@
 
 
 - title: "The Human Connectome Project's neuroimaging approach."
-  image: dummy.png
+  image: hcp.jpg
   description: ""
   authors: Glasser MF, Smith SM, Marcus DS, Andersson JL, Auerbach EJ, Behrens TE, Coalson TS, Harms MP, Jenkinson M, Moeller S, Robinson EC, Sotiropoulos SN, Xu J, Yacoub E, Ugurbil K, Van Essen DC.
   link:
@@ -293,7 +293,7 @@
 
 
 - title: "Fusion in diffusion MRI for improved fibre orientation estimation: An application to the 3T and 7T data of the Human Connectome Project"
-  image: dummy.png
+  image: rubix.jpg
   description: ""
   authors: Sotiropoulos SN, Hernández-Fernández M, Vu AT, Andersson JL, Moeller S, Yacoub E, Lenglet C, Ugurbil K, Behrens TEJ, Jbabdi S.
   link:
@@ -303,7 +303,7 @@
 
 
 - title: "Using Diffusion Tractography to Predict Cortical Connection Strength and Distance: A Quantitative Comparison with Tracers in the Monkey"
-  image: dummy.png
+  image: tracers.jpg
   description: ""
   authors: Donahue CJ, Sotiropoulos SN, Jbabdi S, Hernandez-Fernandez M, Behrens TE, Dyrby TB, Coalson T, Kennedy H, Knoblauch K, Van Essen DC, Glasser MF.
   link:
@@ -313,7 +313,7 @@
 
 
 - title: "An integrated approach to correction for off-resonance effects and subject movement in diffusion MR imaging."
-  image: dummy.png
+  image: eddy.jpg
   description: ""
   authors: Andersson JLR, Sotiropoulos SN.
   link:
@@ -373,7 +373,7 @@
 
 
 - title: "Measuring macroscopic brain connections in vivo."
-  image: dummy.png
+  image: conn.png
   description: ""
   authors: Jbabdi S, Sotiropoulos SN, Haber SN, Van Essen DC, Behrens TE.
   link:
@@ -393,7 +393,7 @@
 
 
 - title: "Advances in diffusion MRI acquisition and processing in the Human Connectome Project."
-  image: dummy.png
+  image: hcp_dMRI.jpg
   description: ""
   authors: Sotiropoulos SN, Jbabdi S, Xu J, Andersson JL, Moeller S, Auerbach EJ, Glasser MF, Hernandez M, Sapiro G, Jenkinson M, Feinberg DA, Yacoub E, Lenglet C, Van Essen DC, Ugurbil K, Behrens TE.
   link:
