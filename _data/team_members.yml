@@ -29,17 +29,17 @@
   number_educ: 3
   education1: BSc Mathematics, University of Oxford, UK 
   education2: D.Phil. University of Oxford, UK 
-  education3: Funding Source Wellcome Trust
+  education3: Funding Source Wellcome Trust | <a href="http://orcid.org/0000-0002-5397-8753">ORCID</a>
  
   
-- name: Ali-reza Mohammadinezhad Kisomi 
+- name: Alireza Mohammadi-Nejad
   photo: ali.jpg
   info: Post-doctoral Researcher, started 05/2018
   email: mszam12@exmail.nottingham.ac.uk
   number_educ: 3
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
-  education3: Funding Source NIHR | <a href="https://nottinghambrc.nihr.ac.uk">Nottingham BRC</a>
+  education3: Funding Source NIHR | <a href="https://nottinghambrc.nihr.ac.uk">Nottingham BRC</a> | <a href="http://orcid.org/0000-0002-0710-6700">ORCID</a>
 
 
 - name: Elinor Thompson
@@ -48,7 +48,7 @@
   email: elinor.thompson@nottingham.ac.uk
   number_educ: 2
   education1: BSc Physics, University of Cambridge
-  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a>
+  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a> | <a href="http://orcid.org/0000-0002-3954-9530">ORCID</a>
 
 
 - name: Shaun Warrington
@@ -58,7 +58,7 @@
   number_educ: 3
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Clinical Sciences, Newcastle University, UK
-  education3: Funding Source MRC | IMPACT DTP
+  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact">IMPACT DTP</a> | <a href="https://orcid.org/0000-0002-7198-8162">ORCID</a>
 
 
 - name: Jose Manzano Patron
