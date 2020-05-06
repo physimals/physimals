@@ -53,13 +53,13 @@ imaging technology and data processing platforms for exploring and understanding
 To this end, we develop algorithmic frameworks for analysing
 neuroimaging data and specifically for mapping brain connections and
 tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI), and
-in particular diffusion and functional MRI to provide principled
+in particular diffusion and functional MRI, to provide principled
 platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
 
 We are located at the University of Nottingham, the birthplace of MRI
 and home to [Sir Peter Mansfield](https://en.wikipedia.org/wiki/Peter_Mansfield). We
 have a number of national and international collaborations and very
-strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research) group at the WIN(https://www.win.ox.ac.uk) Centre, University of
+strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research) group at the [WIN](https://www.win.ox.ac.uk) Centre, University of
 Oxford.
 
 We are grateful for funding from the University of Nottingham and the
