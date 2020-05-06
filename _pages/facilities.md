@@ -25,7 +25,7 @@ We also have access to the Precision Imaging Beacon **HPC cluster**, which
 collectively comprises of:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg}}" width="80%" style="float: right">
+<img src="{{ site.url }}{{ site.baseurl }}/images/hpc.jpg}}" width="80%" style="float: right">
 </figure>
 
 * 14 Compute nodes
