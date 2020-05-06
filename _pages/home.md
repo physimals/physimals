@@ -8,7 +8,7 @@ permalink: /
 
 We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) in the
 School of Medicine, University of Nottingham. Our aim is to develop
-imaging technology and data processing platforms for exploring and understanding the brain from a systems perspective.
+imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -74,3 +74,4 @@ the [Wellcome Trust](https://wellcome.ac.uk), and the [UKRI](https://www.ukri.or
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 110px">
 </figure>
 </div>
+
