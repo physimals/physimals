@@ -380,19 +380,113 @@
   highlight: 1
 
 
-- title: ""
+- title: "Normalisation of brain connectivity through compensatory behaviour, despite congenital hand absence."
   image: dummy.png
   description: ""
-  authors:
+  authors: Hahamy A, Sotiropoulos SN, Henderson Slater D, Malach R, Johansen-Berg H, Makin TR.
   link:
-    url: https://doi.org/
-    display:
+    url: https://doi.org/10.7554/eLife.04605
+    display: Elife 4 (2015)
+  highlight: 0
+
+
+- title: "Advances in diffusion MRI acquisition and processing in the Human Connectome Project."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Jbabdi S, Xu J, Andersson JL, Moeller S, Auerbach EJ, Glasser MF, Hernandez M, Sapiro G, Jenkinson M, Feinberg DA, Yacoub E, Lenglet C, Van Essen DC, Ugurbil K, Behrens TE.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2013.05.057
+    display: Neuroimage 80:125-143 (2013)
+  highlight: 1
+
+
+- title: "Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project."
+  image: dummy.png
+  description: ""
+  authors: Uğurbil K, Xu J, Auerbach EJ, Moeller S, Vu AT, Duarte-Carvajalino JM, Lenglet C, Wu X, Schmitter S, Van de Moortele PF, Strupp J, Sapiro G, De Martino F, Wang D, Harel N, Garwood M, Chen L, Feinberg DA, Smith SM, Miller KL, Sotiropoulos SN, Jbabdi S, Andersson JL, Behrens TE, Glasser MF, Van Essen DC, Yacoub E.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2013.05.012
+    display: Neuroimage 80:80-104 (2013)
+  highlight: 0
+
+
+- title: "Accelerating fibre orientation estimation from diffusion weighted magnetic resonance imaging using GPUs."
+  image: dummy.png
+  description: ""
+  authors: Hernández M, Guerrero GD, Cecilia JM, García JM, Inuggi A, Jbabdi S, Behrens TE, Sotiropoulos SN.
+  link:
+    url: https://doi.org/10.1371/journal.pone.0061892
+    display: PLoS One 8:e61892 (2013)
+  highlight: 0
+
+
+- title: "The minimal preprocessing pipelines for the Human Connectome Project."
+  image: dummy.png
+  description: ""
+  authors: Glasser MF, Sotiropoulos SN, Wilson JA, Coalson TS, Fischl B, Andersson JL, Xu J, Jbabdi S, Webster M, Polimeni JR, Van Essen DC, Jenkinson M.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2013.04.127
+    display: Neuroimage 80:105-124 (2013)
   highlight: 0
 
 
 
+- title: "Effects of image reconstruction on fiber orientation mapping from multichannel diffusion MRI: reducing the noise floor using SENSE."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Moeller S, Jbabdi S, Xu J, Andersson JL, Auerbach EJ, Yacoub E, Feinberg D, Setsompop K, Wald LL, Behrens TE, Ugurbil K, Lenglet C.
+  link:
+    url: https://doi.org/10.1002/mrm.24623
+    display: Magnetic Resonance in Medicine 70:1682-9 (2013)
+  highlight: 0
 
 
+- title: "The topographic connectome."
+  image: dummy.png
+  description: ""
+  authors: Jbabdi S, Sotiropoulos SN, Behrens TE.
+  link:
+    url: https://doi.org/10.1016/j.conb.2012.12.004
+    display: Current Opinion on Neurobiology 23:207-215 (2013)
+  highlight: 0
+  
+
+- title: "RubiX: combining spatial resolutions for Bayesian inference of crossing fibers in diffusion MRI."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Jbabdi S, Andersson JL, Woolrich MW, Ugurbil K, Behrens TE.
+  link:
+    url: https://doi.org/10.1109/TMI.2012.2231873
+    display: IEEE Transactions on Medical Imaging 32:969-82 (2013)
+  highlight: 0
 
 
+- title: "Model-based analysis of multishell diffusion MR data for tractography: how to get over fitting problems."
+  image: dummy.png
+  description: ""
+  authors: Jbabdi S, Sotiropoulos SN, Savio AM, Graña M, Behrens TE.
+  link:
+    url: https://doi.org/10.1002/mrm.24204
+    display: Magnetic Resonance in Medicine 68:1846-55 (2012)
+  highlight: 0
+
+
+- title: "Ball and rackets: Inferring fiber fanning from diffusion-weighted MRI."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Behrens TE, Jbabdi S.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2012.01.056
+    display: Neuroimage 60:1412-25 (2012)
+  highlight: 0
+
+
+- title: "Brain tractography using Q-ball imaging and graph theory: Improved connectivities through fibre crossings via a model-based approach."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Bai L, Morgan PS, Constantinescu CS, Tench CR.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2009.10.001
+    display: Neuroimage 49:2444-56 (2010)
+  highlight: 0
 
