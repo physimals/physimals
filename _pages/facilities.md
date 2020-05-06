@@ -23,26 +23,20 @@ These include:
 
 We also have access to the Precision Imaging Beacon **HPC cluster**, which
 collectively comprises of:
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg" width="15%" style="float: right">
-</figure>
-
 * 14 Compute nodes
 * 600 CPU cores 
 * 10 high-end NVIDIA GP-GPUs (6 Volta V100, 4 Pascal P100)
 * 7 TB of memory 
 * 250 TB of storage
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg" width="35%">
+</figure>
 
 
 ## MRI Scanning
 We benefit from access to cutting-edge human **MRI scanners** of the Sir
 Peter Mansfield Imaging Centre.
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg" width="20%" style="float: left">
-</figure>
 
 These include:
 * 0.5 Tesla Paramed Upright Scanner
@@ -53,3 +47,7 @@ These include:
 * 7 Tesla Philips Achieva Scanner 
 
 Full details can be found [here](https://www.nottingham.ac.uk/research/groups/spmic/facilities/facilities.aspx).
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg" width="40%">
+</figure>
