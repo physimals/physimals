@@ -5,7 +5,7 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/804641v2
     display:  Neuroimage, in press (2020)
-  highlight: 0
+  highlight: 1
   news2:
 
 
@@ -46,7 +46,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2018.05.064
     display: Neuroimage 185:750-763 (2019)
-  highlight: 0
+  highlight: 1
   
 
 - title: "MRS and DTI evidence of progressive posterior cingulate cortex and corpus callosum injury in the hyper-acute phase after Traumatic Brain Injury."
@@ -76,7 +76,7 @@
   link:
     url: https://doi.org/10.1016/j.neuron.2019.01.017
     display: Neuron 101:1181-1194 (2019)
-  highlight: 0
+  highlight: 1
 
   
 - title: "How do spatially distinct frequency specific MEG networks emerge from one underlying structural connectome? The role of the structural eigenmodes."
@@ -207,7 +207,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2017.06.050
     display: Neuroimage 158:205-218 (2017)
-  highlight: 0
+  highlight: 1
 
 
 - title: "Building connectomes using diffusion MRI: why, how and but."
@@ -287,7 +287,7 @@
   link:
     url: https://doi.org/10.1038/nn.4361
     display: Nature Neuroscience 19:1175-87 (2016)
-  highlight: 0
+  highlight: 1
 
 
 - title: "Using Diffusion Tractography to Predict Cortical Connection Strength and Distance: A Quantitative Comparison with Tracers in the Monkey"
@@ -297,7 +297,7 @@
   link:
     url: https://doi.org/10.1523/JNEUROSCI.0493-16
     display: Journal of Neuroscience 36:6758-70 (2016)
-  highlight: 0
+  highlight: 1
 
 
 - title: "Fusion in diffusion MRI for improved fibre orientation estimation: An application to the 3T and 7T data of the Human Connectome Project"
@@ -307,7 +307,77 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2016.04.014
     display: Neuroimage 134:396-409 (2016)
+  highlight: 1
+
+
+- title: "An integrated approach to correction for off-resonance effects and subject movement in diffusion MR imaging."
+  image: dummy.png
+  description: ""
+  authors: Andersson JLR, Sotiropoulos SN.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2015.10.019
+    display: Neuroimage 125:1063-1078 (2016) . doi: 10.1016/j.neuroimage.2015.10.019.
+  highlight: 1
+
+
+- title: "A probabilistic atlas of the cerebellar white matter."
+  image: dummy.png
+  description: ""
+  authors: van Baarsen KM, Kleinnijenhuis M, Jbabdi S, Sotiropoulos SN, Grotenhuis JA, van Cappellen van Walsum AM.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2015.09.014
+    display: Neuroimage 124:724-732 (2016)
   highlight: 0
+
+
+- title: "Structural Organization of the Corpus Callosum Predicts Attentional Shifts after Continuous Theta Burst Stimulation."
+  image: dummy.png
+  description: ""
+  authors: Chechlacz M, Humphreys GW, Sotiropoulos SN, Kennard C, Cazzoli D.
+  link:
+    url: https://doi.org/10.1523/JNEUROSCI.2610-15.2015
+    display: Journal of Neuroscience 35:15353-68 (2015)
+  highlight: 0
+
+
+- title: "High resolution whole brain diffusion imaging at 7T for the Human Connectome Project."
+  image: dummy.png
+  description: ""
+  authors: Vu AT, Auerbach E, Lenglet C, Moeller S, Sotiropoulos SN, Jbabdi S, Andersson J, Yacoub E, Ugurbil K.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2015.08.004
+    display: Neuroimage 122:318-331 (2015)
+  highlight: 0
+
+
+- title: "Spherical Deconvolution of Multichannel Diffusion MRI Data with Non-Gaussian Noise Models and Spatial Regularization."
+  image: dummy.png
+  description: ""
+  authors: Canales-Rodríguez EJ, Daducci A, Sotiropoulos SN, Caruyer E, Aja-Fernández S, Radua J, Yurramendi Mendizabal JM, Iturria-Medina Y, Melie-García L, Alemán-Gómez Y, Thiran JP, Sarró S, Pomarol-Clotet E, Salvador R.
+  link:
+    url: https://doi.org/10.1371/journal.pone.0138910
+    display: PLoS One 10:e0138910 (2015)
+  highlight: 0
+
+
+- title: "Non-parametric representation and prediction of single- and multi-shell diffusion-weighted MRI data using Gaussian processes"
+  image: dummy.png
+  description: ""
+  authors: Andersson JL, Sotiropoulos SN.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2015.07.067
+    display: Neuroimage 122:166-176 (201)
+  highlight: 0
+
+
+- title: "Measuring macroscopic brain connections in vivo."
+  image: dummy.png
+  description: ""
+  authors: Jbabdi S, Sotiropoulos SN, Haber SN, Van Essen DC, Behrens TE.
+  link:
+    url: https://doi.org/10.1038/nn.4134
+    display: Nature Neuroscience 18:1546-55 (2015)
+  highlight: 1
 
 
 - title: ""
@@ -316,5 +386,13 @@
   authors:
   link:
     url: https://doi.org/
-    display: (201)
+    display:
   highlight: 0
+
+
+
+
+
+
+
+

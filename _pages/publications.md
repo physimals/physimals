@@ -9,7 +9,13 @@ permalink: /publications/
 
 # Publications
 
-## Journal Papers 
+## Highlights
+
+(For a full list see [below](#journal-papers-full-list) or go to
+[Pubmed Search](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Sotiropoulos+SN+[au]+)+|+(Sotiropoulos+Stamatios+[au]))
+
+
+## Journal Papers Full list
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
