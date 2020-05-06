@@ -10,23 +10,24 @@ permalink: /facilities
 
 We have access to a number of facilities that allow
 [high performance computing](#high-performance-computing) and
-cutting-edge [MRI scanning](#mri-scanning).
+human [MRI scanning](#mri-scanning).
 
 
 ## High Performance Computing 
 
-We have a number of high performance interactive computing **servers**,
-including:
+We have a number of high performance interactive computing **servers**.
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg}}" class="img-responsive" width="80%" style="float: right" />
-</figure>
-
+These include:
 * A 80-core, 0.5 TB RAM and 4x NVIDIA Tesla K80 GP-GPUs
 * A 80-core, 0.5 TB RAM and 2x NVIDIA Pascal P100 GP-GPUs
 
-We also have access to the Precision Imaging Beacon HPC **cluster**, which
+We also have access to the Precision Imaging Beacon **HPC cluster**, which
 collectively comprises of:
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg}}" width="80%" style="float: right" >
+</figure>
+
 * 14 Compute nodes
 * 600 CPU cores 
 * 10 high-end NVIDIA GP-GPUs (6 Volta V100, 4 Pascal P100)
@@ -36,11 +37,11 @@ collectively comprises of:
 
 
 ## MRI Scanning
-We benefit from access to cutting-edge human MRI scanners of the Sir
+We benefit from access to cutting-edge human **MRI scanners** of the Sir
 Peter Mansfield Imaging Centre.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg}}" class="img-responsive" width="100%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg}}" width="100%" style="float: left" />
 </figure>
 
 These include:
