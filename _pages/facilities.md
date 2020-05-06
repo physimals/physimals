@@ -25,7 +25,7 @@ We also have access to the Precision Imaging Beacon **HPC cluster**, which
 collectively comprises of:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/hpc.jpg}}" width="80%" style="float: right">
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg" width="80%" style="float: right">
 </figure>
 
 * 14 Compute nodes
@@ -41,7 +41,7 @@ We benefit from access to cutting-edge human **MRI scanners** of the Sir
 Peter Mansfield Imaging Centre.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg}}" width="100%" style="float: left">
+<img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg" width="100%" style="float: left">
 </figure>
 
 These include:
