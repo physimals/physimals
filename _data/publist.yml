@@ -200,6 +200,16 @@
   highlight: 0
 
 
+- title: "Building connectomes using diffusion MRI: why, how and but."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Zalesky A.
+  link:
+    url: https://doi.org/10.1002/nbm.3752
+    display: NMR in Biomedicine 32:e3752 (2017)
+  highlight: 0
+
+
 - title: "Improved tractography using asymmetric fibre orientation distributions."
   image: dummy.png
   description: ""
@@ -210,14 +220,15 @@
   highlight: 1
 
 
-- title: "Building connectomes using diffusion MRI: why, how and but."
+- title: "Time-efficient and flexible design of optimized multishell HARDI diffusion."
   image: dummy.png
   description: ""
-  authors: Sotiropoulos SN, Zalesky A.
+  authors: Hutter J, Tournier JD, Price AN, Cordero-Grande L, Hughes EJ, Malik S, Steinweg J, Bastiani M, Sotiropoulos SN, Jbabdi S, Andersson J, Edwards AD, Hajnal JV.
   link:
-    url: https://doi.org/10.1002/nbm.3752
-    display: NMR in Biomedicine 32:e3752 (2017)
+    url: https://doi.org/10.1002/mrm.26765
+    display: Magnetic Resonance in Medicine 79:1276-1292 (2017)
   highlight: 0
+
 
 
 - title: "Evaluating fibre orientation dispersion in white matter: Comparison of diffusion MRI, histology and polarized light imaging."
@@ -229,15 +240,6 @@
     display: Neuroimage 157:561-574 (2017)
   highlight: 0
 
-
-- title: "Time-efficient and flexible design of optimized multishell HARDI diffusion."
-  image: dummy.png
-  description: ""
-  authors: Hutter J, Tournier JD, Price AN, Cordero-Grande L, Hughes EJ, Malik S, Steinweg J, Bastiani M, Sotiropoulos SN, Jbabdi S, Andersson J, Edwards AD, Hajnal JV.
-  link:
-    url: https://doi.org/10.1002/mrm.26765
-    display: Magnetic Resonance in Medicine 79:1276-1292 (2017)
-  highlight: 0
 
 
 - title: "Studying neuroanatomy using MRI."
@@ -290,16 +292,6 @@
   highlight: 1
 
 
-- title: "Using Diffusion Tractography to Predict Cortical Connection Strength and Distance: A Quantitative Comparison with Tracers in the Monkey"
-  image: dummy.png
-  description: ""
-  authors: Donahue CJ, Sotiropoulos SN, Jbabdi S, Hernandez-Fernandez M, Behrens TE, Dyrby TB, Coalson T, Kennedy H, Knoblauch K, Van Essen DC, Glasser MF.
-  link:
-    url: https://doi.org/10.1523/JNEUROSCI.0493-16
-    display: Journal of Neuroscience 36:6758-70 (2016)
-  highlight: 1
-
-
 - title: "Fusion in diffusion MRI for improved fibre orientation estimation: An application to the 3T and 7T data of the Human Connectome Project"
   image: dummy.png
   description: ""
@@ -307,6 +299,16 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2016.04.014
     display: Neuroimage 134:396-409 (2016)
+  highlight: 1
+
+
+- title: "Using Diffusion Tractography to Predict Cortical Connection Strength and Distance: A Quantitative Comparison with Tracers in the Monkey"
+  image: dummy.png
+  description: ""
+  authors: Donahue CJ, Sotiropoulos SN, Jbabdi S, Hernandez-Fernandez M, Behrens TE, Dyrby TB, Coalson T, Kennedy H, Knoblauch K, Van Essen DC, Glasser MF.
+  link:
+    url: https://doi.org/10.1523/JNEUROSCI.0493-16
+    display: Journal of Neuroscience 36:6758-70 (2016)
   highlight: 1
 
 
@@ -400,6 +402,17 @@
   highlight: 1
 
 
+- title: "Effects of image reconstruction on fiber orientation mapping from multichannel diffusion MRI: reducing the noise floor using SENSE."
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Moeller S, Jbabdi S, Xu J, Andersson JL, Auerbach EJ, Yacoub E, Feinberg D, Setsompop K, Wald LL, Behrens TE, Ugurbil K, Lenglet C.
+  link:
+    url: https://doi.org/10.1002/mrm.24623
+    display: Magnetic Resonance in Medicine 70:1682-9 (2013)
+  highlight: 0
+
+
+
 - title: "Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project."
   image: dummy.png
   description: ""
@@ -430,17 +443,6 @@
   highlight: 0
 
 
-
-- title: "Effects of image reconstruction on fiber orientation mapping from multichannel diffusion MRI: reducing the noise floor using SENSE."
-  image: dummy.png
-  description: ""
-  authors: Sotiropoulos SN, Moeller S, Jbabdi S, Xu J, Andersson JL, Auerbach EJ, Yacoub E, Feinberg D, Setsompop K, Wald LL, Behrens TE, Ugurbil K, Lenglet C.
-  link:
-    url: https://doi.org/10.1002/mrm.24623
-    display: Magnetic Resonance in Medicine 70:1682-9 (2013)
-  highlight: 0
-
-
 - title: "The topographic connectome."
   image: dummy.png
   description: ""
@@ -461,16 +463,6 @@
   highlight: 0
 
 
-- title: "Model-based analysis of multishell diffusion MR data for tractography: how to get over fitting problems."
-  image: dummy.png
-  description: ""
-  authors: Jbabdi S, Sotiropoulos SN, Savio AM, Graña M, Behrens TE.
-  link:
-    url: https://doi.org/10.1002/mrm.24204
-    display: Magnetic Resonance in Medicine 68:1846-55 (2012)
-  highlight: 0
-
-
 - title: "Ball and rackets: Inferring fiber fanning from diffusion-weighted MRI."
   image: dummy.png
   description: ""
@@ -478,6 +470,16 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2012.01.056
     display: Neuroimage 60:1412-25 (2012)
+  highlight: 0
+
+
+- title: "Model-based analysis of multishell diffusion MR data for tractography: how to get over fitting problems."
+  image: dummy.png
+  description: ""
+  authors: Jbabdi S, Sotiropoulos SN, Savio AM, Graña M, Behrens TE.
+  link:
+    url: https://doi.org/10.1002/mrm.24204
+    display: Magnetic Resonance in Medicine 68:1846-55 (2012)
   highlight: 0
 
 
