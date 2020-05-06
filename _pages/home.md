@@ -50,16 +50,17 @@ imaging technology and data processing platforms for exploring and understanding
 </div>
 
 
-
-
-To this end, we develop ...  (see [Research](research)).
+To this end, we develop algorithmic frameworks for analysing
+neuroimaging data and specifically for mapping brain connections and
+tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI), and
+in particular diffusion and functional MRI to provide principled
+platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
 
 We are located at the University of Nottingham, the birthplace of MRI
-and home to
-[Sir Peter Mansfield](https://en.wikipedia.org/wiki/Peter_Mansfield). We
-exchange ideas and work with our neighbors from ... , as well as with
-the colleagues from ... WIN.
-
+and home to [Sir Peter Mansfield](https://en.wikipedia.org/wiki/Peter_Mansfield). We
+have a number of national and international collaborations and very
+strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research) group at the WIN(https://www.win.ox.ac.uk) Centre, University of
+Oxford.
 
 We are grateful for funding from the University of Nottingham and the
 [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx),
@@ -68,6 +69,6 @@ the [Wellcome Trust](https://wellcome.ac.uk), and the [UKRI](https://www.ukri.or
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WT.jpg" style="width: 54px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 110px">
 </figure>
