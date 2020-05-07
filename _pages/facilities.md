@@ -13,7 +13,7 @@ We have access to a number of facilities that allow
 human [MRI scanning](#mri-scanning).
 
 
-## High Performance Computing 
+### High Performance Computing 
 
 We have a number of high performance **interactive servers**.
 
@@ -36,7 +36,7 @@ collectively comprises of:
 <p> &nbsp; </p>
 
 
-## MRI Scanning
+### MRI Scanning
 We benefit from access to cutting-edge human **MRI scanners** of the Sir
 Peter Mansfield Imaging Centre.
 

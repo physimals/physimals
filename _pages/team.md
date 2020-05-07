@@ -110,7 +110,7 @@ Jump to [staff](#staff), [alumni](#alumni), [lab affiliates](#lab-affiliates),[c
 {% endif %}
 
 
-## Lab affiliates
+## Lab Affiliates
 
 <div class="col-sm-4 clearfix">
 {% for member in site.data.alumni_visitors %}
@@ -120,5 +120,14 @@ Jump to [staff](#staff), [alumni](#alumni), [lab affiliates](#lab-affiliates),[c
 
 
 ## Collaborators
+Saad Jbabdi, University of Oxford, UK <br>
+Alan Anticevic, Yale University, USA <br>
+Matthew Glasser, Washington University - St Louis, USA <br>
+Stephen Smith, University of Oxford, UK <br>
+Stephen Coombes, University of Nottingham, UK <br>
+Mark Jenkinson, University of Adelaide, Australia <br>
+Daniel Alexander, University College London, UK <br>
+Takuya Hayashi, RIKEN, Japan <br>
+Rogier Mars, University of Oxford, UK <br>
 
 <p> &nbsp; </p>

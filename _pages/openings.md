@@ -16,3 +16,5 @@ There are PhD and Postdoc scholarships available.  I'd be happy to support you t
 
 ### Master projects 
 If you are a Master's student at University of Nottingham looking for a project, contact me (or any group member) via email or stop by my office.
+
+<p> &nbsp; </p>
