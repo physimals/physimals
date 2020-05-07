@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) in the
-School of Medicine, University of Nottingham. Our aim is to develop
-imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
+We are a dynamic research group at the <a href="https://www.nottingham.ac.uk/research/groups/spmic/index.aspx" target="_blank">Sir Peter Mansfield Imaging Centre</a> in the School of Medicine, University of Nottingham. Our aim is to develop imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -53,20 +51,13 @@ imaging technology and image processing platforms for exploring and understandin
 </div>
 
 
-To this end, we develop algorithmic frameworks for analysing
-neuroimaging data and specifically for mapping brain connections and
-tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI), and
-in particular diffusion and functional MRI, to provide principled
-platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
+To this end, we develop algorithmic frameworks for analysing neuroimaging data and specifically for mapping brain connections and tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI), and in particular diffusion and functional MRI, to provide principled platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
 
-We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield){:target="_blank"}. We
-have a number of national and international collaborations and very
-strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research){:target="_blank"} group at the [WIN](https://www.win.ox.ac.uk){:target="_blank"} Centre, University of
-Oxford.
+We are located at the University of Nottingham, the <a href="https://en.wikipedia.org/wiki/Peter_Mansfield" target="_blank">birthplace of MRI</a>. We have a number of national and international collaborations and very
+strong links with the <a href="https://www.win.ox.ac.uk/research/analysis-research" target="_blank">Analysis</a> group at the <a href="https://www.win.ox.ac.uk" target="_blank">WIN</a> Centre, University of Oxford.
 
 We are grateful for funding from the University of Nottingham and the
-[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"},
-the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](https://www.ukri.org){:target="_blank"}.
+<a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx" target="_blank">Precision Imaging Beacon]</a>, the <a href="https://wellcome.ac.uk" target="_blank">Wellcome Trust</a>, and the <a href="https://www.ukri.org" target="_blank">UKRI</a>.
 
 <div markdown="1" class="center">
 <figure class="fourth">
