@@ -10,10 +10,6 @@ permalink: /software
 
 We have a track record of developing software for brain image
 processing and analysis.
-A number of our tools are publicly released
-through [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki){:target="_blank"}, one of the
-de-facto software standards for multi-modal neuroimage processing,
-used by thousands of researchers in hundreds of institutions worldwide.
 
 [FSL](#fsl-toolboxes), [HCP WM Atlases](#hcp-white-matter-atlases), [CUDIMOT](#cudimot), [NMF-mapper](#nmf-for-data-driven-mapping-of-structural-connections),
 [Pipelines and Data](#processing-pipelines-and-data)
@@ -24,7 +20,10 @@ used by thousands of researchers in hundreds of institutions worldwide.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/FSL_logo.jpg" width="15%">
 </figure>
 
-We have led the development or contributed to a number of FSL toolboxes, including:
+We have led the development or contributed to a number of toolboxes that are publicly released through [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki){:target="_blank"}, one of the
+de-facto software standards for multi-modal neuroimage processing,
+used by thousands of researchers in hundreds of institutions
+worldwide. These include:
 * [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT){:target="_blank"},
   for automated tractography in the human and non-human primate brain
 * [Bedpostx / Bedpostx_gpu](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide#BEDPOSTX){:target="_blank"},
