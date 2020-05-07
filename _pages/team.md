@@ -9,7 +9,8 @@ permalink: /team/
 # Group Members
 
 
-Jump to [staff](#staff), [alumni](#alumni), [lab affiliates](#lab-affiliates),[collaborators](#collaborators).
+Jump to [staff](#staff), [alumni](#alumni),
+[lab affiliates](#lab-affiliates), [collaborators](#collaborators).
 
 
 ## Staff
@@ -118,7 +119,7 @@ Jump to [staff](#staff), [alumni](#alumni), [lab affiliates](#lab-affiliates),[c
 {% endfor %}
 </div>
 
-
+<p>
 ## Collaborators
 Saad Jbabdi, University of Oxford, UK <br>
 Alan Anticevic, Yale University, USA <br>
