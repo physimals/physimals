@@ -31,7 +31,7 @@ See full list of [journal papers](#journal-papers-full-list) and
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="45%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
  </div>
 </div>
@@ -58,7 +58,7 @@ See full list of [journal papers](#journal-papers-full-list) and
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
 
 {% endfor %}
 
@@ -76,3 +76,5 @@ Mapping connections in humans and non-human primates: aspirations and challenges
 <em>Van Essen DC, Jbabdi S, Sotiropoulos SN, Chen C, Dikranian K,
 Coalson T, Harwell H, Behrens TE, Glasser MF</em><br />
 [In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013]("https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"){:target="_blank"}
+
+<p> &nbsp; </p>
