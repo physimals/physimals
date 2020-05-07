@@ -8,7 +8,7 @@ permalink: /software
 
 # Software
 
-We have a long track record of developing software for image
+We have a track record of developing software for brain image
 processing and analysis. A number of our tools are publicly released
 through [FSL]{https://fsl.fmrib.ox.ac.uk/fsl/fslwiki}, one of the
 de-facto software standards for multi-modal neuroimage processing,
@@ -48,7 +48,7 @@ to a GPU binary.
 <hr>
 <p> &nbsp; </p>
 
-### Pipelines
+### Processing Pipelines and Data
 
 * HCP Pipelines
 * UK Biobank Pipelines
