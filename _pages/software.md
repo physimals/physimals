@@ -40,6 +40,9 @@ for distortion, outlier, motion correction
 
 ### HCP White Matter Atlases
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_wm.jpg" width="15%">
+</figure>
 <hr>
 
 
