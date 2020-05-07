@@ -110,6 +110,8 @@ Jump to [staff](#staff), [alumni](#alumni),
 </div>
 {% endif %}
 
+<p> &nbsp; </p>
+
 
 ## Lab Affiliates
 {% assign number_printed = 0 %}
@@ -142,6 +144,8 @@ Jump to [staff](#staff), [alumni](#alumni),
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<p> &nbsp; </p>
 
 ## Collaborators
 Saad Jbabdi, University of Oxford, UK <br>
