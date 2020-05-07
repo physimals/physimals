@@ -10,6 +10,7 @@ We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](http
 School of Medicine, University of Nottingham. Our aim is to develop
 imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
 
+<p> &nbsp; </p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -51,6 +52,8 @@ imaging technology and image processing platforms for exploring and understandin
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<p> &nbsp; </p>
 
 
 To this end, we develop algorithmic frameworks for analysing
