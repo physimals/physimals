@@ -35,6 +35,10 @@ for distortion, outlier, motion correction
 
 <hr>
 
+### HCP White Matter Atlases
+
+<hr>
+
 
 ### CUDIMOT
 <figure>
@@ -63,6 +67,7 @@ NODDI-Bingham models [here](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.
 * HCP Pipelines
 * UK Biobank Pipelines
 * dHCP Pipelines
+*QuNEX
 
 Multimodal image processing pipelines
 
