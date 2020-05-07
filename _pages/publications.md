@@ -77,4 +77,5 @@ Mapping connections in humans and non-human primates: aspirations and challenges
 Coalson T, Harwell H, Behrens TE, Glasser MF</em><br />
 [In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013]("https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"){:target="_blank"}
 
+
 <p> &nbsp; </p>
