@@ -11,8 +11,8 @@ permalink: /software
 We have a track record of developing and publicly releasing software
 for neuro-image processing and analysis.
 
-[FSL](#fsl-toolboxes), [HCP WM Atlases](#hcp-white-matter-atlases), [CUDIMOT](#cudimot), [NMF-mapper](#nmf-for-data-driven-mapping-of-structural-connections),
-[Pipelines and Data](#processing-pipelines-and-data)
+[FSL](#fsl-toolboxes), [HCP WM Atlases](#hcp-white-matter-atlases),
+[CUDIMOT](#cudimot), [NFacT](#nfact), [Pipelines and Data](#processing-pipelines-and-data)
 
 
 ### FSL Toolboxes
@@ -50,7 +50,7 @@ for distortion, outlier, motion correction
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot.jpg" width="15%">
 </figure>
 
-CUDIMOT is a C front-end that allows the definition and fitting of
+The CUda DIffusion MOdeling Toolbox (CUDIMOT) is a C front-end that allows the definition and fitting of
 non-linear voxelwise models to MRI data using CUDA and GPUs (see
 relevant [paper](https://doi.org/10.1016/j.neuroimage.2018.12.015)). The user
 needs only to specify a cost function and model fitting
@@ -67,20 +67,20 @@ are available.
 
 <hr>
 
-### NMF for data driven mapping of structural connections
+### NFacT
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/nmf.jpg" width="15%">
 </figure>
 
-Our framework for performing data-driven decomposition of
-whole-brain tractography data uses non-negative matrix factorisation
-(NMF). This allows concurrent delineation of white matter (WM) bundles
+NFacT (Non-negative matrix FACtorisation of Tractography data) is a framework for performing data-driven decomposition of
+whole-brain tractography. This allows concurrent delineation of white matter (WM) bundles
 and grey matter (GM) networks (see relevant
 [paper](https://www.biorxiv.org/content/10.1101/2020.03.09.965079v1)). We
 also allow non-negative dual regression for projecting group-wise
 WM/GM components to individual subjects.
 
-[NMF routines](https://github.com/ethompson93/Data-driven-tractography) in python are available.
+[NFacT routines](https://github.com/ethompson93/Data-driven-tractography)
+are available in python.
 
 <hr>
 
