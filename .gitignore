@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+downloads/.DS_Store
+images/.DS_Store
+images/facilities/.DS_Store
+images/.DS_Store
