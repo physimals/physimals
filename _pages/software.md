@@ -17,15 +17,15 @@ used by thousands of researchers in hundreds of institutions worldwide.
 
 ### FSL Toolboxes
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/FSL_logo.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/FSL_logo.jpg" width="25%">
 </figure>
 
 We have led the development or contributed to a number of FSL toolboxes, including:
-*XTRACT
-*eddy_qc
-*bedpostx / bedpostx_gpu
-*probtrackx / probtrackx_gpu
-*eddy
+* XTRACT
+* eddy_qc
+* bedpostx / bedpostx_gpu
+* probtrackx / probtrackx_gpu
+* eddy
 
 <hr>
 <p> &nbsp; </p>
