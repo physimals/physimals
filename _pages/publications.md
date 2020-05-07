@@ -13,7 +13,7 @@ permalink: /publications/
 
 See full list of [journal papers](#journal-papers-full-list) and
 [book chapters](#book-chapters) or go to
-[Pubmed Search](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Sotiropoulos+SN+[au]+)+|+(Sotiropoulos+Stamatios+[au])).
+[Pubmed Search](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Sotiropoulos+SN+[au]+)+|+(Sotiropoulos+Stamatios+[au])){:target="_blank"}.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -69,14 +69,10 @@ See full list of [journal papers](#journal-papers-full-list) and
 
 MR diffusion tractography.  <br />
 <em> TEJ Behrens, SN Sotiropoulos, S Jbabdi</em><br />
-<a
-href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1">
-In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
+[In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013]("https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"){:target="_blank"}
 
 
 Mapping connections in humans and non-human primates: aspirations and challenges for diffusion imaging. <br />
 <em>Van Essen DC, Jbabdi S, Sotiropoulos SN, Chen C, Dikranian K,
 Coalson T, Harwell H, Behrens TE, Glasser MF</em><br />
-<a
-href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1">In
-Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
+[In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013]("https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"){:target="_blank"}
