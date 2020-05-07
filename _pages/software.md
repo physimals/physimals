@@ -9,10 +9,14 @@ permalink: /software
 # Software
 
 We have a track record of developing software for brain image
-processing and analysis. A number of our tools are publicly released
+processing and analysis.
+A number of our tools are publicly released
 through [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki){:target="_blank"}, one of the
 de-facto software standards for multi-modal neuroimage processing,
 used by thousands of researchers in hundreds of institutions worldwide.
+
+[FSL](#fsl-toolboxes), [HCP WM Atlases](#hcp-white-matter-atlases), [CUDIMOT](#cudimot), [NMF-mapper](#nmf-for-data-driven-mapping-of-structural-connections),
+[Pipelines and Data](#processing-pipelines-and-data)
 
 
 ### FSL Toolboxes
@@ -57,7 +61,7 @@ NODDI-Bingham models [here](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.
 
 <hr>
 
-### NMF for data-driven mapping of structural connections
+### NMF for data driven mapping of structural connections
 
 <hr>
 <p> &nbsp; </p>
