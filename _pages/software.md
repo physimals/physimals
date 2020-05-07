@@ -58,8 +58,9 @@ options (determinsitic, stochastic, priors, noise model) and the
 software translates these choices to CUDA code, which is then compiled
 to a GPU binary. 
 
-You can obtain CUDIMOT and precompiled binaries for NODDI-Watson and 
-NODDI-Bingham models [here](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}.
+[CUDIMOT and precompiled binaries for NODDI-Watson and 
+NODDI-Bingham models](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}
+are available.
 
 <hr>
 
