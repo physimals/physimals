@@ -8,8 +8,8 @@ permalink: /software
 
 # Software
 
-We have a track record of developing software for brain image
-processing and analysis.
+We have a track record of developing and publicly releasing software
+for research that involves brain image processing and analysis.
 
 [FSL](#fsl-toolboxes), [HCP WM Atlases](#hcp-white-matter-atlases), [CUDIMOT](#cudimot), [NMF-mapper](#nmf-for-data-driven-mapping-of-structural-connections),
 [Pipelines and Data](#processing-pipelines-and-data)
@@ -52,11 +52,14 @@ for distortion, outlier, motion correction
 </figure>
 
 CUDIMOT is a front-end that allows the definition and fitting of
-non-linear voxelwise models to MRI data using CUDA and GPUs. The user
-needs only to specify the cost function and the required model fitting
-options (determinsitic, stochastic, priors, noise model) and the
+non-linear voxelwise models to MRI data using CUDA and GPUs (see
+relevant [paper](https://doi.org/10.1016/j.neuroimage.2018.12.015)). The user
+needs only to specify a cost function and model fitting
+options (deterministic nonlinear fitting-Levenberg Marquardt, Bayesian fitting-MCMC, priors, noise model) and the
 software translates these choices to CUDA code, which is then compiled
-to a GPU binary. 
+to binary that performs model fitting and can run on GPUs. The toolbox
+has been made with tissue microstructure models for diffusion MRI data
+in mind, but it can be used for any voxel-wise model of MRI data. 
 
 [CUDIMOT and precompiled binaries for NODDI-Watson and 
 NODDI-Bingham models](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}
@@ -70,7 +73,15 @@ are available.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/nmf.jpg" width="15%">
 </figure>
 
-[https://github.com/ethompson93/Data-driven-tractography](https://github.com/ethompson93/Data-driven-tractography)
+We have devised a framework for performing data-driven decomposition of
+whole-brain tractography data using non-negative matrix factorisation
+(NMF). This allows concurrent delineation of white matter bundles
+and grey matter networks(see relevant
+[paper](https://www.biorxiv.org/content/10.1101/2020.03.09.965079v1)). We
+also allow non-negative dual regression for projecting group-wise
+components to individual subjects.
+
+[NMF routines](https://github.com/ethompson93/Data-driven-tractography) in python are available.
 
 <hr>
 
