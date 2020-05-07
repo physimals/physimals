@@ -17,7 +17,7 @@ used by thousands of researchers in hundreds of institutions worldwide.
 
 ### FSL Toolboxes
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/FSL_logo.jpg" width="20%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/FSL_logo.jpg" width="15%">
 </figure>
 
 We have led the development or contributed to a number of FSL toolboxes, including:
@@ -34,10 +34,13 @@ for distortion, outlier, motion correction
   for quality control and assessment of diffusion MRI data.
 
 <hr>
-<p> &nbsp; </p>
 
 
 ### CUDIMOT
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot.jpg" width="15%">
+</figure>
+
 CUDIMOT is a front-end that allows the definition and fitting of
 non-linear voxelwise models to MRI data using CUDA and GPUs. The user
 needs only to specify the cost function and the required model fitting
@@ -49,7 +52,6 @@ You can obtain CUDIMOT and precompiled binaries for NODDI-Watson and
 NODDI-Bingham models [here](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}.
 
 <hr>
-<p> &nbsp; </p>
 
 ### NMF for data-driven mapping of structural connections
 
