@@ -112,6 +112,9 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 
 ## Lab Affiliates
+Stefan Pszczolkowski Parraguez<br>
+
+Sam Cox <br>
 
 <p> &nbsp; </p>
 
