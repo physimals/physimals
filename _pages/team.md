@@ -119,7 +119,8 @@ Jump to [staff](#staff), [alumni](#alumni),
 {% endfor %}
 </div>
 
-<p>
+<p></p>
+
 ## Collaborators
 Saad Jbabdi, University of Oxford, UK <br>
 Alan Anticevic, Yale University, USA <br>
