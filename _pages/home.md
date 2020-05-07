@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) in the
+We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"} in the
 School of Medicine, University of Nottingham. Our aim is to develop
 imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
 
@@ -59,14 +59,14 @@ tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI),
 in particular diffusion and functional MRI, to provide principled
 platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
 
-We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield). We
+We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield){:target="_blank"}. We
 have a number of national and international collaborations and very
-strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research) group at the [WIN](https://www.win.ox.ac.uk) Centre, University of
+strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research){:target="_blank"} group at the [WIN](https://www.win.ox.ac.uk){:target="_blank"} Centre, University of
 Oxford.
 
 We are grateful for funding from the University of Nottingham and the
-[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx),
-the [Wellcome Trust](https://wellcome.ac.uk), and the [UKRI](https://www.ukri.org).
+[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"},
+the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](https://www.ukri.org){:target="_blank"}.
 
 <div markdown="1" class="center">
 <figure class="fourth">
