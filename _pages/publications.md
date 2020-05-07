@@ -62,6 +62,8 @@ See full list of [journal papers](#journal-papers-full-list) and
 
 {% endfor %}
 
+<p> &nbsp; </p>
+
 
 ## Book Chapters
 
