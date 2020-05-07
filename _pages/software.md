@@ -65,16 +65,18 @@ NODDI-Bingham models [here](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.
 
 ### NMF for data driven mapping of structural connections
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_wm.jpg" width="15%">
+</figure>
 <hr>
-<p> &nbsp; </p>
 
 ### Processing Pipelines and Data
 
 * HCP Pipelines
 * UK Biobank Pipelines
 * dHCP Pipelines
-*QuNEX
+* QuNEX
 
-Multimodal image processing pipelines
+* Multimodal image processing pipelines
 
 <p> &nbsp; </p>
