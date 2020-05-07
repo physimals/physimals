@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [staff](#staff), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [alumni](#alumni), [lab affiliates](#lab-affiliates),[collaborators](#collaborators).
 
 
 ## Staff
@@ -110,10 +110,15 @@ Jump to [staff](#staff), [alumni](#alumni), [lab visitors](#lab-visitors).
 {% endif %}
 
 
-## Former visitors
+## Lab affiliates
 
 <div class="col-sm-4 clearfix">
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
+
+
+## Collaborators
+
+<p> &nbsp; </p>

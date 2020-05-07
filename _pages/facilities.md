@@ -33,6 +33,8 @@ collectively comprises of:
 <img src="{{ site.url }}{{ site.baseurl }}/images/facilities/hpc.jpg" width="35%">
 </figure>
 
+<p> &nbsp; </p>
+
 
 ## MRI Scanning
 We benefit from access to cutting-edge human **MRI scanners** of the Sir
@@ -51,3 +53,5 @@ Full details can be found [here](https://www.nottingham.ac.uk/research/groups/sp
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg" width="40%">
 </figure>
+
+<p> &nbsp; </p>

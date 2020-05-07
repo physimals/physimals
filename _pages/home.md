@@ -68,6 +68,8 @@ We are grateful for funding from the University of Nottingham and the
 [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"},
 the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](https://www.ukri.org){:target="_blank"}.
 
+<p> &nbsp; </p>
+
 <div markdown="1" class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
@@ -77,3 +79,4 @@ the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](h
 </figure>
 </div>
 
+<p> &nbsp; </p>
