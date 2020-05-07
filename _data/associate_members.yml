@@ -8,7 +8,8 @@
   education3: PhD Medical Image Analysis, <a href="https://biomedia.doc.ic.ac.uk" target="_blank">Imperial College London</a>, UK
   education4: <a href="https://scholar.google.com/citations?user=Rc45MsEAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="http://orcid.org/0000-0002-5859-3190" target="_blank">ORCID</a>
   
-  - name: Stefan Pszczolkowski Parraguez
-    photo: sam.jpg
-    info: Senior Research Scientist
-    email: sam.cox@nottingham.ac.uk
+- name: Sam Cox
+  photo: sam.jpg
+  info: Senior Research Scientist
+  email: sam.cox@nottingham.ac.uk
+  number_educ: 0
