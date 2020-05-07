@@ -66,8 +66,11 @@ NODDI-Bingham models [here](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.
 ### NMF for data driven mapping of structural connections
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_wm.jpg" width="15%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/nmf.jpg" width="15%">
 </figure>
+
+[https://github.com/ethompson93/Data-driven-tractography](https://github.com/ethompson93/Data-driven-tractography)
+
 <hr>
 
 ### Processing Pipelines and Data
