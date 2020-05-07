@@ -46,7 +46,7 @@ These include:
 * 3 Tesla GE MR750 Scanner  with 50 mT/m gradients 
 * 7 Tesla Philips Achieva Scanner 
 
-Full details can be found [here](https://www.nottingham.ac.uk/research/groups/spmic/facilities/facilities.aspx).
+Full details can be found [here](https://www.nottingham.ac.uk/research/groups/spmic/facilities/facilities.aspx){:target="_blank"}.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/facilities/scanner.jpg" width="40%">
