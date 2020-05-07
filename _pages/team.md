@@ -113,13 +113,7 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 ## Lab Affiliates
 
-<div class="col-sm-4 clearfix">
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<p></p>
+<p> &nbsp; </p>
 
 ## Collaborators
 Saad Jbabdi, University of Oxford, UK <br>
