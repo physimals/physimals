@@ -11,8 +11,8 @@ permalink: /software
 We have a track record of developing and publicly releasing software
 for neuro-image processing and analysis.
 
-[FSL](#fsl-toolboxes), [HCP WM Atlases](#hcp-white-matter-atlases),
-[CUDIMOT](#cudimot), [NFacT](#nfact), [Pipelines and Data](#processing-pipelines-and-data)
+[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact),
+[HCP WM Atlases](#hcp-white-matter-atlases), [Pipelines and Data](#processing-pipelines-and-data)
 
 
 ### FSL Toolboxes
@@ -98,9 +98,8 @@ orientation and microstructure maps. These atlases are also available in FSL, fo
 
 WM tract atlases were generated using [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT){:target="_blank"}. Probabilistic
 tractography was performed in each of the 1065 subjects. The resultant
-spatial distributions were binarised and averaged, giving a population-probability map for each tract.
-
-The human WM atlases are also accompanid by WM atlases of the macaque brain (obtained using 6 animals).
+spatial distributions were binarised and averaged, giving a
+population-probability map for each tract. The *human* WM atlases are also accompanid by WM atlases of the *macaque* brain (obtained using 6 animals).
 
 All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} are provided.
 
