@@ -141,7 +141,7 @@ multiple modalities).
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/dhcp_logo.jpg" width="20%">
 </figure>
 
-* We have been major partners for the ERC-funded [developing
+* We have been major partners in the ERC-funded [developing
 Human Connectome Project](http://www.developingconnectome.org){:target="_blank"}
 (dHCP), leading the
 [dHCP diffusion MRI processing pipelines](https://git.fmrib.ox.ac.uk/matteob/dHCP_neo_dMRI_pipeline_release){:target="_blank"}
@@ -149,7 +149,16 @@ and contributing to the public data releases (500 neonates, 37-44
 weeks post-conception age, with structural, functional and diffusion
 MRI acquired).
 
-* UK Biobank Pipelines
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/ukbiobank.jpg" width="20%">
+</figure>
+
+* Out tools have been used in the diffusion MRI processing for
+  generation of *imaging-derived phenotypes (IDPs)* in the data from
+  the population-level
+  [UK Biobank Imaging](https://imaging.ukbiobank.ac.uk){:target="_blank"}
+  study, which scans 100,000 individuals. 
+
 * [QuNEX](https://qunex.yale.edu){:target="_blank"} 
 
 
