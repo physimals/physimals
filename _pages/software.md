@@ -154,10 +154,11 @@ MRI acquired).
 </figure>
 
 * Out tools have been used in the diffusion MRI processing for
-  generation of *imaging-derived phenotypes (IDPs)* in the data from
+  generation of *imaging-derived phenotypes (IDPs)* from the data of
   the population-level
   [UK Biobank Imaging](https://imaging.ukbiobank.ac.uk){:target="_blank"}
-  study, which scans 100,000 individuals. 
+  study, which scans 100,000 individuals with 6 neuroimaging
+  modalities (T1w, T2w-FLAIR, SWI, dMRI, resting-state fMRI, task fMRI).
 
 * [QuNEX](https://qunex.yale.edu){:target="_blank"} 
 
