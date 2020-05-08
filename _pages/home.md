@@ -74,11 +74,12 @@ the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](h
 <p> &nbsp; </p>
 
 <div markdown="1" class="center">
-<figure class="fourth">
+<figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WT.jpg" style="width: 74px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 153px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_beacon.jpg" style="width: 144px">
 </figure>
 </div>
 
