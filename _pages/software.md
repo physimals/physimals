@@ -61,7 +61,7 @@ in mind, but it can be used for any voxel-wise model of MRI data.
 NODDI-Bingham models](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}
 are available.
 
-*[Lab contributors](team): Moises Hernandez-Fernandez, Stam Sotiropoulos*
+*[Lab contributors](team/#alumni): Moises Hernandez-Fernandez, Stam Sotiropoulos*
 <hr>
 
 ### NFacT
@@ -103,7 +103,7 @@ spatial distributions were binarised and averaged, giving a population-probabili
 The human atlases are also accompanid by white matter tractography
 atlases of the macaque brain (obtained using 6 animals).
 
-All [WM atlases](https://github.com/swarrington1/WM_atlases) are provided.
+All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} are provided.
 
 *[Lab contributors](team): Shaun Warrington, Stam Sotiropoulos*
 
