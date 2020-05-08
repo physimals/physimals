@@ -11,8 +11,8 @@ permalink: /software
 We have a track record of developing and publicly releasing software
 for neuro-image processing and analysis.
 
-[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact),
-[HCP WM Atlases](#hcp-white-matter-atlases), [Pipelines and Data](#processing-pipelines-and-data)
+[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact), [MPPs](#multimodal-processing-pipelines)
+[HCP WM Atlases](#hcp-white-matter-atlases), [Large Collaborative Projects](#large-collaborative-projects)
 
 
 ### FSL Toolboxes
@@ -83,6 +83,23 @@ are available in python.
 
 <hr>
 
+
+### Multimodal Processing Pipelines
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/pipelines.jpg" width="15%">
+</figure>
+
+We provide [multi-modal processing pipelines (MPPs)](https://doi.org/10.5281/zenodo.3624973) (written in bash) for a number of neuroimaging
+modalities, including structural MRI, diffusion MRI and functional
+MRI. The pipelines perform a number of steps needed on the raw data,
+including template-space registrations, tissue segmentation, cortical
+surface extractions, distortion and motion correction, cross-modality
+alignment, denoising.
+
+*[Lab contributors](team): Alireza Kisomi, Stam Sotiropoulos*
+
+<hr>
+
 ### HCP White Matter Atlases
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_wm.jpg" width="15%">
@@ -105,24 +122,14 @@ All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} a
 <hr>
 
 
-### Processing Pipelines and Data
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/pipelines.jpg" width="15%">
-</figure>
 
-We provide [neuroimage processing pipelines](https://doi.org/10.5281/zenodo.3624973) (written in bash) for a number of imaging
-modalities, including structural MRI, diffusion MRI and functional
-MRI. The pipelines perform a number of steps needed on the raw data,
-including template-space registrations, tissue segmentation, cortical
-surface extractions, distortion and motion correction, cross-modality
-alignment, denoising.
 
-*[Lab contributors](team): Alireza Kisomi, Stam Sotiropoulos*
+### Large Collaborative Projects
 
-* HCP Pipelines
+* [HCP Pipelines](https://github.com/Washington-University/HCPpipelines){:target="_blank"}
 * UK Biobank Pipelines
-* dHCP Pipelines
-* QuNEX
+* [dHCP Pipelines](https://git.fmrib.ox.ac.uk/matteob/dHCP_neo_dMRI_pipeline_release){:target="_blank"} 
+* [QuNEX](https://qunex.yale.edu){:target="_blank"} 
 
 
 <p> &nbsp; </p>
