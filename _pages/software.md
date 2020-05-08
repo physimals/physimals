@@ -76,7 +76,7 @@ and grey matter (GM) networks (see relevant
 also allow non-negative dual regression for projecting group-wise
 WM/GM components to individual subjects.
 
-**[NFacT routines](https://github.com/ethompson93/Data-driven-tractography){:target="_blank"}
+[NFacT routines](https://github.com/ethompson93/Data-driven-tractography){:target="_blank"}
 are available in python.
 
 *[Lab contributors](team): Elinor Thompson, Matteo Bastiani, Stam Sotiropoulos*
