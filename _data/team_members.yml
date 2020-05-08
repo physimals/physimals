@@ -46,9 +46,10 @@
   photo: ellie.jpg
   info: PhD Student, started 10/2017
   email: elinor.thompson@nottingham.ac.uk
-  number_educ: 2
-  education1: MSc Physics, University of Cambridge
-  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a> | <a href="http://orcid.org/0000-0002-3954-9530">ORCID</a>
+  number_educ: 3
+  education1: BSc Physics, University of Cambridge
+  education2: MSc Physics, University of Cambridge
+  education3: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk">ONBI CDT</a> | <a href="http://orcid.org/0000-0002-3954-9530">ORCID</a>
 
 
 - name: Shaun Warrington
