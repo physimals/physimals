@@ -150,7 +150,7 @@ weeks post-conception age, with structural, functional and diffusion
 MRI acquired).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/ukbiobank.jpg" width="20%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/ukbiobank_logo.jpg" width="20%">
 </figure>
 
 * Out tools have been used in the diffusion MRI processing for
