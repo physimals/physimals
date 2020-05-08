@@ -90,16 +90,13 @@ are available in python.
 
 These comprise of Diffusion Tensor Imaging (DTI) and white matter (WM)
 tractography atlases derived using 1065 subjects from the young adult Human
-Connectome Project (HCP).
-
-For the DTI templates, the minimally preprocessed diffusion MRI data were used to fit diffusion tensors in each of the
+Connectome Project (HCP). For the DTI templates, the minimally preprocessed diffusion MRI data were used to fit diffusion tensors in each of the
 subjects. The tensors were non-linearly transformed to MNI space and averaged. The average tensor was then eigen-decomposed to give
-orientation and microstructure maps. These atlases are also available in FSL, for full details see [here](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases){:target="_blank"}.
+orientation and microstructure maps. These DTI templates are also available in [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases){:target="_blank"}.
 
-WM tract atlases were generated using [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT){:target="_blank"}. Probabilistic
-tractography was performed in each of the 1065 subjects. The resultant
-spatial distributions were binarised and averaged, giving a
-population-probability map for each tract. The *human* WM atlases are also accompanid by WM atlases of the *macaque* brain (obtained using 6 animals).
+WM tract atlases were generated using probabilistic tractography and XTRACT in
+each of the 1065 subjects (see relevant [paper](https://www.biorxiv.org/content/10.1101/804641v2){:target="_blank"}). The resultant
+spatial distributions were binarised and averaged, giving a population-probability map for each tract. The *human* WM atlases are also accompanid by WM atlases of the *macaque* brain (obtained using 6 animals).
 
 All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} are provided.
 
