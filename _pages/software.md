@@ -11,8 +11,7 @@ permalink: /software
 We have a track record of developing and publicly releasing software
 for neuro-image processing and analysis.
 
-[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact), [MPPs](#multimodal-processing-pipelines)
-[HCP WM Atlases](#hcp-white-matter-atlases), [Large Collaborative Projects](#large-collaborative-projects)
+[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact), [MPPs](#multimodal-processing-pipelines), [HCP WM Atlases](#hcp-white-matter-atlases), [Large Collaborative Projects](#large-collaborative-projects)
 
 
 ### FSL Toolboxes
@@ -89,12 +88,13 @@ are available in python.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/pipelines.jpg" width="15%">
 </figure>
 
-We provide [multi-modal processing pipelines (MPPs)](https://doi.org/10.5281/zenodo.3624973) (written in bash) for a number of neuroimaging
+[Multi-modal processing pipelines (MPPs)](https://doi.org/10.5281/zenodo.3624973)
+(written in bash) are for a number of neuroimaging
 modalities, including structural MRI, diffusion MRI and functional
 MRI. The pipelines perform a number of steps needed on the raw data,
-including template-space registrations, tissue segmentation, cortical
-surface extractions, distortion and motion correction, cross-modality
-alignment, denoising.
+including distortion and motion correction, cross-modality
+alignment, denoising, template-space registrations, tissue segmentation, cortical
+surface extractions.
 
 *[Lab contributors](team): Alireza Kisomi, Stam Sotiropoulos*
 
@@ -113,15 +113,13 @@ orientation and microstructure maps. These DTI templates are also available in [
 
 WM tract atlases were generated using probabilistic tractography and XTRACT in
 each of the 1065 subjects (see relevant [paper](https://www.biorxiv.org/content/10.1101/804641v2){:target="_blank"}). The resultant
-spatial distributions were binarised and averaged, giving a population-probability map for each tract. The *human* WM atlases are also accompanid by WM atlases of the *macaque* brain (obtained using 6 animals).
+spatial distributions were binarised and averaged, giving a population-probability map for each tract. The *human* WM atlases are also accompanied by WM atlases of the *macaque* brain (obtained using 6 animals).
 
 All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} are provided.
 
 *[Lab contributors](team): Shaun Warrington, Stam Sotiropoulos*
 
 <hr>
-
-
 
 
 ### Large Collaborative Projects
