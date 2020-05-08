@@ -88,7 +88,7 @@ are available in python.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_wm.jpg" width="15%">
 </figure>
 
-These comprise of Diffusion Tensor Imaging (DTI) and white matter
+These comprise of Diffusion Tensor Imaging (DTI) and white matter (WM)
 tractography atlases derived using 1065 subjects from the young adult Human
 Connectome Project (HCP).
 
@@ -96,12 +96,11 @@ For the DTI templates, the minimally preprocessed diffusion MRI data were used t
 subjects. The tensors were non-linearly transformed to MNI space and averaged. The average tensor was then eigen-decomposed to give
 orientation and microstructure maps. These atlases are also available in FSL, for full details see [here](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases){:target="_blank"}.
 
-Tract atlases were generated using [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT){:target="_blank"}. Probabilistic
+WM tract atlases were generated using [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT){:target="_blank"}. Probabilistic
 tractography was performed in each of the 1065 subjects. The resultant
 spatial distributions were binarised and averaged, giving a population-probability map for each tract.
 
-The human atlases are also accompanid by white matter tractography
-atlases of the macaque brain (obtained using 6 animals).
+The human WM atlases are also accompanid by WM atlases of the macaque brain (obtained using 6 animals).
 
 All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} are provided.
 
