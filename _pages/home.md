@@ -63,7 +63,7 @@ in particular diffusion and functional MRI, to provide principled
 platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research](research)).
 
 We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield){:target="_blank"}. We
-have a number of national and international collaborations and very
+have a number of national and international [collaborations](team/#collaborators)  and very
 strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research){:target="_blank"} group at the [WIN](https://www.win.ox.ac.uk){:target="_blank"} Centre, University of
 Oxford.
 
