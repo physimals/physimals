@@ -130,7 +130,6 @@ All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} a
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_logo.jpg" width="20%">
 </figure>
-
 * We have been major partners in the NIH-funded
 [Human Connectome Project](https://www.humanconnectome.org/){:target="_blank"}
 (HCP), contributing to both the [HCP processing pipelines](https://github.com/Washington-University/HCPpipelines){:target="_blank"} and the public data
@@ -140,7 +139,6 @@ multiple modalities).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/dhcp_logo.jpg" width="20%">
 </figure>
-
 * We have been major partners in the ERC-funded [developing
 Human Connectome Project](http://www.developingconnectome.org){:target="_blank"}
 (dHCP), leading the
@@ -152,7 +150,6 @@ MRI acquired).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/ukbiobank_logo.jpg" width="20%">
 </figure>
-
 * Out tools have been used in the diffusion MRI processing for
   generation of *imaging-derived phenotypes (IDPs)* from the data of
   the population-level
