@@ -11,7 +11,8 @@ permalink: /software
 We have a track record of developing and publicly releasing software
 for neuro-image processing and analysis.
 
-[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact), [MPPs](#multimodal-processing-pipelines), [HCP WM Atlases](#hcp-white-matter-atlases), [Large Collaborative Projects](#large-collaborative-projects)
+[FSL](#fsl-toolboxes), [CUDIMOT](#cudimot), [NFacT](#nfact),
+[aFODs](#afods), [MPPs](#multimodal-processing-pipelines), [HCP WM Atlases](#hcp-white-matter-atlases), [Large Collaborative Projects](#large-collaborative-projects)
 
 
 ### FSL Toolboxes
@@ -88,14 +89,14 @@ are available in python.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/afods.jpg" width="15%">
 </figure>
 
-Asymmetric Fibre Orientation Distribution Functions (AFODs) can
+Asymmetric Fibre Orientation Distribution Functions (aFODs) can
 represent within-voxel asymmetric fibre patterns (such as fanning
 in/out, bending, Y-branching, see relevant
 [paper](https://doi.org/10.1016/j.neuroimage.2017.06.050){:target="_blank"}). We
 provide code that allows the estimation of asymmetric FODs from diffusion
 MRI data using spherical harmonics and regularised spherical deconvolution.
 
-[AFOD routines](https://git.fmrib.ox.ac.uk/matteob/aFOD) are available
+[AFODs routines](https://git.fmrib.ox.ac.uk/matteob/aFOD) are available
 as a python package. 
 
 *[Lab contributors](team): Matteo Bastiani, Stam Sotiropoulos*
