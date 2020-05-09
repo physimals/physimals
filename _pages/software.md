@@ -3,7 +3,7 @@ title: "CoNI Lab - Software"
 layout: textlay
 excerpt: "Software"
 sitemap: false
-permalink: /software
+permalink: /software/
 ---
 
 # Software
