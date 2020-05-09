@@ -84,6 +84,22 @@ are available in python.
 
 
 ### aFODs
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/afods.jpg" width="15%">
+</figure>
+
+Asymmetric Fibre Orientation Distribution Functions (AFODs) can
+represent within-voxel asymmetric fibre patterns (such as fanning
+in/out, bending, Y-branching, see relevant
+[paper](https://doi.org/10.1016/j.neuroimage.2017.06.050){:target="_blank"}). We
+provide code that allows the estimation of asymmetric FODs from diffusion
+MRI data using spherical harmonics and regularised spherical deconvolution.
+
+[AFOD routines](https://git.fmrib.ox.ac.uk/matteob/aFOD) are available
+as a python package. 
+
+*[Lab contributors](team): Matteo Bastiani, Stam Sotiropoulos*
+
 <hr>
 
 
@@ -133,8 +149,8 @@ All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} a
 * We have been major partners in the NIH-funded
 [Human Connectome Project](https://www.humanconnectome.org/){:target="_blank"}
 (HCP), contributing to both the [HCP processing pipelines](https://github.com/Washington-University/HCPpipelines){:target="_blank"} and the public data
-releases (*1,200 young adult subjects* with cutting-edge neroimaging data quality and
-multiple modalities).
+releases (*1,200 young adult subjects* with cutting-edge data quality and
+multiple neuroimaging modalities).
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/dhcp_logo.jpg" width="20%">
@@ -142,7 +158,7 @@ multiple modalities).
 * We have been major partners in the ERC-funded [developing
 Human Connectome Project](http://www.developingconnectome.org){:target="_blank"}
 (dHCP), leading the
-[dHCP diffusion MRI processing pipelines](https://git.fmrib.ox.ac.uk/matteob/dHCP_neo_dMRI_pipeline_release){:target="_blank"}
+[dHCP diffusion MRI processing pipelines](https://git.fmrib.ox.ac.uk/matteob/dHCP_neo_dMRI_pipeline_release){:target="_blank"} development
 and contributing to the public data releases (*500 neonates*, 37-44
 weeks post-conception age, with structural, functional and diffusion
 MRI acquired).
