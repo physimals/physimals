@@ -30,8 +30,8 @@ We have been heavily involved with the design and implementation of new technolo
 acquisitions and analysis. For instance, we have been major contributors to the Human Connectome Project, which has contributed to changing the way
 neuroimaging data are acquired and processed. These developments have also set the paradigm for subsequent large-scale brain mapping
 projects in disease, development and aging.<br/>
-We also have a track record of releasing open-source [software](software), impacting research methodology worldwide. We
-have developed frameworks that allow masive parallelisation in data processing for high-thoughput analysis (e.g. using GP-GPUs). Finally, we have contributed to public data releases through a number of [large collaborative projects](software/#large-collaborative-projects), sharing publicly the wealth of collected data and contributing to *Open Science*.
+We also have a track record of releasing open-source [software]({{ site.url }}{{ site.baseurl }}/software), impacting research methodology worldwide. We
+have developed frameworks that allow masive parallelisation in data processing for high-thoughput analysis (e.g. using GP-GPUs). Finally, we have contributed to public data releases through a number of [large collaborative projects](({{ site.url }}{{ site.baseurl }}/team)({{ site.url }}{{ site.baseurl }}/software/#large-collaborative-projects), sharing publicly the wealth of collected data and contributing to *Open Science*.
 
 * **Studying brain organisation in basic and clinical neuroscience**<br/>
 Through collaborations with basic and clinical neuroscientists, we use brain connectivity mapping approaches to explore brain

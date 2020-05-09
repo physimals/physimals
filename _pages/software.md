@@ -36,7 +36,7 @@ for distortion, outlier, motion correction
 * [Eddyqc](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/eddyqc/UsersGuide){:target="_blank"}
   for quality control and assessment of diffusion MRI data.
 
-*[Lab contributors](team): Matteo Bastiani, Shaun Warrington, Stam Sotiropoulos*
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team): Matteo Bastiani, Shaun Warrington, Stam Sotiropoulos*
 
 <hr>
 
@@ -61,7 +61,7 @@ in mind, but it can be used for any voxel-wise model of MRI data.
 NODDI-Bingham models](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}
 are available.
 
-*[Lab contributors](team/#alumni): Moises Hernandez-Fernandez, Stam Sotiropoulos*
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team#alumni): Moises Hernandez-Fernandez, Stam Sotiropoulos*
 <hr>
 
 ### NFacT
@@ -79,7 +79,7 @@ WM/GM components to individual subjects.
 [NFacT routines](https://github.com/ethompson93/Data-driven-tractography){:target="_blank"}
 are available in python.
 
-*[Lab contributors](team): Elinor Thompson, Matteo Bastiani, Stam Sotiropoulos*
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team): Elinor Thompson, Matteo Bastiani, Stam Sotiropoulos*
 
 <hr>
 
