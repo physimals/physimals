@@ -167,7 +167,7 @@ MRI acquired).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/ukbiobank_logo.jpg" width="20%">
 </figure>
-* Out tools have been used in the diffusion MRI processing for
+* Our tools have been used in the diffusion MRI processing for
   generation of *imaging-derived phenotypes (IDPs)* from the data of
   the population-level
   [UK Biobank Imaging](https://imaging.ukbiobank.ac.uk){:target="_blank"}
