@@ -89,7 +89,7 @@ are available in python.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/afods.jpg" width="20%">
 </figure>
 
-Asymmetric Fibre Orientation Distribution Functions (aFODs) can
+Asymmetric Fibre Orientation Distribution functions (aFODs) can
 represent within-voxel asymmetric fibre patterns (such as fanning
 in/out, bending, Y-branching, see relevant
 [paper](https://doi.org/10.1016/j.neuroimage.2017.06.050){:target="_blank"}). We
