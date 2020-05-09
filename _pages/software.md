@@ -99,7 +99,7 @@ MRI data using spherical harmonics and regularised spherical deconvolution.
 [AFODs routines](https://git.fmrib.ox.ac.uk/matteob/aFOD){:target="_blank"} are available
 as a python package. 
 
-*[Lab contributors](team): Matteo Bastiani, Stam Sotiropoulos*
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team): Matteo Bastiani, Stam Sotiropoulos*
 
 <hr>
 
@@ -117,7 +117,7 @@ including distortion and motion correction, cross-modality
 alignment, denoising, template-space registrations, tissue segmentation, cortical
 surface extractions.
 
-*[Lab contributors](team): Alireza Kisomi, Stam Sotiropoulos*
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team): Alireza Kisomi, Stam Sotiropoulos*
 
 <hr>
 
@@ -138,7 +138,7 @@ spatial distributions were binarised and averaged, giving a population-probabili
 
 All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} are provided.
 
-*[Lab contributors](team): Shaun Warrington, Stam Sotiropoulos*
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team): Shaun Warrington, Stam Sotiropoulos*
 
 <hr>
 
