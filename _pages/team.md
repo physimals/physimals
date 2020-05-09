@@ -3,7 +3,7 @@ title: "CoNI Lab - Team"
 layout: gridlay
 excerpt: "CoNI Lab: Team members"
 sitemap: false
-permalink: /team
+permalink: /team/
 ---
 
 # Group Members

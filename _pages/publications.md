@@ -3,7 +3,7 @@ title: "CoNI Lab - Publications"
 layout: gridlay
 excerpt: "CoNI Lab -- Publications."
 sitemap: false
-permalink: /publications
+permalink: /publications/
 ---
 
 
