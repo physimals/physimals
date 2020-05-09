@@ -86,7 +86,7 @@ are available in python.
 
 ### aFODs
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/afods.jpg" width="15%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/afods.jpg" width="20%">
 </figure>
 
 Asymmetric Fibre Orientation Distribution Functions (aFODs) can
@@ -96,7 +96,7 @@ in/out, bending, Y-branching, see relevant
 provide code that allows the estimation of asymmetric FODs from diffusion
 MRI data using spherical harmonics and regularised spherical deconvolution.
 
-[AFODs routines](https://git.fmrib.ox.ac.uk/matteob/aFOD) are available
+[AFODs routines](https://git.fmrib.ox.ac.uk/matteob/aFOD){:target="_blank"} are available
 as a python package. 
 
 *[Lab contributors](team): Matteo Bastiani, Stam Sotiropoulos*
