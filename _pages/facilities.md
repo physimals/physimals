@@ -3,7 +3,7 @@ title: "CoNI Lab - Facilities"
 layout: textlay
 excerpt: "Facilities"
 sitemap: false
-permalink: /facilities 
+permalink: /facilities/
 ---
 
 # Facilities
