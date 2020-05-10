@@ -8,16 +8,18 @@ permalink: /research
 
 # Research
 
+[Scientific Goal](#scientific-goal), [Scientific Contributions and Objectives](#contributions-to-science-&-objectives)
+
+
 ### Scientific Goal
 We work at the interface of computational modelling, MRI physics, and neuroscience. Broadly, our scientific goal is to achieve a better
 understanding of the structural and functional organisation of the brain at a systems level. We develop computational methodology and
 algorithmic/modelling frameworks for analysing neuroimaging data and specifically for mapping brain connections and microstructure using
 MRI. Our aim is to provide principled platforms for probing the brain organisation to untangle its complexity in health and disease.
 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/summary.jpg){: style="width: 50%; float: none; border: 1px"}
+
 ### Contributions to Science & Objectives
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/hcp_dMRI.jpg){: style="width: 300px; float: right; border: 10px"}
 
 * **Development of modelling frameworks for mapping brain connections and microstructure**<br/>
 We devise novel computational frameworks for analysing brain images. Particularly, we have focused on the analysis of multi-dimensional diffusion MRI data, which uniquely allow inference of microstructural tissue properties, as well as of macroscopic connections, non-invasively and in-vivo. Due to the indirect nature of the measurements, advanced signal/image processing techniques and modeling approaches are needed to obtain reliable estimates of the quantities of interest. Such methodology has been developed through our contributions, which allow biophysical information to be extracted from diffusion MRI that otherwise would have only been accessible in humans via post-mortem approaches.
@@ -28,8 +30,6 @@ We develop platforms to enable principled subject-specific mapping of brain conn
 patterns. As the brain connections constraint what the humam mind can and cannot compute, we aim to link such patterns with function and
 behaviour to establish *fingerprints* of individual brains. These allow us to establish correspondences and *frames of
 reference* for studying brain changes throughout the lifespan, even across species. 
-
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/hcp_dMRI.jpg){: style="width: 300px; float: left; border: 10px"}
 
 * **Pushing the boundaries of in-vivo brain MRI acquisitions and high-throughput analysis**<br/>
 We have been heavily involved with the design and implementation of new technologies that aim to push the boundaries of in-vivo brain MRI
