@@ -92,10 +92,10 @@ Jump to [staff](#staff), [alumni](#alumni),
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>Role: {{ member.info }}<br>email: <{{ member.email }}></i>
-    <li> Now {{ member.now }} </li>
-  <ul style="overflow: hidden">
 
-  </ul>
+    <ul style="overflow: hidden">
+    <li> Now {{ member.now }} </li>
+   </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
