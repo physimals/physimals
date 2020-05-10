@@ -8,7 +8,7 @@ permalink: /research
 
 # Research
 
-[Scientific Goal](#scientific-goal), [Scientific Contributions and Objectives](#contributions-to-science-and-objectives)
+[Scientific Goal](#scientific-goal), [Scientific Contributions and Objectives](#scientific-contributions-and-objectives)
 
 
 ### Scientific Goal
