@@ -16,8 +16,9 @@ We work at the interface of computational modelling, MRI physics, and neuroscien
 understanding of the structural and functional organisation of the brain at a systems level. We develop computational methodology and
 algorithmic/modelling frameworks for analysing neuroimaging data and specifically for mapping brain connections and microstructure using
 MRI. Our aim is to provide principled platforms for probing the brain organisation to untangle its complexity in health and disease.
+<p> &nbsp; </p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/summary.jpg){: style="width: 80%; border-radius: 10px; display: block; margin-left: auto; margin-right: auto; box-shadow: 0 0 14px 2px rgba(196,196,196,1);"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/summary.jpg){: style="width: 80%; border-radius: 50%; display: block; margin-left: auto; margin-right: auto; box-shadow: 0 0 14px 2px rgba(196,196,196,1);"}
 
 ### Scientific Contributions and Objectives
 
