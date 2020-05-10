@@ -32,7 +32,7 @@ projects in disease, development and aging.<br/>
 We also have a track record of releasing open-source [software]({{ site.url }}{{ site.baseurl }}/software), impacting research methodology worldwide. We
 have developed frameworks that allow masive parallelisation in data processing for high-thoughput analysis (e.g. using GP-GPUs). Finally, we have contributed to public data releases through a number of [large collaborative projects]({{ site.url }}{{ site.baseurl }}/software/#large-collaborative-projects), sharing publicly the wealth of collected data and contributing to *Open Science*.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryB2.jpg){: style="width: 35%; float: left; padding: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryB2.jpg){: style="width: 40%; float: right; padding: 10px"}
 
 
 * **Personalised connectivity mapping and characterisation of individual variability**<br/>
