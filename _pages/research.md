@@ -17,7 +17,7 @@ understanding of the structural and functional organisation of the brain at a sy
 algorithmic/modelling frameworks for analysing neuroimaging data and specifically for mapping brain connections and microstructure using
 MRI. Our aim is to provide principled platforms for probing the brain organisation to untangle its complexity in health and disease.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/summary.jpg){: style="width: 100%; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/summary.jpg){: style="width: 80%; border: 10px; display: block; margin-left: auto; margin-right: auto;"}
 
 ### Scientific Contributions and Objectives
 
