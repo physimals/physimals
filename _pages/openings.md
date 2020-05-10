@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-We currently have no job openings. 
+We have no job openings at the moment. 
 
 ### Applications for PhD and Postdoc positions
 
