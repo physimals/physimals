@@ -19,7 +19,7 @@ MRI. Our aim is to provide principled platforms for probing the brain organisati
 
 ### Scientific Contributions and Objectives
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryA2.jpg){: style="width: 35%; float: left; padding-right: 15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryA2.jpg){: style="width: 35%; float: right; padding: 10px"}
 
 * **Development of modelling frameworks for mapping brain connections and microstructure**<br/>
 We devise novel computational frameworks for analysing brain images. Particularly, we have focused on the analysis of multi-dimensional diffusion MRI data, which uniquely allow inference of microstructural tissue properties, as well as of macroscopic connections, non-invasively and in-vivo. Due to the indirect nature of the measurements, advanced signal/image processing techniques and modeling approaches are needed to obtain reliable estimates of the quantities of interest. Such methodology has been developed through our contributions, which allow biophysical information to be extracted from diffusion MRI that otherwise would have only been accessible in humans via post-mortem approaches.
@@ -32,7 +32,7 @@ projects in disease, development and aging.<br/>
 We also have a track record of releasing open-source [software]({{ site.url }}{{ site.baseurl }}/software), impacting research methodology worldwide. We
 have developed frameworks that allow masive parallelisation in data processing for high-thoughput analysis (e.g. using GP-GPUs). Finally, we have contributed to public data releases through a number of [large collaborative projects]({{ site.url }}{{ site.baseurl }}/software/#large-collaborative-projects), sharing publicly the wealth of collected data and contributing to *Open Science*.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryB.jpg){: style="width: 18%; float: right; padding-left: 15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryB.jpg){: style="width: 18%; float: right; padding: 15px"}
 
 
 * **Personalised connectivity mapping and characterisation of individual variability**<br/>
