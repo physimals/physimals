@@ -91,9 +91,10 @@ Jump to [staff](#staff), [alumni](#alumni),
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>Role: {{ member.info }}<br>email: <{{ member.email }}></i>
-  **Now** {{ member.now }}
-    <ul style="overflow: hidden">
+  <i>Role: {{ member.info }}<br>email: <{{ member.email }}></i><br>
+  Now {{ member.now }}
+  <ul style="overflow: hidden">
+  
    </ul>
 </div>
 
@@ -126,7 +127,7 @@ Jump to [staff](#staff), [alumni](#alumni),
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>Role: {{ member.info }}<br> Email: <{{ member.email }}></i>
+  <i>Role: {{ member.info }}<br> email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   </ul>
