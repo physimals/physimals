@@ -1,7 +1,7 @@
 - name: Moises Hernandez-Fernandez
   photo: moises.jpg
   info: PhD student (2013-2017)
-  duration: Now Engineer at NVIDIA, USA (post-doc at University of Pennsylvania, USA)
+  now: Engineer at NVIDIA, USA (post-doc at University of Pennsylvania, USA)
   email: moisesh@nvidia.com
   number_educ: 1
   education1: 
@@ -9,7 +9,7 @@
 - name: Jivesh Ramduny
   photo: jivesh.jpg
   info: Reseach Assistant (2018-2019)
-  duration: Now PhD student at Trinity College Dublin, Ireland
+  now: PhD student at Trinity College Dublin, Ireland
   email: ramdunyj@tcd.ie
   number_educ: 1
   education1: 
