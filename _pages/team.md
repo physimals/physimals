@@ -149,14 +149,14 @@ Jump to [staff](#staff), [alumni](#alumni),
 <p> &nbsp; </p>
 
 ## Collaborators
-* [Saad Jbabdi](https://www.win.ox.ac.uk/people/saad-jbabdi), University of Oxford, UK <br>
-* [Alan Anticevic](https://medicine.yale.edu/lab/anticevic), Yale University, USA <br>
-* [Matthew Glasser](https://scholar.google.com/citations?user=hqA9AugAAAAJ&hl=en), Washington University - St Louis, USA <br>
-* [Stephen Smith](https://www.win.ox.ac.uk/people/stephen-smith), University of Oxford, UK <br>
-* [Stephen Coombes](https://www.maths.nottingham.ac.uk/plp/pmzsc), University of Nottingham, UK <br>
-* [Mark Jenkinson](https://researchers.adelaide.edu.au/profile/mark.jenkinson#my-research), University of Oxford & University of Adelaide, Australia <br>
-* [Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/D.Alexander), University College London, UK <br>
-* [Takuya Hayashi](https://www.bdr.riken.jp/en/research/labs/hayashi-t/index.html), RIKEN, Japan <br>
-* [Rogier Mars](https://www.win.ox.ac.uk/people/rogier-mars), University of Oxford, UK <br>
+* [Saad Jbabdi](https://www.win.ox.ac.uk/people/saad-jbabdi){:target="_blank"}, University of Oxford, UK <br>
+* [Alan Anticevic](https://medicine.yale.edu/lab/anticevic){:target="_blank"}, Yale University, USA <br>
+* [Matthew Glasser](https://scholar.google.com/citations?user=hqA9AugAAAAJ&hl=en){:target="_blank"}, Washington University - St Louis, USA <br>
+* [Stephen Smith](https://www.win.ox.ac.uk/people/stephen-smith){:target="_blank"}, University of Oxford, UK <br>
+* [Stephen Coombes](https://www.maths.nottingham.ac.uk/plp/pmzsc){:target="_blank"}, University of Nottingham, UK <br>
+* [Mark Jenkinson](https://researchers.adelaide.edu.au/profile/mark.jenkinson#my-research){:target="_blank"}, University of Oxford & University of Adelaide, Australia <br>
+* [Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/D.Alexander){:target="_blank"}, University College London, UK <br>
+* [Takuya Hayashi](https://www.bdr.riken.jp/en/research/labs/hayashi-t/index.html){:target="_blank"}, RIKEN, Japan <br>
+* [Rogier Mars](https://www.win.ox.ac.uk/people/rogier-mars){:target="_blank"}, University of Oxford, UK <br>
 
 <p> &nbsp; </p>
