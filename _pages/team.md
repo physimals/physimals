@@ -148,15 +148,17 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 <p> &nbsp; </p>
 
-## Collaborators
+## Key Collaborators
 * [Saad Jbabdi](https://www.win.ox.ac.uk/people/saad-jbabdi){:target="_blank"}, University of Oxford, UK <br>
 * [Alan Anticevic](https://medicine.yale.edu/lab/anticevic){:target="_blank"}, Yale University, USA <br>
 * [Matthew Glasser](https://scholar.google.com/citations?user=hqA9AugAAAAJ&hl=en){:target="_blank"}, Washington University - St Louis, USA <br>
 * [Stephen Smith](https://www.win.ox.ac.uk/people/stephen-smith){:target="_blank"}, University of Oxford, UK <br>
 * [Stephen Coombes](https://www.maths.nottingham.ac.uk/plp/pmzsc){:target="_blank"}, University of Nottingham, UK <br>
 * [Mark Jenkinson](https://researchers.adelaide.edu.au/profile/mark.jenkinson#my-research){:target="_blank"}, University of Oxford & University of Adelaide, Australia <br>
+* [Paul Morgan](https://orcid.org/0000-0002-5870-1446l){:target="_blank"},*Nottingham University Hospitals NHS Trust, UK <br>
 * [Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/D.Alexander){:target="_blank"}, University College London, UK <br>
 * [Takuya Hayashi](https://www.bdr.riken.jp/en/research/labs/hayashi-t/index.html){:target="_blank"}, RIKEN, Japan <br>
 * [Rogier Mars](https://www.win.ox.ac.uk/people/rogier-mars){:target="_blank"}, University of Oxford, UK <br>
+* [Dorothee Auer](https://www.nottingham.ac.uk/medicine/people/dorothee.auer){:target="_blank"}, University of Nottingham, UK <br>
 
 <p> &nbsp; </p>
