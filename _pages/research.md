@@ -12,7 +12,7 @@ permalink: /research
 We work at the interface of computational modelling, MRI physics, and neuroscience. Broadly, our scientific goal is to achieve a better
 understanding of the structural and functional organisation of the brain at a systems level. We develop computational methodology and
 algorithmic/modelling frameworks for analysing neuroimaging data and specifically for mapping brain connections and microstructure using
-MRI. Our aim is to provide principled platforms for probing the brain organisation to untangle its complexity in health and disease.
+MRI (*diffusion and functional MRI*). Our aim is to provide principled platforms for probing the brain organisation to untangle its complexity in health and disease.
 
 <p> &nbsp; </p>
 
