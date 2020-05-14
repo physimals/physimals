@@ -21,7 +21,7 @@ These include:
 * A 80-core, 0.5 TB RAM and 4x NVIDIA Tesla K80 GP-GPUs
 * A 80-core, 0.5 TB RAM and 2x NVIDIA Pascal P100 GP-GPUs
 
-We also have access to the Precision Imaging Beacon **HPC cluster**, which
+We also have access to the <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx">Precision Imaging Beacon</a> **HPC cluster**, which
 collectively comprises of:
 * 14 Compute nodes
 * 600 CPU cores 
