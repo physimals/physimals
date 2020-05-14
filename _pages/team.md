@@ -148,7 +148,7 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 <p> &nbsp; </p>
 
-## Key Collaborators
+## Collaborators
 * [Saad Jbabdi](https://www.win.ox.ac.uk/people/saad-jbabdi){:target="_blank"}, University of Oxford, UK <br>
 * [Alan Anticevic](https://medicine.yale.edu/lab/anticevic){:target="_blank"}, Yale University, USA <br>
 * [Matthew Glasser](https://scholar.google.com/citations?user=hqA9AugAAAAJ&hl=en){:target="_blank"}, Washington University - St Louis, USA <br>
