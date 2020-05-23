@@ -191,8 +191,7 @@ $input-bg-disabled:              $gray-lighter !default;
 //** Text color for `<input>`s
 $input-color:                    $gray !default;
 //** `<input>` border color
-//$input-border:                   darken(#f8f8f8, 6.5%) !default;
-$input-border:                   darken(#25568B, 6.5%) !default;
+$input-border:                   darken(#f8f8f8, 6.5%) !default;
 
 // TODO: Rename `$input-border-radius` to `$input-border-radius-base` in v4
 //** Default `.form-control` border radius
@@ -371,11 +370,11 @@ $navbar-collapse-max-height:       340px !default;
 $navbar-default-color:             $text-color !default;
 //$navbar-default-bg:                #f8f8f8 !default;
 $navbar-default-bg:                #25568B !default;
-$navbar-default-border:            $input-border !default;
+$navbar-default-border:            darken(#25568B, 6.5%) !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                $white !default;
+$navbar-default-link-hover-color:          $gray-light !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
