@@ -65,31 +65,31 @@ Jump to [staff](#staff), [alumni](#alumni),
 	  {% if member.orcid  %}
 	  <div class="col-sm">
 	  	  <a href= "{{ member.orcid }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.google_scholar  %}
   	  <div class="col-sm">
 	  <a href= "{{ member.google_scholar }}" target="_blank">
-		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.scopus  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.scopus }}" target="_blank">
-	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
 	  {% if member.publons  %}
 		  <div class="col-sm">
 		  <a href= "{{ member.publons }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.researchgate  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.researchgate }}" target="_blank">
-	       <img src="{{ site.url }}{{ site.baseurl }}/images/researchgate_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/researchgate_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
   </div>
