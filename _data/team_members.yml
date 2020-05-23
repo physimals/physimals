@@ -18,13 +18,13 @@
   photo: matteo.jpg
   info: Senior Research Fellow, started 10/2018
   email: matteo.bastiani@nottingham.ac.uk
-  number_educ: 5
+  number_educ: 4
   education1: BSc Electronic Engineering, University of Trieste, Italy
   education2: MSc Clinical Engineering | Cognitive Neurosciences, Maastricht University, NL
   education3: PhD Maastricht University, NL
   education4: <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx" target="_blank">Precision Imaging Beacon</a> Fellow
-  education5: <a href="https://scholar.google.co.uk/citations?user=fr3BWEAAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://orcid.org/0000-0002-8436-2919" target="_blank">ORCID</a>
-  external_sites: 1
+  external_sites: 2
+  google_scholar: https://scholar.google.co.uk/citations?user=fr3BWEAAAAAJ&hl=en
   orcid: https://orcid.org/0000-0002-8436-2919
 
   
@@ -37,8 +37,9 @@
   number_educ: 3
   education1: BSc Mathematics, University of Oxford, UK 
   education2: D.Phil. University of Oxford, UK 
-  education3: Funding Source Wellcome Trust | <a href="http://orcid.org/0000-0002-5397-8753" target="_blank">ORCID</a>
-  external_sites: 0
+  education3: Funding Source Wellcome Trust
+  external_sites: 1
+  orcid: https://orcid.org/0000-0002-5397-8753
 
   
 - name: Alireza Mohammadi-Nejad

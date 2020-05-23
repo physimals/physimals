@@ -76,12 +76,13 @@ Jump to [staff](#staff), [alumni](#alumni),
 	  {% if member.publons  %}
 		  <div class="col-sm">
 		  <a href= "{{ member.publons }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:10%">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.scopus  %}
-		  <div class="col-sm">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:10%">
+	  <div class="col-sm">
+	  	   <a href= "{{ member.scopus }}" target="_blank">
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
 		  </div>
 	  {% endif %}
   </div>
