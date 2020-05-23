@@ -59,8 +59,8 @@ Jump to [staff](#staff), [alumni](#alumni),
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-<div class="row justify-content-md-center">
-  <div class="col-md-auto">
+<div class="row">
+  <div class="col-sm">
     <img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:10%; margin-right:1%">
   </div>
   <div class="col-sm">
