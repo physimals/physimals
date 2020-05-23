@@ -25,6 +25,35 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+
+ {% if member.external_sites > 0  %}
+  <div class="row">
+	  {% if member.google_scholar  %}
+  	  <div class="col-sm">
+	  <a href= "{{ member.google_scholar }}" target="_blank">
+		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		</div>
+	  {% endif %}
+	  {% if member.orcid  %}
+	  <div class="col-sm">
+	  	  <a href= "{{ member.orcid }}" target="_blank">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		</div>
+	  {% endif %}
+	  {% if member.publons  %}
+		  <div class="col-sm">
+		  <a href= "{{ member.publons }}" target="_blank">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		</div>
+	  {% endif %}
+	  {% if member.scopus  %}
+	  <div class="col-sm">
+	  	   <a href= "{{ member.scopus }}" target="_blank">
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		  </div>
+	  {% endif %}
+  </div>
+  {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
