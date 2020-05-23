@@ -29,35 +29,6 @@ Jump to [staff](#staff), [alumni](#alumni),
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
-  {% if member.external_sites > 0  %}
-  <div class="row">
-	  {% if member.google_scholar  %}
-  	  <div class="col-sm">
-	  <a href= "{{ member.google_scholar }}" target="_blank">
-		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
-		</div>
-	  {% endif %}
-	  {% if member.orcid  %}
-	  <div class="col-sm">
-	  	  <a href= "{{ member.orcid }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
-		</div>
-	  {% endif %}
-	  {% if member.publons  %}
-		  <div class="col-sm">
-		  <a href= "{{ member.publons }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
-		</div>
-	  {% endif %}
-	  {% if member.scopus  %}
-	  <div class="col-sm">
-	  	   <a href= "{{ member.scopus }}" target="_blank">
-	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
-		  </div>
-	  {% endif %}
-  </div>
-  {% endif %}
-  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -89,9 +60,35 @@ Jump to [staff](#staff), [alumni](#alumni),
   {% endif %}
 
 
-
-
-
+ {% if member.external_sites > 0  %}
+  <div class="row">
+	  {% if member.google_scholar  %}
+  	  <div class="col-sm">
+	  <a href= "{{ member.google_scholar }}" target="_blank">
+		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		</div>
+	  {% endif %}
+	  {% if member.orcid  %}
+	  <div class="col-sm">
+	  	  <a href= "{{ member.orcid }}" target="_blank">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		</div>
+	  {% endif %}
+	  {% if member.publons  %}
+		  <div class="col-sm">
+		  <a href= "{{ member.publons }}" target="_blank">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		</div>
+	  {% endif %}
+	  {% if member.scopus  %}
+	  <div class="col-sm">
+	  	   <a href= "{{ member.scopus }}" target="_blank">
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
+		  </div>
+	  {% endif %}
+  </div>
+  {% endif %}
+  
   </ul>
 </div>
 
