@@ -29,7 +29,6 @@
 
   
   
-  
 - name: Yi Ming Lai 
   photo: yiming.jpg
   info: Post-doctoral Research Associate, started 01/2020
@@ -38,8 +37,10 @@
   education1: BSc Mathematics, University of Oxford, UK 
   education2: D.Phil. University of Oxford, UK 
   education3: Funding Source Wellcome Trust
-  external_sites: 1
+  external_sites: 2
+  google_scholar: https://scholar.google.co.uk/citations?user=Itd_1TgAAAAJ&hl=en
   orcid: https://orcid.org/0000-0002-5397-8753
+
 
   
 - name: Alireza Mohammadi-Nejad
@@ -49,8 +50,10 @@
   number_educ: 3
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
-  education3: Funding Source NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a> | <a href="http://orcid.org/0000-0002-0710-6700" target="_blank">ORCID</a>
-  external_sites: 0
+  education3: Funding Source NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
+  external_sites: 1
+  orcid: https://orcid.org/0000-0002-0710-6700
+
 
 
 - name: Elinor Thompson
@@ -60,8 +63,10 @@
   number_educ: 3
   education1: BSc Physics, University of Cambridge, UK
   education2: MSc Physics, University of Cambridge, UK
-  education3: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a> | <a href="http://orcid.org/0000-0002-3954-9530" target="_blank">ORCID</a>
-  external_sites: 0
+  education3: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
+  external_sites: 1
+  orcid: https://orcid.org/0000-0002-3954-9530
+
 
 
 - name: Shaun Warrington
@@ -71,8 +76,10 @@
   number_educ: 3
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Clinical Sciences, Newcastle University, UK
-  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a> | <a href="https://orcid.org/0000-0002-7198-8162" target="_blank">ORCID</a>
-  external_sites: 0
+  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
+  external_sites: 1
+  orcid: https://orcid.org/0000-0002-7198-8162
+
 
 
 - name: Jose Manzano Patron
@@ -84,7 +91,8 @@
   education2: MSc Artificial Intelligence, University of Madrid, Spain
   education3: Funding Source Precision Imaging Beacon, University of Nottingham
   external_sites: 0
- 
+
+
   
 - name: Asante Ntata
   photo: asante.jpg
