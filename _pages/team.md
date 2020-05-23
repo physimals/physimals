@@ -64,28 +64,29 @@ Jump to [staff](#staff), [alumni](#alumni),
 	  {% if member.google_scholar  %}
   	  <div class="col-sm">
 	  <a href= "{{ member.google_scholar }}" target="_blank">
-		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:7.5%; margin-right:3%"></a>
+		<img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.orcid  %}
 	  <div class="col-sm">
 	  	  <a href= "{{ member.orcid }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:7.5%; margin-right:3%"></a>
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="float: left; width:7.5%; margin-right:10%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.publons  %}
 		  <div class="col-sm">
 		  <a href= "{{ member.publons }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:3%">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:7.5%; margin-right:10%">
 		</div>
 	  {% endif %}
 	  {% if member.scopus  %}
 		  <div class="col-sm">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:3%">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:10%">
 		  </div>
 	  {% endif %}
   </div>
 {% endif %}
+
 
   </ul>
 </div>
