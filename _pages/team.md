@@ -60,17 +60,17 @@ Jump to [staff](#staff), [alumni](#alumni),
   {% endif %}
 
 <div class="row">
-  <div class="col-sm">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="width:7.5%">
+  <div class="col-sm-6 clearix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="width:15%">
   </div>
-  <div class="col-sm">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="width:7.5%">
+  <div class="col-sm-6 clearix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="width:15%">
   </div>
-  <div class="col-sm">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="width:7.5%">
+  <div class="col-sm-6 clearix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="width:15%">
   </div>
-  <div class="col-sm">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="width:7.5%">
+  <div class="col-sm-6 clearix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="width:15%">
   </div>
 </div>
   
