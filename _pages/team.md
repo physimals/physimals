@@ -59,7 +59,7 @@ Jump to [staff](#staff), [alumni](#alumni),
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-<div class="row justify-content-md-center"">
+<div class="row justify-content-md-center">
   <div class="col-md-auto">
     <img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="width:15%">
   </div>
