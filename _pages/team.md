@@ -59,17 +59,17 @@ Jump to [staff](#staff), [alumni](#alumni),
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-<div class="row">
-  <div class="col-sm-6 clearix">
+<div class="row justify-content-md-center"">
+  <div class="col-md-auto">
     <img src="{{ site.url }}{{ site.baseurl }}/images/Google_icon.jpg" style="width:15%">
   </div>
-  <div class="col-sm-6 clearix">
+  <div class="col-md-auto">
     <img src="{{ site.url }}{{ site.baseurl }}/images/Orcid_icon.jpg" style="width:15%">
   </div>
-  <div class="col-sm-6 clearix">
+  <div class="col-md-auto">
     <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="width:15%">
   </div>
-  <div class="col-sm-6 clearix">
+  <div class="col-md-auto">
     <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="width:15%">
   </div>
 </div>
