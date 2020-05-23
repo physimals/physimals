@@ -26,7 +26,9 @@ Jump to [staff](#staff), [alumni](#alumni),
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
 
- {% if member.external_sites > 0  %}
+{% if member.external_sites > 0  %}
+<div class="container">
+
   <div class="row">
 	  {% if member.google_scholar  %}
   	  <div class="col-sm">
@@ -52,7 +54,9 @@ Jump to [staff](#staff), [alumni](#alumni),
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:7.5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-  </div>
+	  </div>
+	  </div>
+	  
   {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
