@@ -27,7 +27,6 @@ Jump to [staff](#staff), [alumni](#alumni),
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-
   {% if member.external_sites > 0  %}
   <div class="row">
 	  {% if member.google_scholar  %}
@@ -56,9 +55,7 @@ Jump to [staff](#staff), [alumni](#alumni),
 	  {% endif %}
   </div>
   {% endif %}
-  
-
-<ul style="overflow: hidden">
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
