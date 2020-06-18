@@ -1,7 +1,7 @@
 ---
-title: "CoNI Lab - Home"
+title: "Physimals - Home"
 layout: homelay
-excerpt: "CoNI Lab at University of Nottingham."
+excerpt: "Physimals at University of Nottingham."
 sitemap: false
 permalink: /
 ---
