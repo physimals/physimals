@@ -22,8 +22,7 @@ We have led the development or contributed to a number of tools that are publicl
 de-facto software standards for multi-modal neuroimage processing,
 used by thousands of researchers in hundreds of institutions
 worldwide. These include:
-* [FABBER](https://fabber-core.readthedocs.io/){:target="_blank"},
-  for automated tractography in the human and non-human primate brain
+* [FABBER](https://fabber-core.readthedocs.io/){:target="_blank"}
 
 <hr>
 
@@ -32,7 +31,7 @@ worldwide. These include:
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/quantiphyse.png" width="15%">
 </figure>
 
-* [Quantiphyse](https://quantiphyse.readthedocs.io/){:target="_blank"},
+* [Quantiphyse](https://quantiphyse.readthedocs.io/){:target="_blank"}
 
 
 <p> &nbsp; </p>
