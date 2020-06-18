@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CoNI Lab at Nottingham University."
+excerpt: "Physimals at Nottingham University."
 sitemap: false
 permalink: /allnews.html
 ---
