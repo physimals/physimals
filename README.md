@@ -1,4 +1,4 @@
-# Computational Neuroimaging Lab Website
+# Physimals Website
 
 This is the website of our academic research group at the Sir Peter Mansfield Imaging Centre, University of Nottingham.
 
