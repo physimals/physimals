@@ -26,9 +26,6 @@ School of Medicine, University of Nottingham.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider3.jpg" alt="Slide 1" />
-        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider1.jpg" alt="Slide 2" />
         </div>
