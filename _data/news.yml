@@ -1,14 +1,2 @@
-- date: 17. June 2020
-  headline: "Meet us at the <a href='https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958' target='_blank'>2020 OHBM virtual meeting</a> next week! We will be at abstracts #1050, 1151, #1207, #2035."
-
-- date: 05. May 2020
-  headline: "New paper on <a href='https://doi.org/10.1016/j.neuroimage.2020.116923' target='_blank'>cross-species tractography</a> accepted for publication in Neuroimage!"
-
-- date: 09. March 2020
-  headline: "Read our new preprint on <a href='https://www.biorxiv.org/content/10.1101/2020.03.09.965079v1' target='_blank'>data-driven mapping of structural connections</a>!" 
-
-- date: 15. November 2019
-  headline: Stam gives an invited talk at the <a href='https://www.cmrr.umn.edu/workshop2019' target='_blank'>2019 Minnesota Workshop</a> on High and Ultra-high Field Imaging
-
-- date: 29. September 2019
-  headline: Our new tool for automated human and macaque brain tractography (<a href='https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT' target='_blank'>XTRACT</a>) is available in the latest FSL public release (6.0.1)!
+- date: 18. June 2020
+  headline: "New prototype group website"
