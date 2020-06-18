@@ -1,13 +1,7 @@
-- name: Stefan Pszczolkowski Parraguez
-  photo: stefan.jpg
-  info: Research Fellow
-  email: mszspp@exmail.nottingham.ac.uk
-  number_educ: 1
-  education1: 
+#- name: 
+#  photo: 
+#  info: 
+#  email: 
+#  number_educ: 1
+#  education1: 
   
-- name: Sam Cox
-  photo: sam.jpg
-  info: Senior Research Scientist
-  email: sam.cox@nottingham.ac.uk
-  number_educ: 1
-  education1:
