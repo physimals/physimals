@@ -24,8 +24,6 @@ Information
 Information
 We also have a track record of releasing open-source [software]({{ site.url }}{{ site.baseurl }}/software)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryB2.jpg){: style="width: 40%; float: right; padding: 10px"}
-
 * **Bullet 3**<br/>
 Information
 

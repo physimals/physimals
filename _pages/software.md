@@ -29,7 +29,7 @@ worldwide. These include:
 
 ### Quantiphyse
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/quantiphyse.jpg" width="15%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/quantiphyse.png" width="15%">
 </figure>
 
 * [Quantiphyse](https://quantiphyse.readthedocs.io/){:target="_blank"},
