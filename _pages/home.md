@@ -6,9 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"} in the
-School of Medicine, University of Nottingham. Our aim is to develop
-imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
+Physiological Imaging Group We are a dynamic research group in the [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"} in the
+School of Medicine, University of Nottingham. 
 
 <p> &nbsp; </p>
 
@@ -61,12 +60,7 @@ imaging technology and image processing platforms for exploring and understandin
 
 <p> &nbsp; </p>
 
-
-To this end, we develop algorithmic frameworks for analysing
-neuroimaging data and specifically for mapping brain connections and
-tissue microstructure. We exploit the power of Magnetic Resonance Imaging (MRI), and
-in particular diffusion and functional MRI, to provide principled
-platforms for probing the brain organisation and untangling its complexity in health and disease (see [Research]({{ site.url }}{{ site.baseurl }}/research)).
+(Further group info) (see [Research]({{ site.url }}{{ site.baseurl }}/research)).
 
 We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield){:target="_blank"}. We
 have a number of national and international [collaborations]({{ site.url }}{{ site.baseurl }}/team/#collaborators)  and very
@@ -81,7 +75,7 @@ the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](h
 
 <div markdown="1" class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_physimals.jpg" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WT.jpg" style="width: 74px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 153px">
