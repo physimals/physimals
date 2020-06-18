@@ -1,7 +1,7 @@
 ---
-title: "CoNI Lab - Publications"
+title: "Physimals - Publications"
 layout: gridlay
-excerpt: "CoNI Lab -- Publications."
+excerpt: "Physimals -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -61,23 +61,5 @@ See full list of [journal papers](#journal-papers-full-list) and
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
 
 {% endfor %}
-
-<p> &nbsp; </p>
-
-
-## Book Chapters
-
-MR diffusion tractography.  <br />
-<em> TEJ Behrens, SN Sotiropoulos, S Jbabdi</em><br />
-<a href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"
-target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
-
-
-Mapping connections in humans and non-human primates: aspirations and challenges for diffusion imaging. <br />
-<em>Van Essen DC, Jbabdi S, Sotiropoulos SN, Chen C, Dikranian K,
-Coalson T, Harwell H, Behrens TE, Glasser MF</em><br />
-<a href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"
-target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
-
 
 <p> &nbsp; </p>
