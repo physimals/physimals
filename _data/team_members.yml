@@ -1,105 +1,20 @@
-- name: Stam Sotiropoulos
-  photo: stam.jpg
-  info: Associate Professor<br> Honorary Research Fellow, <a href="https://www.ndcn.ox.ac.uk/team/stamatios-sotiropoulos" target="_blank">WIN Centre</a>, Oxford
-  email: stamatios.sotiropoulos@nottingham.ac.uk   
+- name: Michael Chappell
+  photo: 
+  info: Professor<br>
+  email: michael.chappell@nottingham.ac.uk   
   number_educ: 4
-  education1: BSc Electronics & Computer Engineering, <a href="https://www.ece.tuc.gr/4455.html" target="_blank">Technical University of Crete</a>, Greece
-  education2: MSc Biomedical Engineering, <a href="https://cse.umn.edu/bme" target="_blank">University of Minnesota</a>, USA
-  education3: PhD Neuroimage Analysis, <a href="https://www.nottingham.ac.uk/research/groups/spmic" target="_blank"> University of Nottingham</a>, UK
-  education4: Postdoc <a href="https://www.win.ox.ac.uk" target="_blank">FMRIB Centre</a>, University of Oxford, UK
+  education1: 
+  education2: 
+  education3: 
+  education4: 
   external_sites: 5
-  google_scholar: https://scholar.google.com/citations?user=9p2f6vUAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0003-4735-5776
-  publons: https://publons.com/researcher/1241381/stamatios-sotiropoulos
-  scopus: https://www.scopus.com/authid/detail.uri?authorId=16234548300
-  researchgate: https://www.researchgate.net/profile/Stamatios_Sotiropoulos
-  
+  google_scholar: 
+  orcid: 
+  publons: 
+  scopus: 
+  researchgate: 
   
 - name: Matteo Bastiani
-  photo: matteo.jpg
-  info: Senior Research Fellow, started 10/2018
-  email: matteo.bastiani@nottingham.ac.uk
-  number_educ: 4
-  education1: BSc Electronic Engineering, University of Trieste, Italy
-  education2: MSc Clinical Engineering | Cognitive Neurosciences, Maastricht University, NL
-  education3: PhD Maastricht University, NL
-  education4: <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx" target="_blank">Precision Imaging Beacon</a> Fellow
-  external_sites: 3
-  google_scholar: https://scholar.google.co.uk/citations?user=fr3BWEAAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0002-8436-2919
-  researchgate: https://www.researchgate.net/profile/Matteo_Bastiani2
-  
-  
-- name: Yi Ming Lai 
-  photo: yiming.jpg
-  info: Post-doctoral Research Associate, started 01/2020
-  email: pmzyl@exmail.nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Mathematics, University of Oxford, UK 
-  education2: D.Phil. University of Oxford, UK 
-  education3: Funding Source Wellcome Trust
-  external_sites: 2
-  google_scholar: https://scholar.google.co.uk/citations?user=Itd_1TgAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0002-5397-8753
-
-
-  
-- name: Alireza Mohammadi-Nejad
-  photo: ali.jpg
-  info: Post-doctoral Researcher, started 05/2018
-  email: mszam12@exmail.nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
-  education2: PhD Pattern Recognition, University of Tehran, Iran
-  education3: Funding Source NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
-  external_sites: 2
-  orcid: https://orcid.org/0000-0002-0710-6700
-  researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
-
-
-- name: Elinor Thompson
-  photo: ellie.jpg
-  info: PhD Student, started 10/2017
-  email: elinor.thompson@nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Physics, University of Cambridge, UK
-  education2: MSc Physics, University of Cambridge, UK
-  education3: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
-  external_sites: 1
-  orcid: https://orcid.org/0000-0002-3954-9530
-
-
-
-- name: Shaun Warrington
-  photo: shaun.jpg
-  info: PhD Student, started 01/2018
-  email: shaun.warrington@nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Physics, University of Leicester, UK
-  education2: MSc Clinical Sciences, Newcastle University, UK
-  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
-  external_sites: 2
-  orcid: https://orcid.org/0000-0002-7198-8162
-  researchgate: https://www.researchgate.net/profile/Shaun_Warrington
-
-
-- name: Jose Manzano Patron
-  photo: jose.jpg
-  info: PhD Student, started 02/2019
-  email: jose.manzanopatron1@nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Electronic Engineering, University of Madrid, Spain
-  education2: MSc Artificial Intelligence, University of Madrid, Spain
-  education3: Funding Source Precision Imaging Beacon, University of Nottingham
-  external_sites: 0
-
-
-  
-- name: Asante Ntata
-  photo: asante.jpg
-  info: PhD Student, started 10/2019
-  email: asante.ntata@nottingham.ac.uk
-  number_educ: 2
-  education1: BSc Physics, University of Nottingham, UK
-  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
-  external_sites: 0
+  photo: 
+  info: Research Software Engineer
+  email: martin.craig@nottingham.ac.uk
