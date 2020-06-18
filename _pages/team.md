@@ -187,6 +187,4 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 ## Collaborators
 
-#* [Saad Jbabdi](https://www.win.ox.ac.uk/people/saad-jbabdi){:target="_blank"}, University of Oxford, UK <br>
-
 <p> &nbsp; </p>
