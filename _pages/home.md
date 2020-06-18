@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Physiological Imaging Group We are a dynamic research group in the [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"} in the
+We are a research group in the [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"} in the
 School of Medicine, University of Nottingham. 
 
 <p> &nbsp; </p>
