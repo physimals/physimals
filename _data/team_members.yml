@@ -1,18 +1,16 @@
 - name: Michael Chappell
-  photo: 
-  info: Professor<br>
+  photo: Michael_physimal
+  info: Professor of Biomedical Imaging
   email: michael.chappell@nottingham.ac.uk   
   number_educ: 4
-  education1: 
-  education2: 
-  education3: 
-  education4: 
-  external_sites: 5
+  education1: MEng Engineering Science, University of Oxford, UK
+  education2: DPhil Engineering Science, University of Oxford, UK
+  education3: Research Associate, FMIRB Centre, University of Oxford, UK
+  education4: Deputy Group Leader, PUMMA, Institute of Biomedical Engineering, University of Oxford, UK
+  education5: Associate Professor, Institute of Biomedical Engineering, University of Oxford, UK
+  external_sites: 2
   google_scholar: 
-  orcid: 
-  publons: 
-  scopus: 
-  researchgate: 
+  orcid:  
   
 - name: Martin Craig
   photo: 

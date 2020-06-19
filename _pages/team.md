@@ -1,19 +1,19 @@
 ---
-title: "CoNI Lab - Team"
+title: "PhysImAl - Team"
 layout: gridlay
-excerpt: "CoNI Lab: Team members"
+excerpt: "The PhysImAls: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# The PhysImAls (Group Members)
 
 
 Jump to [staff](#staff), [alumni](#alumni),
 [lab affiliates](#lab-affiliates), [collaborators](#collaborators).
 
 
-## Staff
+## Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
