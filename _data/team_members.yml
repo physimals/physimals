@@ -1,5 +1,5 @@
 - name: Michael Chappell
-  photo: Michael_physimal
+  photo: Michael_physimal.png
   info: Professor of Biomedical Imaging
   email: michael.chappell@nottingham.ac.uk   
   number_educ: 4
@@ -12,7 +12,34 @@
   google_scholar: 
   orcid:  
   
+- name: Paula Croal
+  photo: paula_physimal.png
+  info: Postdoctoral Research Scientist - Deputy Group Leader
+  email: paula.croal@nottingham.ac.uk   
+  number_educ: 1
+  education1: 
+  google_scholar: 
+  orcid:  
+  
+- name: Flora Kennedy McConnell
+  photo: flora_physimal.png
+  info: Postdoctoral Research Scientist
+  email: flora.kennedymcconnell@nottingham.ac.uk   
+  number_educ: 1
+  education1: 
+  google_scholar: 
+  orcid:  
+  
+- name: Jack Toner
+  photo: jack_physimal.png
+  info: Postdoctoral Research Scientist
+  email: jack.toner@nottingham.ac.uk   
+  number_educ: 1
+  education1: 
+  google_scholar: 
+  orcid:  
+  
 - name: Martin Craig
-  photo: 
+  photo: martin_physimal.png
   info: Research Software Engineer
   email: martin.craig@nottingham.ac.uk
