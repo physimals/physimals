@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1109/tmi.2019.2951080
     display: IEEE Transactions on Medical Imaging 39:5 (2020)
-  highlight:
+  highlight: 1
 
 - title: "Calibration of arterial spin labeling data—potential pitfalls in post‐processing"
   image:
@@ -14,7 +14,7 @@
   link:
     url: https://doi.org/10.1002/mrm.28000
     display: Magnetic Resonance in Medicine 83:4 (2020)
-  highlight:
+  highlight: 1
 
 - title: "Tumour pH and protein concentration contribute to the signal of amide proton transfer magnetic resonance imaging."
   image:
@@ -23,7 +23,7 @@
   link:
     url: https://doi.org/10.1158/0008-5472.can-18-2168
     display: Cancer Research : (2019)
-  highlight:
+  highlight: 1
 
 - title: "Model-based Bayesian inference of brain oxygenation using quantitative BOLD"
   image:
@@ -32,7 +32,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2019.116106
     display: NeuroImage 202: (2019)
-  highlight:
+  highlight: 1
 
 - title: "A general framework for optimizing arterial spin labeling MRI experiments"
   image:
@@ -41,7 +41,7 @@
   link:
     url: https://doi.org/10.1002/mrm.27580
     display: Magnetic resonance in medicine 81:4 (2019)
-  highlight:
+  highlight: 1
 
 - title: "Extending the Human Connectome Project across ages: Imaging protocols for the Lifespan Development and Aging projects"
   image:
@@ -50,7 +50,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2018.09.060
     display: NeuroImage 183: (2018)
-  highlight:
+  highlight: 1
 
 - title: "Quantification of Serial Cerebral Blood Flow in Acute Stroke Using Arterial Spin Labeling."
   image:
@@ -59,7 +59,7 @@
   link:
     url: https://doi.org/10.1161/strokeaha.116.014707
     display: Stroke 48:1 (2017)
-  highlight:
+  highlight: 1
 
 - title: "A systematic study of the sensitivity of partial volume correction methods for the quantification of perfusion from pseudo-continuous arterial spin labeling MRI."
   image:
@@ -68,7 +68,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2017.08.072
     display: NeuroImage 162: (2017)
-  highlight:
+  highlight: 1
 
 - title: "Identifying the ischaemic penumbra using pH-weighted magnetic resonance imaging."
   image:
@@ -77,7 +77,7 @@
   link:
     url: https://doi.org/10.1093/brain/awu374
     display: Brain 138:Pt 1 (2015)
-  highlight:
+  highlight: 1
 
 - title: "Quantitative Bayesian model-based analysis of amide proton transfer MRI."
   image:
@@ -86,7 +86,7 @@
   link:
     url: https://doi.org/10.1002/mrm.24474
     display: Magnetic resonance in medicine 70:2 (2013)
-  highlight:
+  highlight: 1
 
 - title: "A control point interpolation method for the non-parametric quantification of cerebral haemodynamics from dynamic susceptibility contrast MRI."
   image:
@@ -95,7 +95,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2012.08.083
     display: NeuroImage 64: (2013)
-  highlight:
+  highlight: 1
 
 - title: "Partial volume correction of multiple inversion time arterial spin labeling MRI data."
   image:
@@ -104,7 +104,7 @@
   link:
     url: https://doi.org/10.1002/mrm.22641
     display: Magnetic resonance in medicine 65:4 (2011)
-  highlight:
+  highlight: 1
 
 - title: "Separation of macrovascular signal in multi-inversion time arterial spin labelling MRI."
   image:
@@ -113,7 +113,7 @@
   link:
     url: https://doi.org/10.1002/mrm.22320
     display: Magnetic resonance in medicine 63:5 (2010)
-  highlight:
+  highlight: 1
 
 - title: "A general framework for the analysis of vessel encoded arterial spin labeling for vascular territory mapping."
   image:
@@ -122,7 +122,7 @@
   link:
     url: https://doi.org/10.1002/mrm.22524
     display: Magnetic resonance in medicine 64:5 (2010)
-  highlight:
+  highlight: 1
 
 - title: "Variational Bayesian Inference for a Nonlinear Forward Model"
   image:
@@ -131,4 +131,4 @@
   link:
     url: http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=4625948\&tag=1
     display: IEEE Transactions on Signal Processing 57:1 (2009)
-  highlight:
+  highlight: 1
