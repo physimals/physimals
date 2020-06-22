@@ -24,7 +24,7 @@ Jump to [staff](#staff), [alumni](#alumni),
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.physimal }}"
        onmouseover="this.src='{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}';" 
        onmouseout="this.src='{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.physimal }}';"
        class="img-responsive" width="25%" style="float: left" />
