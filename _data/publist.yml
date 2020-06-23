@@ -62,7 +62,7 @@
   highlight: 1
 
 - title: "A systematic study of the sensitivity of partial volume correction methods for the quantification of perfusion from pseudo-continuous arterial spin labeling MRI."
-  image:
+  image: pvc.png
   description:
   authors: "Zhao, Moss Y,Mezue, Melvin,Segerdahl, Andrew R,Okell, Thomas W,Tracey, Irene,Xiao, Yingyi,Chappell, Michael A"
   link:
