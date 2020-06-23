@@ -1,7 +1,34 @@
-- title: ""
+- title: "Variational Bayes"
   image:
-  description:
-  authors: ""
+  description: "In Brain Mapping (pp. 523–533). Elsevier"
+  authors: "M.A Chappell & M.W. Woolrich"
+  link:
+    url: "https://doi.org/doi:10.1016/B978-0-12-397025-1.00327-4"
+    display: "doi:10.1016/B978-0-12-397025-1.00327-4"
+  fullbook: 0
+
+- title: "Bayesian Model Inversion"
+  image:
+  description: "In Brain Mapping(pp. 509-516). Elsevier"
+  authors: "M.W. Woolrich & M.A. Chappell"
+  link:
+    url: "https://doi.org/doi:10.1016/B978-0-12-397025-1.00325-0"
+    display: "doi:10.1016/B978-0-12-397025-1.00325-0"
+  fullbook: 0
+
+- title: "An Introduction to Brain Tumor Imaging"
+  image:
+  description: "In Tumors of the Central Nervous System (11th ed.). Springer."
+  authors: "A. Mehndiratta, Y.K. Tee, S.J. Payne, M.A. Chappell, & F.L. Giesel."
+  link:
+    url: "https://doi.org/doi:10.1007/978-94-007-7037-9_1"
+    display: "doi:10.1007/978-94-007-7037-9_1"
+  fullbook: 0
+
+- title: "Brain Tumour Imaging: Developing Techniques and Future Perspectives"
+  image:
+  description: "In Atlas of Clinical Cases on Brain Tumor Imaging (pp81-91) Springer 2020"
+  authors: "P. L Croal"
   link:
     url: ""
     display: ""
