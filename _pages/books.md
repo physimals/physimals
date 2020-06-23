@@ -10,19 +10,17 @@ permalink: /books/
 
 ### Neuroimaging Primers
 
-<a href="http://www.neuroimagingprimers.org/" target="_blank">Oxford Neuroimaging Primers</a> are a set of short, accessible 
+[Oxford Neuroimaging Primers](http://www.neuroimagingprimers.org/") are a set of short, accessible 
 textbooks focused on MRI-based neuroimaging research, published by Oxford University Press.
 
-<div class="row">
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>Introduction to Neuroimaging Analysis</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png" class="img-responsive" width="30%" style="float: left" />
-  <p><em>Mark Jenkinson, Michael Chappell</em></p>
- </div>
-</div>
 
-<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png" class="img-responsive" width="30%" style="float: left" />
+ * **Introduction to Neuroimaging Analysis**
+
+*Mark Jenkinson, Michael Chappell*
+
+<div class="row">
+ <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Perfusion Quantification using Arterial Spin Labelling</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="30%" style="float: left" />
