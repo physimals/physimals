@@ -19,7 +19,7 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 
 *Mark Jenkinson, Michael Chappell*
 
-<p> &nbsp; </p>
+<div style="clear: both;"></div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="10%" style="float: left" />
 
@@ -27,7 +27,7 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 
 *Michael Chappell, Thomas Okell, Brad Macintosh*
 
-<p> &nbsp; </p>
+<div style="clear: both;"></div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip3.png" class="img-responsive" width="10%" style="float: left" />
 
@@ -35,11 +35,12 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 
 *Janine Bijsterbosch, Stephen Smith, Christian Beckmann*
 
-<p> &nbsp; </p>
+<div style="clear: both;"></div>
 
 ### Physiology for Engineers
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/pfe.png" class="img-responsive" width="10%" style="float: left" />
+
 [**Physiology for Engineers**](https://www.physiologyforengineers.org)
 
 An introduction to qualitative 
@@ -48,7 +49,7 @@ and other physical scientists.
 
 *Michael Chappell, Stephen Payne*
 
-<p> &nbsp; </p>
+<div style="clear: both;"></div>
 
 # Book chapters
 
