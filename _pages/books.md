@@ -17,27 +17,23 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Neuroimaging Analysis</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png" class="img-responsive" width="45%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png" class="img-responsive" width="30%" style="float: left" />
   <p><em>Mark Jenkinson, Michael Chappell</em></p>
  </div>
 </div>
-</div>
 
-<div class="row">
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Perfusion Quantification using Arterial Spin Labelling</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="45%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="30%" style="float: left" />
   <p><em>Michael Chappell, Thomas Okell, Brad Macintosh</em></p>
  </div>
 </div>
-</div>
 
-<div class="row">
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Resting State fMRI Functional Connectivity</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip3.png" class="img-responsive" width="45%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip3.png" class="img-responsive" width="30%" style="float: left" />
   <p><em>Janine Bijsterbosch, Stephen Smith, Christian Beckmann</em></p>
  </div>
 </div>
