@@ -19,6 +19,8 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 
 *Mark Jenkinson, Michael Chappell*
 
+This primer gives a general and accessible introduction to the wide array of MRI-based neuroimaging methods that are used in research. Supplemented with online datasets and examples to enable the reader to obtain hands-on experience working with real data, it provides a practical and approachable introduction for those new to the neuroimaging field. The text also covers the fundamentals of what different MRI modalities measure, what artifacts commonly occur, the essentials of the analysis, and common 'pipelines' including brain extraction, registration and segmentation.
+
 <div style="clear: both;"></div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="10%" style="float: left" />
@@ -26,6 +28,8 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 **Introduction to Perfusion Quantification using Arterial Spin Labelling**
 
 *Michael Chappell, Thomas Okell, Brad Macintosh*
+
+The aim of this primer is to equip someone new to the field of perfusion imaging and ASL with the knowledge not only to make good choices about ASL acquisition and analysis, but also to understand what choices they are making and why. Examples of analysis applied to real data are given throughout the text and instructions on how to reproduce the analyses are illustrated on the primer website.
 
 <div style="clear: both;"></div>
 
@@ -35,9 +39,11 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 
 *Janine Bijsterbosch, Stephen Smith, Christian Beckmann*
 
+From data acquisition to interpretation of results, Introduction to Resting State fMRI Functional Connectivity discusses a wide range of approaches without requiring any previous knowledge of resting state fMRI, making it highly accessible to readers from a broad range of backgrounds.
+
 <div style="clear: both;"></div>
 
-### Physiology for Engineers
+### Physiology for Engineers series
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/pfe.png" class="img-responsive" width="10%" style="float: left" />
 
