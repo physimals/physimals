@@ -21,13 +21,13 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
  </div>
 </div>
 
-<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Perfusion Quantification using Arterial Spin Labelling</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="45%" style="float: left" />
   <p><em>Michael Chappell, Thomas Okell, Brad Macintosh</em></p>
  </div>
-</div>
+
+<p> &nbsp; </p>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
