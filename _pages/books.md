@@ -17,23 +17,32 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 **Introduction to Neuroimaging Analysis**
 *Mark Jenkinson, Michael Chappell*
 
+<p> &nbsp; </p>
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="10%" style="float: left" />
 **Introduction to Perfusion Quantification using Arterial Spin Labelling**
 *Michael Chappell, Thomas Okell, Brad Macintosh*
+
+<p> &nbsp; </p>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip3.png" class="img-responsive" width="10%" style="float: left" />
 **Introduction to Resting State fMRI Functional Connectivity**
 *Janine Bijsterbosch, Stephen Smith, Christian Beckmann*
 
+<p> &nbsp; </p>
+
 ### Physiology for Engineers
 
-[Physiology for Engineers](https://www.physiologyforengineers.org) is an introduction to qualitative 
+<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/pfe.png" class="img-responsive" width="10%" style="float: left" />
+[**Physiology for Engineers**](https://www.physiologyforengineers.org)
+
+An introduction to qualitative 
 and quantitative aspects of human physiology using mathematical principles and engineering methods that will be familiar to engineers 
 and other physical scientists.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/pfe.png" class="img-responsive" width="10%" style="float: left" />
-**Physiology for Engineers**
 *Michael Chappell, Stephen Payne*
+
+<p> &nbsp; </p>
 
 # Book chapters
 
