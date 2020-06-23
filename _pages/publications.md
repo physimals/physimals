@@ -44,13 +44,7 @@ See also full list of [journal papers](#journal-papers-full-list) or go to
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 <p> &nbsp; </p>
-
 
 ## Journal Papers Full list
 
