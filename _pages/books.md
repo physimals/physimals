@@ -14,19 +14,25 @@ permalink: /books/
 textbooks focused on MRI-based neuroimaging research, published by Oxford University Press.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png" class="img-responsive" width="10%" style="float: left" />
+
 **Introduction to Neuroimaging Analysis**
+
 *Mark Jenkinson, Michael Chappell*
 
 <p> &nbsp; </p>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="10%" style="float: left" />
+
 **Introduction to Perfusion Quantification using Arterial Spin Labelling**
+
 *Michael Chappell, Thomas Okell, Brad Macintosh*
 
 <p> &nbsp; </p>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip3.png" class="img-responsive" width="10%" style="float: left" />
+
 **Introduction to Resting State fMRI Functional Connectivity**
+
 *Janine Bijsterbosch, Stephen Smith, Christian Beckmann*
 
 <p> &nbsp; </p>
