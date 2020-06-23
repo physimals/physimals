@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "Tumour pH and protein concentration contribute to the signal of amide proton transfer magnetic resonance imaging."
-  image:
+  image: tumour_ph.png
   description:
   authors: "Ray, Kevin J,Simard, Manon A,Larkin, James R,Coates, James,Kinchesh, Paul,Smart, Sean C,Higgins, Geoff S,Chappell, Michael A,Sibson, Nicola"
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Model-based Bayesian inference of brain oxygenation using quantitative BOLD"
-  image:
+  image: qbold.png
   description:
   authors: "Cherukara, Matthew T.,Stone, Alan J.,Chappell, Michael A.,Blockley, Nicholas P."
   link:
@@ -35,7 +35,7 @@
   highlight: 1
 
 - title: "A general framework for optimizing arterial spin labeling MRI experiments"
-  image:
+  image: optpcasl.png
   description:
   authors: "Woods, Joseph G,Chappell, Michael A,Okell, Thomas W"
   link:
@@ -44,7 +44,7 @@
   highlight: 1
 
 - title: "Extending the Human Connectome Project across ages: Imaging protocols for the Lifespan Development and Aging projects"
-  image:
+  image: hcp.png
   description:
   authors: "Harms, Michael P,Somerville, Leah H,Ances, Beau M,Andersson, Jesper,Barch, Deanna M,Bastiani, Matteo,Bookheimer, Susan Y,Brown, Timothy B,Buckner, Randy L,Burgess, Gregory C,Coalson, Timothy S,Chappell, Michael A,Dapretto, Mirella,Douaud, Gwenaëlle,Fischl, Bruce,Glasser, Matthew F,Greve, Douglas N,Hodge, Cynthia,Jamison, Keith W,Jbabdi, Saad,Kandala, Sridhar,Li, Xiufeng,Mair, Ross W,Mangia, Silvia,Marcus, Daniel,Mascali, Daniele,Moeller, Steen,Nichols, Thomas E,Robinson, Emma C,Salat, David H,Smith, Stephen M,Sotiropoulos, Stamatios N,Terpstra, Melissa,Thomas, Kathleen M,Tisdall, M Dylan,Ugurbil, Kamil,Kouwe, Andre van der,Woods, Roger P,Zöllei, Lilla,Essen, David C Van,Yacoub, Essa"
   link:
@@ -53,7 +53,7 @@
   highlight: 1
 
 - title: "Quantification of Serial Cerebral Blood Flow in Acute Stroke Using Arterial Spin Labeling."
-  image:
+  image: stroke.png
   description:
   authors: "Harston, George W J,Okell, Thomas W,Sheerin, Fintan,Schulz, Ursula,Mathieson, Phil,Reckless, Ian,Shah, Kunal,Ford, Gary A,Chappell, Michael A,Jezzard, Peter,Kennedy, James"
   link:
