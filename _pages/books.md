@@ -13,6 +13,7 @@ permalink: /books/
 <a href="http://www.neuroimagingprimers.org/" target="_blank">Oxford Neuroimaging Primers</a> are a set of short, accessible 
 textbooks focused on MRI-based neuroimaging research, published by Oxford University Press.
 
+<div class="row">
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Neuroimaging Analysis</pubtit>
@@ -20,15 +21,19 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
   <p><em>Mark Jenkinson, Michael Chappell</em></p>
  </div>
 </div>
+</div>
 
+<div class="row">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Perfusion Quantification using Arterial Spin Labelling</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="45%" style="float: left" />
   <p><em>Michael Chappell, Thomas Okell, Brad Macintosh</em></p>
  </div>
+</div>
+</div>
 
-<p> &nbsp; </p>
-
+<div class="row">
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Introduction to Resting State fMRI Functional Connectivity</pubtit>
@@ -36,8 +41,7 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
   <p><em>Janine Bijsterbosch, Stephen Smith, Christian Beckmann</em></p>
  </div>
 </div>
-
-<p> &nbsp; </p>
+</div>
 
 ### Physiology for Engineers
 
@@ -45,12 +49,14 @@ textbooks focused on MRI-based neuroimaging research, published by Oxford Univer
 and quantitative aspects of human physiology using mathematical principles and engineering methods that will be familiar to engineers 
 and other physical scientists.
 
+<div class="row">
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Physiology for Engineers</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/pfe.png" class="img-responsive" width="45%" style="float: left" />
   <p><em></em></p>
  </div>
+</div>
 </div>
 
 # Book chapters
