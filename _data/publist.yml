@@ -1,7 +1,7 @@
 - title: "Toblerone: Surface-Based Partial Volume Estimation"
   image: toblerone.png
   description:
-  authors: "Kirk, Thomas F,Coalson, Timothy S,Craig, Martin S,Chappell, Michael A"
+  authors: "Kirk TF, Coalson TS, Craig MS, Chappell MA"
   link:
     url: "https://doi.org/10.1109/tmi.2019.2951080"
     display: "IEEE Transactions on Medical Imaging 39:5 (2020)"
@@ -10,7 +10,7 @@
 - title: "Calibration of arterial spin labeling data—potential pitfalls in post‐processing"
   image: calibration.png
   description:
-  authors: "Pinto, Joana,Chappell, Michael A.,Okell, Thomas W.,Mezue, Melvin,Segerdahl, Andrew R.,Tracey, Irene,Vilela, Pedro,Figueiredo, Patrícia"
+  authors: "Pinto J, Chappell MA, Okell TW, Mezue M, Segerdahl AR, Tracey I, Vilela P, Figueiredo P"
   link:
     url: "https://doi.org/10.1002/mrm.28000"
     display: "Magnetic Resonance in Medicine 83:4 (2020)"
@@ -19,7 +19,7 @@
 - title: "Tumour pH and protein concentration contribute to the signal of amide proton transfer magnetic resonance imaging."
   image: tumour_ph.png
   description:
-  authors: "Ray, Kevin J,Simard, Manon A,Larkin, James R,Coates, James,Kinchesh, Paul,Smart, Sean C,Higgins, Geoff S,Chappell, Michael A,Sibson, Nicola"
+  authors: "Ray KJ, Simard MA, Larkin JR, Coates J, Kinchesh P, Smart SC, Higgins GS, Chappell MA, Sibson N"
   link:
     url: "https://doi.org/10.1158/0008-5472.can-18-2168"
     display: "Cancer Research (2019)"
@@ -28,7 +28,7 @@
 - title: "Model-based Bayesian inference of brain oxygenation using quantitative BOLD"
   image: qbold.png
   description:
-  authors: "Cherukara, Matthew T.,Stone, Alan J.,Chappell, Michael A.,Blockley, Nicholas P."
+  authors: "Cherukara MT, Stone AJ, Chappell MA, Blockley NP"
   link:
     url: "https://doi.org/10.1016/j.neuroimage.2019.116106"
     display: "NeuroImage 202 (2019)"
@@ -37,7 +37,7 @@
 - title: "A general framework for optimizing arterial spin labeling MRI experiments"
   image: optpcasl.png
   description:
-  authors: "Woods, Joseph G,Chappell, Michael A,Okell, Thomas W"
+  authors: "Woods JG, Chappell MA, Okell TW"
   link:
     url: "https://doi.org/10.1002/mrm.27580"
     display: "Magnetic resonance in medicine 81:4 (2019)"
@@ -46,7 +46,7 @@
 - title: "Extending the Human Connectome Project across ages: Imaging protocols for the Lifespan Development and Aging projects"
   image: hcp.png
   description:
-  authors: "Harms, Michael P,Somerville, Leah H,Ances, Beau M,Andersson, Jesper,Barch, Deanna M,Bastiani, Matteo,Bookheimer, Susan Y,Brown, Timothy B,Buckner, Randy L,Burgess, Gregory C,Coalson, Timothy S,Chappell, Michael A,Dapretto, Mirella,Douaud, Gwenaëlle,Fischl, Bruce,Glasser, Matthew F,Greve, Douglas N,Hodge, Cynthia,Jamison, Keith W,Jbabdi, Saad,Kandala, Sridhar,Li, Xiufeng,Mair, Ross W,Mangia, Silvia,Marcus, Daniel,Mascali, Daniele,Moeller, Steen,Nichols, Thomas E,Robinson, Emma C,Salat, David H,Smith, Stephen M,Sotiropoulos, Stamatios N,Terpstra, Melissa,Thomas, Kathleen M,Tisdall, M Dylan,Ugurbil, Kamil,Kouwe, Andre van der,Woods, Roger P,Zöllei, Lilla,Essen, David C Van,Yacoub, Essa"
+  authors: "Harms MP, Somerville LH, Ances BM, Andersson, Jesper,Barch, Deanna M,Bastiani, Matteo,Bookheimer, Susan Y,Brown, Timothy B,Buckner, Randy L,Burgess, Gregory C,Coalson, Timothy S,Chappell, Michael A,Dapretto, Mirella,Douaud, Gwenaëlle,Fischl, Bruce,Glasser, Matthew F,Greve, Douglas N,Hodge, Cynthia,Jamison, Keith W,Jbabdi, Saad,Kandala, Sridhar,Li, Xiufeng,Mair, Ross W,Mangia, Silvia,Marcus, Daniel,Mascali, Daniele,Moeller, Steen,Nichols, Thomas E,Robinson, Emma C,Salat, David H,Smith, Stephen M,Sotiropoulos, Stamatios N,Terpstra, Melissa,Thomas, Kathleen M,Tisdall, M Dylan,Ugurbil, Kamil,Kouwe, Andre van der,Woods, Roger P,Zöllei, Lilla,Essen, David C Van,Yacoub, Essa"
   link:
     url: "https://doi.org/10.1016/j.neuroimage.2018.09.060"
     display: "NeuroImage 183 (2018)"
@@ -55,7 +55,7 @@
 - title: "Quantification of Serial Cerebral Blood Flow in Acute Stroke Using Arterial Spin Labeling."
   image: stroke.png
   description:
-  authors: "Harston, George W J,Okell, Thomas W,Sheerin, Fintan,Schulz, Ursula,Mathieson, Phil,Reckless, Ian,Shah, Kunal,Ford, Gary A,Chappell, Michael A,Jezzard, Peter,Kennedy, James"
+  authors: "Harston, GWJ, Okell, Thomas W,Sheerin, Fintan,Schulz, Ursula,Mathieson, Phil,Reckless, Ian,Shah, Kunal,Ford, Gary A,Chappell, Michael A,Jezzard, Peter,Kennedy, James"
   link:
     url: "https://doi.org/10.1161/strokeaha.116.014707"
     display: "Stroke 48:1 (2017)"
