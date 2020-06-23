@@ -51,6 +51,16 @@ and other physical scientists.
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/mie.png" class="img-responsive" width="10%" style="float: left" />
+
+[**Principles of Medical Imaging for Engineers**](https://www.physiologyforengineers.org)
+
+**Coming Soon!** An introduction to the principles of medical imaging that underpin all of the major medical imaging methods. By first considering how to get signals from within the body, and then how to turn these into images, this book shows how mathematical and physics principles work in the context of medical imaging. 
+
+*Michael Chappell*
+
+<div style="clear: both;"></div>
+
 # Book chapters
 
 {% assign number_printed = 0 %}
