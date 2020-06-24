@@ -32,6 +32,8 @@ algorithm to do fast model fitting of nonlinear forward models.
  
 ### Processing pipelines
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/basilgui.png" class="img-responsive" width="15%" style="float: left" />
+
 These are FSL-based pipelines for processing different types of medical imaging data.
 They utilise Fabber for the model fitting but also include pre and post
 processing specific to the data type.
@@ -46,9 +48,7 @@ processing specific to the data type.
    
 ### Quantiphyse
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/quantiphyse.png" width="15%">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/qpwins.png" class="img-responsive" width="15%" style="float: left" />
 
 Quantiphyse is a GUI viewing and analysis package for biomedical imaging data. 
 As well as generic visualisation and processing functionality, it contains a set of
