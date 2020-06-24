@@ -107,7 +107,7 @@
   highlight: 1
 
 - title: "Separation of macrovascular signal in multi-inversion time arterial spin labelling MRI."
-  image:
+  image: macrovasc.png
   description:
   authors: "Chappell MA, MacIntosh BJ, Donahue MJ, Günther M, Jezzard P, Woolrich MW"
   link:
@@ -116,7 +116,7 @@
   highlight: 1
 
 - title: "A general framework for the analysis of vessel encoded arterial spin labeling for vascular territory mapping."
-  image:
+  image: vepcasl.png
   description:
   authors: "Chappell MA, Okell TW, Jezzard P, Woolrich MW"
   link:
@@ -125,7 +125,7 @@
   highlight: 1
 
 - title: "Variational Bayesian Inference for a Nonlinear Forward Model"
-  image:
+  image: vb.png
   description:
   authors: "Chappell MA, Groves A, Whitcher B, Woolrich M"
   link:
