@@ -29,6 +29,8 @@ algorithm to do fast model fitting of nonlinear forward models.
  - [pyfab](https://pyfab.readthedocs.io) is a Python API for Fabber
  - [fabber_matlab](https://fabber-matlab.readthedocs.io) is a simple Matlab interface
    to Fabber
+   
+<div style="clear: both;"></div>
  
 ### Processing pipelines
 
@@ -45,7 +47,9 @@ processing specific to the data type.
    and also supporting multiphase and vessel-encoded ASL data.
  - [verbena](https://verbena.readthedocs.io) is a pipeline for processing 
    DSC data.
-   
+
+<div style="clear: both;"></div>
+
 ### Quantiphyse
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/qpwins.png" class="img-responsive" width="20%" style="float: left" />
@@ -58,6 +62,8 @@ and quantitative BOLD.
 - [Quantiphyse](https://quantiphyse.readthedocs.io) is the main application. Other
   repositories contain various plugins however documentation for these is kept
   centrally.
+  
+<div style="clear: both;"></div>
 
 ### SVB
 
@@ -66,6 +72,8 @@ imaging timeseries data. It aims to solve the same problem as Fabber by an alter
 means which may provide advantages in some cases.
 
 - [SVB](https://svb.readthedocs.io) is the main implementation currently containing exponential and ASL models
+
+<div style="clear: both;"></div>
 
 ### Software Tutorials
    
