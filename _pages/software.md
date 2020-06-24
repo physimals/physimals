@@ -13,6 +13,8 @@ for neuro-image processing and analysis.
 
 ### Fabber
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/fabberfit.png" class="img-responsive" width="25%" style="float: left" />
+
 Fabber is a Bayesian model fitting framework which uses the Variational Bayes
 algorithm to do fast model fitting of nonlinear forward models.
 
