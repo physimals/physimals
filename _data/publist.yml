@@ -71,7 +71,7 @@
   highlight: 1
 
 - title: "Identifying the ischaemic penumbra using pH-weighted magnetic resonance imaging."
-  image:
+  image: ischemic.png
   description:
   authors: "Harston GWJ, Tee YK, Blockley N, Okell TW, Thandeswaran S, Shaya G, Sheerin F, Cellerini M, Payne SJ, Jezzard P, Chappell MA, Kennedy J"
   link:
@@ -80,7 +80,7 @@
   highlight: 1
 
 - title: "Quantitative Bayesian model-based analysis of amide proton transfer MRI."
-  image:
+  image: apt.png
   description:
   authors: "Chappell MA, Donahue MJ, Tee YK, Khrapitchev AA, Sibson NR, Jezzard P, Payne SJ"
   link:
@@ -89,7 +89,7 @@
   highlight: 1
 
 - title: "A control point interpolation method for the non-parametric quantification of cerebral haemodynamics from dynamic susceptibility contrast MRI."
-  image:
+  image: cpi.png
   description:
   authors: "Mehndiratta A, MacIntosh BJ, Crane DE, Payne SJ, Chappell MA"
   link:
@@ -98,7 +98,7 @@
   highlight: 1
 
 - title: "Partial volume correction of multiple inversion time arterial spin labeling MRI data."
-  image:
+  image: pvc_mpld.png
   description:
   authors: "Chappell MA, Groves AR, Macintosh BJ, Donahue MJ, Jezzard P, Woolrich MW"
   link:
