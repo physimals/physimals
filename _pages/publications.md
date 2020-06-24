@@ -11,8 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-See also full list of [journal papers](#journal-papers-full-list) or go to
-[Pubmed Search](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Chappell+MA+)){:target="_blank"}.
+See also [Pubmed Search](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Chappell+MA+)){:target="_blank"}.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
