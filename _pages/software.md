@@ -11,8 +11,6 @@ permalink: /software/
 We have a track record of developing and publicly releasing software
 for neuro-image processing and analysis.
 
-[FSL](#fabber), [Quantiphyse](#quantiphyse)
-
 ### Fabber
 
 Fabber is a Bayesian model fitting framework which uses the Variational Bayes
