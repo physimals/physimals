@@ -49,11 +49,11 @@ From data acquisition to interpretation of results, Introduction to Resting Stat
 
 [**Physiology for Engineers**](https://www.physiologyforengineers.org)
 
+*Michael Chappell, Stephen Payne*
+
 An introduction to qualitative 
 and quantitative aspects of human physiology using mathematical principles and engineering methods that will be familiar to engineers 
 and other physical scientists.
-
-*Michael Chappell, Stephen Payne*
 
 <div style="clear: both;"></div>
 
@@ -61,9 +61,9 @@ and other physical scientists.
 
 [**Principles of Medical Imaging for Engineers**](https://www.physiologyforengineers.org)
 
-**Coming Soon!** An introduction to the principles of medical imaging that underpin all of the major medical imaging methods. By first considering how to get signals from within the body, and then how to turn these into images, this book shows how mathematical and physics principles work in the context of medical imaging. 
-
 *Michael Chappell*
+
+**Coming Soon!** An introduction to the principles of medical imaging that underpin all of the major medical imaging methods. By first considering how to get signals from within the body, and then how to turn these into images, this book shows how mathematical and physics principles work in the context of medical imaging. 
 
 <div style="clear: both;"></div>
 
