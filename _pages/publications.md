@@ -44,17 +44,4 @@ See also full list of [journal papers](#journal-papers-full-list) or go to
 {% endif %}
 {% endfor %}
 
-<p> &nbsp; </p>
-
 <div style="clear: both;"></div>
-
-## Journal Papers Full list
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-<p> &nbsp; </p>
