@@ -20,11 +20,15 @@ School of Medicine, University of Nottingham.
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider0.png" alt="Slide 0" />
+        </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider1.png" alt="Slide 1" />
         </div>
