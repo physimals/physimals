@@ -46,7 +46,7 @@
 - title: "Extending the Human Connectome Project across ages: Imaging protocols for the Lifespan Development and Aging projects"
   image: hcp.png
   description:
-  authors: "Harms MP, Somerville LH, Ances BM, Andersson, Jesper,Barch, Deanna M,Bastiani, Matteo,Bookheimer, Susan Y,Brown, Timothy B,Buckner, Randy L,Burgess, Gregory C,Coalson, Timothy S,Chappell, Michael A,Dapretto, Mirella,Douaud, Gwenaëlle,Fischl, Bruce,Glasser, Matthew F,Greve, Douglas N,Hodge, Cynthia,Jamison, Keith W,Jbabdi, Saad,Kandala, Sridhar,Li, Xiufeng,Mair, Ross W,Mangia, Silvia,Marcus, Daniel,Mascali, Daniele,Moeller, Steen,Nichols, Thomas E,Robinson, Emma C,Salat, David H,Smith, Stephen M,Sotiropoulos, Stamatios N,Terpstra, Melissa,Thomas, Kathleen M,Tisdall, M Dylan,Ugurbil, Kamil,Kouwe, Andre van der,Woods, Roger P,Zöllei, Lilla,Essen, David C Van,Yacoub, Essa"
+  authors: "Harms MP, Somerville LH, Ances BM, Andersson J, Barch DM, Bastiani M, Bookheimer SY, Brown TB, Buckner RL, Burgess GC, Coalson TS, Chappell MA, Dapretto M, Douaud G, Fischl B, Glasser MF, Greve DN, Hodge C, Jamison KW, Jbabdi S, Kandala S, Li X, Mair RW, Mangia S, Marcus D, Mascali D, Moeller S, Nichols TE, Robinson EC, Salat DH, Smith SM, Sotiropoulos SN, Terpstra M, Thomas KM, Tisdall MD, Ugurbil K, Kouwe AVD, Woods RP, Zöllei L, Essen DCV, Yacoub E"
   link:
     url: "https://doi.org/10.1016/j.neuroimage.2018.09.060"
     display: "NeuroImage 183 (2018)"
@@ -55,7 +55,7 @@
 - title: "Quantification of Serial Cerebral Blood Flow in Acute Stroke Using Arterial Spin Labeling."
   image: stroke.png
   description:
-  authors: "Harston, GWJ, Okell, Thomas W,Sheerin, Fintan,Schulz, Ursula,Mathieson, Phil,Reckless, Ian,Shah, Kunal,Ford, Gary A,Chappell, Michael A,Jezzard, Peter,Kennedy, James"
+  authors: "Harston GWJ, Okell TW, Sheerin F, Schulz U, Mathieson P, Reckless I, Shah K, Ford GA, Chappell MA, Jezzard P, Kennedy J"
   link:
     url: "https://doi.org/10.1161/strokeaha.116.014707"
     display: "Stroke 48:1 (2017)"
@@ -64,7 +64,7 @@
 - title: "A systematic study of the sensitivity of partial volume correction methods for the quantification of perfusion from pseudo-continuous arterial spin labeling MRI."
   image: pvc.png
   description:
-  authors: "Zhao, Moss Y,Mezue, Melvin,Segerdahl, Andrew R,Okell, Thomas W,Tracey, Irene,Xiao, Yingyi,Chappell, Michael A"
+  authors: "Zhao MY, Mezue M, Segerdahl AR, Okell TW, Tracey I, Xiao Y, Chappell MA"
   link:
     url: "https://doi.org/10.1016/j.neuroimage.2017.08.072"
     display: "NeuroImage 162 (2017)"
@@ -73,7 +73,7 @@
 - title: "Identifying the ischaemic penumbra using pH-weighted magnetic resonance imaging."
   image:
   description:
-  authors: "Harston, George W J,Tee, Yee Kai,Blockley, Nicholas,Okell, Thomas W,Thandeswaran, Sivarajan,Shaya, Gabriel,Sheerin, Fintan,Cellerini, Martino,Payne, Stephen J,Jezzard, Peter,Chappell, Michael A,Kennedy, James"
+  authors: "Harston GWJ, Tee YK, Blockley N, Okell TW, Thandeswaran S, Shaya G, Sheerin F, Cellerini M, Payne SJ, Jezzard P, Chappell MA, Kennedy J"
   link:
     url: "https://doi.org/10.1093/brain/awu374"
     display: "Brain 138:Pt 1 (2015)"
@@ -82,7 +82,7 @@
 - title: "Quantitative Bayesian model-based analysis of amide proton transfer MRI."
   image:
   description:
-  authors: "Chappell, Michael A,Donahue, Manus J,Tee, Yee Kai,Khrapitchev, Alexandre A,Sibson, Nicola R,Jezzard, Peter,Payne, Stephen J"
+  authors: "Chappell MA, Donahue MJ, Tee YK, Khrapitchev AA, Sibson NR, Jezzard P, Payne SJ"
   link:
     url: "https://doi.org/10.1002/mrm.24474"
     display: "Magnetic resonance in medicine 70:2 (2013)"
@@ -91,7 +91,7 @@
 - title: "A control point interpolation method for the non-parametric quantification of cerebral haemodynamics from dynamic susceptibility contrast MRI."
   image:
   description:
-  authors: "Mehndiratta, Amit,MacIntosh, Bradley J,Crane, David E,Payne, Stephen J,Chappell, Michael A"
+  authors: "Mehndiratta A, MacIntosh BJ, Crane DE, Payne SJ, Chappell MA"
   link:
     url: "https://doi.org/10.1016/j.neuroimage.2012.08.083"
     display: "NeuroImage 64 (2013)"
@@ -100,7 +100,7 @@
 - title: "Partial volume correction of multiple inversion time arterial spin labeling MRI data."
   image:
   description:
-  authors: "Chappell, Michael A,Groves, A R,Macintosh, B J,Donahue, M J,Jezzard, P,Woolrich, M W"
+  authors: "Chappell MA, Groves AR, Macintosh BJ, Donahue MJ, Jezzard P, Woolrich MW"
   link:
     url: "https://doi.org/10.1002/mrm.22641"
     display: "Magnetic resonance in medicine 65:4 (2011)"
@@ -109,7 +109,7 @@
 - title: "Separation of macrovascular signal in multi-inversion time arterial spin labelling MRI."
   image:
   description:
-  authors: "Chappell, Michael A,MacIntosh, Bradley J,Donahue, Manus J,Günther, Matthias,Jezzard, Peter,Woolrich, Mark W"
+  authors: "Chappell MA, MacIntosh BJ, Donahue MJ, Günther M, Jezzard P, Woolrich MW"
   link:
     url: "https://doi.org/10.1002/mrm.22320"
     display: "Magnetic resonance in medicine 63:5 (2010)"
@@ -118,7 +118,7 @@
 - title: "A general framework for the analysis of vessel encoded arterial spin labeling for vascular territory mapping."
   image:
   description:
-  authors: "Chappell, Michael A,Okell, Thomas W,Jezzard, Peter,Woolrich, Mark W"
+  authors: "Chappell MA, Okell TW, Jezzard P, Woolrich MW"
   link:
     url: "https://doi.org/10.1002/mrm.22524"
     display: "Magnetic resonance in medicine 64:5 (2010)"
@@ -127,8 +127,9 @@
 - title: "Variational Bayesian Inference for a Nonlinear Forward Model"
   image:
   description:
-  authors: "Chappell, Michael A,Groves, AR,Whitcher, B,Woolrich, MW"
+  authors: "Chappell MA, Groves A, Whitcher B, Woolrich M"
   link:
-    url: "http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=4625948&tag=1"
+    url: "http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=4625948\&tag=1"
     display: "IEEE Transactions on Signal Processing 57:1 (2009)"
   highlight: 1
+
