@@ -46,6 +46,8 @@ See also full list of [journal papers](#journal-papers-full-list) or go to
 
 <p> &nbsp; </p>
 
+<div style="clear: both;"></div>
+
 ## Journal Papers Full list
 
 {% for publi in site.data.publist %}
