@@ -3,7 +3,7 @@
   physimal: Michael_physimal.png
   info: Professor of Biomedical Imaging
   email: michael.chappell@nottingham.ac.uk   
-  number_educ: 4
+  number_educ: 5
   education1: MEng Engineering Science, University of Oxford, UK
   education2: DPhil Engineering Science, University of Oxford, UK
   education3: Research Associate, FMIRB Centre, University of Oxford, UK
@@ -18,8 +18,10 @@
   physimal: Paula_physimal.jpg
   info: Postdoctoral Research Scientist - Deputy Group Leader
   email: paula.croal@nottingham.ac.uk   
-  number_educ: 1
-  education1: 
+  number_educ: 3
+  education1: PhD Physics, SPMIC University of Nottingham
+  education2: MSc Cognitive and Computational Neuroscience
+  education3: BSc Psychology
   google_scholar: 
   orcid:  
   
@@ -28,18 +30,19 @@
   physimal: Flora_physimal.jpg
   info: Postdoctoral Research Scientist
   email: flora.kennedymcconnell@nottingham.ac.uk   
-  number_educ: 1
-  education1: 
+  number_educ: 2
+  education1: MEng Engineering Science, University of Oxford, UK
+  education2: DPhil CDT in Healthcare InnovationBiomedical/Medical Engineering
   google_scholar: 
   orcid:  
-  
+
 - name: Jack Toner
   photo: jack_photo.png
   physimal: Jack_physimal.jpg
   info: Postdoctoral Research Scientist
   email: jack.toner@nottingham.ac.uk   
   number_educ: 1
-  education1: 
+  education1: MEng Engineering Science, University of Oxford, UK
   google_scholar: 
   orcid:  
   
