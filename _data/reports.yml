@@ -1,7 +1,7 @@
 - title: "The FMRIB Variational Bayes Tutorial"
   image: vb1.png
   description: "Variational Bayesian inference for a non-linear forward model"
-  authors: "Chappell MA, Groves A, Woolrich MW 
+  authors: "Chappell MA, Groves A, Woolrich MW"
   link:
     url: "https://users.fmrib.ox.ac.uk/~chappell/papers/TR07MC1.pdf"
     display: "PDF document"
