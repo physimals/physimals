@@ -67,6 +67,14 @@ and quantitative BOLD.
   
 <div style="clear: both;"></div>
 
+### Python libraries
+
+- [Toblerone](https://toblerone.readthedocs.io) contains tools for surface based
+  analysis including projection and partial volume estimation.
+  
+- [Regtricks](https://regtricks.readthedocs.io) contains tools for manipulating, 
+  combining and applying image transformations.  
+
 ### SVB
 
 SVB is an implementation of Stochastic Variational Bayes for inferring on medical
