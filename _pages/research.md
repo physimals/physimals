@@ -22,7 +22,7 @@ use of image analysis methods for physiological imaging. An important
 aspect of our work is the development of software tools that enable
 physiological imaging technology to be used in the fundamental
 understanding of human biology and physiology, and in patients as part
-of clinical trials and clinical practice (see our [software]({{ site.url }}{{ site.baseurl }}/software)) . </p>
+of clinical trials and clinical practice (see our [software]({{ site.url }}{{ site.baseurl }}/software)) . 
 
 ### Why Physiological Imaging?
 
