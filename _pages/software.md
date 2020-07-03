@@ -9,29 +9,27 @@ permalink: /software/
 # Software
 
 We have a track record of developing and publicly releasing software
-for neuro-image processing and analysis.
+for physiological image processing and analysis. Our ethos is to try and make the work we do available for other people to try out and use, seeking to be:
 
-### Fabber
+* Transparent: When it comes to algorithms and analysis methods we try hard to make publications as complete as possible. However, it can still be hard for the reader reproduce the method exactly. By providing our code we want to let others have better access to what we have done, compare it to alternative approaches and improve upon it.
+* Pragmatic: However good our method may be at solving the problem we designed it for there is a barrier to use because it is not trivial to implement. Since we often try to solve problems that are relevant to people who do not have a highly mathematical or engineering background it seems unfair to make the user re-invent the wheel when we already have the code written.
+* Collaborative: Ultimately we want to see research progress and not be held up by making people spend time writing programs that already exist. We also regularly work with people who want to use our methods or even try to improve upon them.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/fabberfit.png" class="img-responsive" width="25%" style="float: left" />
+### Quantiphyse
 
-Fabber is a Bayesian model fitting framework which uses the Variational Bayes
-algorithm to do fast model fitting of nonlinear forward models.
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/qpwins.png" class="img-responsive" width="25%" style="float: left" />
 
- - [Fabber core](https://fabber-core.readthedocs.io) defines the main model fitting algorithm
-   and contains a few simple generic models for testing and demonstration purposes.
- - [Fabber ASL models](https://fabber-asl.readthedocs.io) is a set of Fabber models for
-   ASL-MRI data
- - [Fabber DCE models](https://fabber-dce.readthedocs.io) is a set of Fabber models for
-   DCE-MRI data
- - [Fabber DSC models](https://fabber-dsc.readthedocs.io) is a set of Fabber models for
-   DSC-MRI data
- - [pyfab](https://pyfab.readthedocs.io) is a Python API for Fabber
- - [fabber_matlab](https://fabber-matlab.readthedocs.io) is a simple Matlab interface
-   to Fabber
-   
+Quantiphyse is a GUI viewing and analysis package for biomedical imaging data. 
+As well as generic visualisation and processing functionality, it contains a set of
+plugins for processing specific kinds of physiological imaging data including ASL, DCE, CEST, DSC
+and quantitative BOLD.
+
+- [Quantiphyse](https://quantiphyse.readthedocs.io) is the main application. Other
+  repositories contain various plugins however documentation for these is kept
+  centrally.
+  
 <div style="clear: both;"></div>
- 
+
 ### Processing pipelines
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/basilgui.png" class="img-responsive" width="30%" style="float: right" />
@@ -52,28 +50,26 @@ processing specific to the data type.
 
 <div style="clear: both;"></div>
 
-### Quantiphyse
+### Fabber
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/qpwins.png" class="img-responsive" width="25%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/fabberfit.png" class="img-responsive" width="25%" style="float: left" />
 
-Quantiphyse is a GUI viewing and analysis package for biomedical imaging data. 
-As well as generic visualisation and processing functionality, it contains a set of
-plugins for processing specific kinds of imaging data including ASL, DCE, CEST, DSC
-and quantitative BOLD.
+Fabber is a Bayesian model fitting framework which uses the Variational Bayes
+algorithm to do fast model fitting of nonlinear forward models. It is a fully Bayesian solution allowing the specification of prior information and the production of posterior distributions. The algorithm can be used on any serial data, but we have also designed it to be suitable for serial imaging data.
 
-- [Quantiphyse](https://quantiphyse.readthedocs.io) is the main application. Other
-  repositories contain various plugins however documentation for these is kept
-  centrally.
-  
+ - [Fabber core](https://fabber-core.readthedocs.io) defines the main model fitting algorithm
+   and contains a few simple generic models for testing and demonstration purposes.
+ - [Fabber ASL models](https://fabber-asl.readthedocs.io) is a set of Fabber models for
+   ASL-MRI data
+ - [Fabber DCE models](https://fabber-dce.readthedocs.io) is a set of Fabber models for
+   DCE-MRI data
+ - [Fabber DSC models](https://fabber-dsc.readthedocs.io) is a set of Fabber models for
+   DSC-MRI data
+ - [pyfab](https://pyfab.readthedocs.io) is a Python API for Fabber
+ - [fabber_matlab](https://fabber-matlab.readthedocs.io) is a simple Matlab interface
+   to Fabber
+   
 <div style="clear: both;"></div>
-
-### Python libraries
-
-- [Toblerone](https://toblerone.readthedocs.io) contains tools for surface based
-  analysis including projection and partial volume estimation.
-  
-- [Regtricks](https://regtricks.readthedocs.io) contains tools for manipulating, 
-  combining and applying image transformations.  
 
 ### SVB
 
@@ -84,6 +80,15 @@ means which may provide advantages in some cases.
 - [SVB](https://svb.readthedocs.io) is the main implementation currently containing exponential and ASL models
 
 <div style="clear: both;"></div>
+
+### Python libraries
+
+- [Toblerone](https://toblerone.readthedocs.io) contains tools for surface based
+  analysis including projection and partial volume estimation.
+  
+- [Regtricks](https://regtricks.readthedocs.io) contains tools for manipulating, 
+  combining and applying image transformations.  
+
 
 ### Software Tutorials
    
