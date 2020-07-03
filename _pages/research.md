@@ -52,7 +52,7 @@ treatment
 
 Information
 
-* **Software **
+* **Software**
 
 We also have a track record of releasing open-source [software]({{ site.url }}{{ site.baseurl }}/software)
 
