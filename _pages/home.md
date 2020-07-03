@@ -8,7 +8,7 @@ permalink: /
 
 We are a research group in the
 [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"}
-and part of the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) {:target="_blank"} in the
+and part of the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"} in the
 School of Medicine, University of Nottingham. We are an
 interdisciplinary team who seek to use medical imaging technology to
 make measurements of physiology when and where they happen in the
@@ -71,7 +71,7 @@ in medical imaging data to probe physiogical processes happening in
 the living body. (see [Research]({{ site.url }}{{ site.baseurl }}/research)).
 
 We work closely with collaborators in
-image acquisition in the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) {:target="_blank"}, in applications to the fundamental understanding
+image acquisition in the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"}, in applications to the fundamental understanding
 of health and disease with a range of groups across the university and
 beyond, as well as in clinical applications of
 physiological imaging to improve patient care, including through the
