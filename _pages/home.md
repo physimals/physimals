@@ -6,8 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the [Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"} in the
-School of Medicine, University of Nottingham. 
+We are a research group in the
+[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"}
+and part of the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) {:target="_blank"} in the
+School of Medicine, University of Nottingham. We are an
+interdisciplinary team who seek to use medical imaging technology to
+make measurements of physiology when and where they happen in the
+human body. 
 
 <p> &nbsp; </p>
 
@@ -60,11 +65,23 @@ School of Medicine, University of Nottingham.
 
 <p> &nbsp; </p>
 
-(Further group info) (see [Research]({{ site.url }}{{ site.baseurl }}/research)).
+The Physimals develop and
+use image analysis methods to exploit the information contained
+in medical imaging data to probe physiogical processes happening in
+the living body. (see [Research]({{ site.url }}{{ site.baseurl }}/research)).
+
+We work closely with collaborators in
+image acquisition in the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx) {:target="_blank"}, in applications to the fundamental understanding
+of health and disease with a range of groups across the university and
+beyond, as well as in clinical applications of
+physiological imaging to improve patient care, including through the
+NIHR [Nottingham Biomedical Research Centre](https://nottinghambrc.nihr.ac.uk){:target="_blank"}. 
 
 We are located at the University of Nottingham, the [birthplace of MRI](https://en.wikipedia.org/wiki/Peter_Mansfield){:target="_blank"}. We
-have a number of national and international [collaborations]({{ site.url }}{{ site.baseurl }}/team/#collaborators)  and very
-strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research){:target="_blank"} group at the [WIN](https://www.win.ox.ac.uk){:target="_blank"} Centre, University of
+have a number of national and international [collaborations]({{ site.url }}{{ site.baseurl }}/team/#collaborators)  and
+strong links with the
+[Analysis](https://www.win.ox.ac.uk/research/analysis-research){:target="_blank"}
+and [Physics](https://www.win.ox.ac.uk/research/physics-research){:target="_blank"} groups at the [WIN](https://www.win.ox.ac.uk){:target="_blank"} Centre, University of
 Oxford.
 
 We are grateful for funding from the University of Nottingham and the

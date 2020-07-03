@@ -1,5 +1,5 @@
 ---
-title: "PhysImAl - Team"
+title: "The PhysImAls"
 layout: gridlay
 excerpt: "The PhysImAls: Team members"
 sitemap: false
@@ -115,7 +115,39 @@ Jump to [staff](#staff), [alumni](#alumni),
 </div>
 {% endif %}
 
+## Lab Affiliates
+{% assign number_printed = 0 %}
+{% for member in site.data.associate_members %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br> email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
 
 ## Alumni
 
@@ -153,41 +185,17 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 <p> &nbsp; </p>
 
-
-## Lab Affiliates
-{% assign number_printed = 0 %}
-{% for member in site.data.associate_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>Role: {{ member.info }}<br> email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
 ## Collaborators
 
-<p> &nbsp; </p>
+<p>
+* Dorothee Auer, University of Nottingham, UK
+* Penny Gowland, University of Nottingham, UK
+* Sue Franics, University of Nottingham, UK
+* Thomas Okell, University of Oxford, UK
+* Mark Jenkinson, University of Oxford & University of Adelaide,
+Australia
+* Xavier Golay, University College London, UK
+* Matthias van Osch, Ledien University, Netherlands
+* Matthias Günther, Fraunhofer MEVIS, Germany
+* Bradley MacIntosh, Sunnybook Research Institute, Canada
+&nbsp; </p>
