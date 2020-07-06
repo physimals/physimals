@@ -187,7 +187,6 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 ## Collaborators
 
-<p>
 * Dorothee Auer, University of Nottingham, UK
 * Penny Gowland, University of Nottingham, UK
 * Sue Franics, University of Nottingham, UK
@@ -198,4 +197,5 @@ Australia
 * Matthias van Osch, Ledien University, Netherlands
 * Matthias Günther, Fraunhofer MEVIS, Germany
 * Bradley MacIntosh, Sunnybook Research Institute, Canada
-&nbsp; </p>
+
+<p>&nbsp; </p>
