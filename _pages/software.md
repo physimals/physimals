@@ -83,6 +83,8 @@ means which may provide advantages in some cases.
 
 ### Python libraries
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/brainsurf.png" class="img-responsive" width="30%" style="float: right" />
+
 - [Toblerone](https://toblerone.readthedocs.io) contains tools for surface based
   analysis including projection and partial volume estimation.
   
