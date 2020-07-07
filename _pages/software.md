@@ -86,10 +86,14 @@ means which may provide advantages in some cases.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/brainsurf.png" class="img-responsive" width="20%" style="float: right" />
 
 - [Toblerone](https://toblerone.readthedocs.io) contains tools for surface based
-  analysis including projection and partial volume estimation.
+  analysis including projection and partial volume estimation. Toblerone can estimate partial volumes
+  across the brain using surface segmentations (for example, those from FreeSurfer and FSL FIRST). 
   
 - [Regtricks](https://regtricks.readthedocs.io) contains tools for manipulating, 
-  combining and applying image transformations.  
+  combining and applying image transformations.  It is not a replacement for image registration tools 
+  (eg FSL FLIRT), but it does make working with the output of these tools easier. In particular
+  it enables transformations to be combined within an object oriented interface and applied
+  to data in a single step, avoiding multiple interpolations.
 
 <div style="clear: both;"></div>
 
