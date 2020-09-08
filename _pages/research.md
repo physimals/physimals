@@ -11,7 +11,7 @@ permalink: /research
 ### Vision
 
 Rather than seeing medical imaging as just a way to generate
-‘pictures’ for inspection, we are seeking to establish imaging as a
+‘pictures’ for inspection, we use medical imaging technology as a
 means to observe physiological processes when and when they happen, as
 they happen, in the human body entirely non-invasively and in a manner
 that can be used to study health and disease in people and ultimately
@@ -31,7 +31,7 @@ technology to observe physiological (and biological) processes as they
 are happening and where they are happening. The resulting images
 therefore comprise spatially resolved measurements of processes
 happening in the body that are important to normal healthy function,
-and disturbed in disease.
+and are disturbed in disease.
 
 Physiological imaging is useful because it is
   
@@ -42,7 +42,7 @@ Physiological imaging is useful because it is
 alter and are things we often want to alter with
 treatment
 
-(cerdit to Hanzhang Lu for this list)
+(with credit to Hanzhang Lu)
 
 ### Projects
 
