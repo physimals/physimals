@@ -48,9 +48,14 @@ treatment
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/summaryA2.jpg){: style="width: 40%; float: right; padding: 10px"}
 
-* **Project 1**
+* ** Controlling structure induced variations in non-invasive perfusion MRI of neurodegeneration (EPSRC funded)**
 
-Information
+Perfusion imaging allows us to measure the vital role played by delivery of blood to the brain in keeping it supplied with nutrients and removal of waste. Any deviations of the blood supply from normal can be a sign of disease. In particular early and subtle changes in perfusion might mark regions of the brain which are affected by degenerative diseases such as dementia before other imaging signs become obvious.
+The technology exists and is increasingly widely available to image perfusion quickly and safely using Magnetic Resonance Imaging. Thus perfusion Magnetic Resonance Imaging could be a valuable tool in the understanding of dementias, as well as the diagnosis and monitoring of patients with dementia. The challenge that remains is making sufficiently specific measurements of subtle changes in blood supply that would be needed to make the technology truly useful for patients. This project addresses that problem in three ways:
+> Automated removal of errors associated with imperfect measurement, for example due to motion of the patient.
+> Methods to control for differences between patients due to their individual brain structure, allowing blood supply measurements to be compared between individuals or from a patient to a population of similar healthy adults. These methods remove uncertainties introduced by other differences between the brain's of individuals that are not related to perfusion.
+> Generation of personalised reference perfusion images for an individual patient against which their measured perfusion can be compared to detect changes specific to that individual.
+The methods and tools that are to be generated in this project will enable perfusion Magnetic Resonance Imaging to be used more effectively in the UK-wide effort to understand dementia and in the search for new and effective treatments. Ultimately the work done in this project will enable perfusion Magnetic Resonance Imaging to become a valuable clinical tool that can be used in the diagnosis and monitoring of individual patients with dementia.
 
 * **Software**
 
