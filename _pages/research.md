@@ -8,7 +8,7 @@ permalink: /research
 
 # Research
 
-### Vision
+### Our vision
 
 Rather than seeing medical imaging as just a way to generate
 ‘pictures’ for inspection, we use medical imaging technology as a
