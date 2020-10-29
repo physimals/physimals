@@ -11,7 +11,7 @@ permalink: /basil2020/
 
 ### Learn
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/basilcourse/cbf.jpg" class="img-responsive" width="25%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/basilcourse/cbf.jpg" class="img-responsive" width="25%" style="float: right" />
 
 Learn the theory and practice of quantifying and mapping cerebral
 perfusion (blood flow) using Arterial Spin Labelling MRI from the
@@ -24,11 +24,20 @@ September 2020. But, it is still suitable if you are new to FSL and
 neuorimaging analysis more generally (or have done the FSL course in
 previous years).
 
+<div style="clear: both;"></div>
+
 ### Attend Remotely
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/basilcourse/fsl-logo.png" class="img-responsive" width="25%" style="float: left" />
 
-All course material will be delivered remotely. Lecture videos will be online. We will be providing machines to work on in the cloud, complete with all the data and software you will need. You will interact with expert tutors and other course attendees through Zoom, or equivalent. We will support you through the practical, hands-on session.
+All course material will be delivered remotely. Lecture videos will be
+online. We will be providing machines to work on in the cloud,
+complete with all the data and software you will need. You will
+interact with expert tutors and other course attendees through Zoom,
+or equivalent. We will support you through the practical, hands-on
+session.
+
+<div style="clear: both;"></div>
 
 ### Global Community
 
