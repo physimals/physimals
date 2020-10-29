@@ -141,9 +141,12 @@ experience, we strongly recommend the [Introduction to Neuroimaging
 Analysis Primer](http://www.neuroimagingprimers.org/) as a very useful introduction.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png"
-class="img-responsive" width="25%" style="float: left" />
+class="img-responsive" width="35%" style="float: left" />
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="25%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="35%" style="float: right" />
+
+
+<div style="clear: both;"></div>
 
 If you are looking for additional materials before or after the
 course, we recommend the [Oxford Neuroimaging Primers](http://www.neuroimagingprimers.org/). This bookseries
