@@ -39,8 +39,8 @@ session.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/basilcourse/fsl-logo.png" class="img-responsive" width="25%" style="float: left" />
 
-FSL is used all over the world and ASL is an increasingly popilar
-neourimaging tools that gives unique insight into cerebral physiology. This year's online BASIL course will offer a unique opportunity for those that may not normally travel to a course. We will be inclusive, supporting users in all countries, and we want to support our diverse users at all career stages.
+FSL is used all over the world and ASL is an increasingly popular
+neuorimaging tool that gives unique insight into cerebral physiology. This year's online BASIL course will offer a unique opportunity for those that may not normally travel to a course. We will be inclusive, supporting users in all countries, and we want to support our diverse users at all career stages.
 
 <div style="clear: both;"></div>
 
