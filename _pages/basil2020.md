@@ -24,11 +24,7 @@ September 2020. But, it is still suitable if you are new to FSL and
 neuorimaging analysis more generally (or have done the FSL course in
 previous years).
 
-<div style="clear: both;"></div>
-
 ### Attend Remotely
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/basilcourse/fsl-logo.png" class="img-responsive" width="25%" style="float: left" />
 
 All course material will be delivered remotely. Lecture videos will be
 online. We will be providing machines to work on in the cloud,
@@ -40,6 +36,8 @@ session.
 <div style="clear: both;"></div>
 
 ### Global Community
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/basilcourse/fsl-logo.png" class="img-responsive" width="25%" style="float: left" />
 
 FSL is used all over the world and ASL is an increasingly popilar
 neourimaging tools that gives unique insight into cerebral physiology. This year's online BASIL course will offer a unique opportunity for those that may not normally travel to a course. We will be inclusive, supporting users in all countries, and we want to support our diverse users at all career stages.
@@ -53,6 +51,8 @@ anyone who is currently registered as a student with your university
 or institution), £125 for postdocs and other non-student attendees. A
 sepcial rate of £15 is avaiable for individuals who attended the September 2020
 online FSL Course.
+
+Registration will open *soon* and is via the University of Nottingham online store.
 
 Course registration includes access to recorded lectures, a live practical session with expert tutors (via Zoom or equivalent), and remote desktop machines in the cloud with all the necessary software and data already setup. All course materials (online lectures, practical instructions and data) will be available in electronic format during and after the course.
 The number of attendees are strictly limited and are available on a first-come-first-served basis.
@@ -124,11 +124,11 @@ period of time. To make the most of our time together, we have put
 together some preparatory material that we recommend you complete before
 attending if you are not already familiar with FSL and neuroimaging analysis. 
 
-This consists of a lecture set of three short introductory FSL practicals on FSLeyes, BET, and FSL Utils.
+This consists of a lecture set of three short introductory FSL practicals on [FSLeyes](https://www.youtube.com/watch?v=80d9FoqvuGo&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC&index=1), [BET](https://www.youtube.com/watch?v=CcjBoqpgACc&index=1&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC), and [FSL Utils](https://www.youtube.com/watch?v=7Ud6uBuxqXY&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC&index=2).
 
-There is also a set of five videos on "Introduction to UNIX". The Introduction to UNIX videos are optional. However, if you do not have experience using a terminal, then these are extremely useful to watch before the course. 
+There is also a [set of five videos](https://www.youtube.com/playlist?list=PLvgasosJnUVnnFifxecbyEno7jnqrl8fQ) on "Introduction to UNIX". The Introduction to UNIX videos are optional. However, if you do not have experience using a terminal, then these are extremely useful to watch before the course. 
 
-Links to all the videos and accompanying data and instructions can be found on the FSL Course Material website. 
+Links to all the videos and accompanying data and instructions can be found on the [FSL Course Material website](https://fsl.fmrib.ox.ac.uk/fslcourse/). 
 
 Please allow at least three hours to go through the material on a
 computer that has FSL installed. If you do not have FSL installed you
@@ -137,11 +137,16 @@ course. During the course it will be expected that the preparatory
 materials listed above have been completed. If you are entirely new to
 neuroimaging the course will feel like a lot of new information in a
 very short time. Therefore, for those with little or no prior
-experience, we strongly recommend the Introduction to Neuroimaging
-Analysis Primer as a very useful introduction.
+experience, we strongly recommend the [Introduction to Neuroimaging
+Analysis Primer](http://www.neuroimagingprimers.org/) as a very useful introduction.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png"
+class="img-responsive" width="25%" style="float: left" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip2.png" class="img-responsive" width="25%" style="float: right" />
 
 If you are looking for additional materials before or after the
-course, we recommend the Oxford Neuroimaging Primers. This bookseries
+course, we recommend the [Oxford Neuroimaging Primers](http://www.neuroimagingprimers.org/). This bookseries
 published by Oxford University Press contains several short
 introductions and currently includes: 'Introduction to Neuroimaging
 Analysis' and, 'Introduction to Perfusion Quantification using
