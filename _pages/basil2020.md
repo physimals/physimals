@@ -48,8 +48,8 @@ neuorimaging tool that gives unique insight into cerebral physiology. This year'
 
 Registration (in UK pounds) is £20 for PhD/MSc students (this includes
 anyone who is currently registered as a student with your university
-or institution), £125 for postdocs and other non-student attendees. A
-sepcial rate of £15 is avaiable for individuals who attended the September 2020
+or institution), £25 for postdocs and other non-student attendees. A
+special rate of £15 is avaiable for individuals who attended the September 2020
 online FSL Course.
 
 Registration will open *soon* and is via the University of Nottingham online store.
