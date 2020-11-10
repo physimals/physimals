@@ -52,7 +52,7 @@ or institution), £25 for postdocs and other non-student attendees. A
 special rate of £15 is avaiable for individuals who attended the September 2020
 online FSL Course.
 
-Registration will open *soon* and is via the University of Nottingham online store.
+[Registration is now *open* via the University of Nottingham online store.](https://store.nottingham.ac.uk/conferences-and-events/conferences/schools-and-departments/medicine/analysis-of-asl-mri-using-basil-fsl-minicourse)
 
 Course registration includes access to recorded lectures, a live practical session with expert tutors (via Zoom or equivalent), and remote desktop machines in the cloud with all the necessary software and data already setup. All course materials (online lectures, practical instructions and data) will be available in electronic format during and after the course.
 The number of attendees are strictly limited and are available on a first-come-first-served basis.
