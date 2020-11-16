@@ -37,7 +37,7 @@ If you are new to Neuroimaging or to FSL tools you might find the
 following resources helpful before looking at the material on ASL.
 
 If you are not particularly familar with MRI you might like to
-read a (Short Introduction to MRI Physics for Neuroimaging)[http://www.neuroimagingprimers.org/online-appendices/] available
+read a [Short Introduction to MRI Physics for Neuroimaging](http://www.neuroimagingprimers.org/online-appendices/) available
 via the neuroimagingprimers.org website.
 
 If you are new to FSL we recommend these three short introductory FSL practicals on [FSLeyes](https://www.youtube.com/watch?v=80d9FoqvuGo&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC&index=1), [BET](https://www.youtube.com/watch?v=CcjBoqpgACc&index=1&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC), and [FSL Utils](https://www.youtube.com/watch?v=7Ud6uBuxqXY&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC&index=2).
@@ -49,10 +49,10 @@ topics that will be covered (especially for the group analysis
 section).
 
 We would recommend familarity with:
-Section 1: Image Registration and Distorition Correction (videos 1-5
+* Section 1: Image Registration and Distorition Correction (videos 1-5
 are all helpful)
-Section 2: Segmentation and Structural Analysis (video 7 on FAST)
-Section 4: Statistics & Task fMRI: Inference and Group Analysis (videos
+* Section 2: Segmentation and Structural Analysis (video 7 on FAST)
+* Section 4: Statistics & Task fMRI: Inference and Group Analysis (videos
 15-20 provide useful background on group analysis)
 
 <div style="clear: both;"></div>
@@ -61,13 +61,13 @@ Section 4: Statistics & Task fMRI: Inference and Group Analysis (videos
 
 To get the most out of the course we strongly recommend you watch the
 following videos ahead of time. The aim of the session on the day is
-to give you time to perform analyese for youself with support from the
+to give you time to perform analyses for youself with support from the
 tutors, there will only be a short introduction and not a full
 lecture. There is ~90 minutes of material, if you are short of time
 you could start by watching video 1 and then 3 (~40 mins), then
 selecting the others that interest you.
 
-The full playlist can be accessed below:
+The full playlist can be accessed here:
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/videoseries?list=PL_o6nLE5UY0MI4zuEXj32XcxS_JLjP0rZ"
 frameborder="0" allow="accelerometer; autoplay; clipboard-write;
@@ -75,7 +75,7 @@ encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
 The invidivual videos:
-* [1 - Introduction)](ttps://youtu.be/grSeSiZZ8hE)
+* [1 - Introduction](ttps://youtu.be/grSeSiZZ8hE)
 * [2 - Acquisition](https://youtu.be/PpUq7eX8KZA)
 * [3 - Analysis](https://youtu.be/baK7XRmmSOk)
 * [4 - Quantification](https://youtu.be/5GA9XQvTMQY)
@@ -117,10 +117,10 @@ Paula Croal, Flora Kennedy McConnell and Moss Zhao.
 
 Two separate pratical sessions will be run, in order to cater for
 different timezones. The content for the two sessions will be
-identical. You should attedn the session you chose on registration -
+identical. You should attend the session you chose during registration -
 you should not switch sessions on the day. If you discover in advance
 that you need to change your session choice please contact the
-organsiers and we will do our best to accomodate your request.
+organisers and we will do our best to accomodate your request.
 
 Session A: 9am-12noon (UK) / 10am-1pm (Europe) / 11am-2pm (Israel) / 12:30pm-3:30pm (Iran) / 1:30-4:30pm (India) / 4pm-7pm (China/Singapore) / 6pm-9pm (Melbourne) / 8pm-11pm (New Zealand)
 
@@ -129,16 +129,12 @@ Session B: 3pm-6pm (UK) / 10am-1pm (East Coast USA) / 7am-10am (West Coast USA)
 
 ## After the course
 
-During the course, we will be covering a lot of material in a short
-period of time. To make the most of our time together, we have put
-together some preparatory material that we recommend you complete before
-attending if you are not already familiar with FSL and neuroimaging analysis. 
-
-If you are entirely new to
-neuroimaging the course might feel like a lot of new information in a
-very short time. Therefore, for those with little or no prior
-experience, we strongly recommend the [Introduction to Neuroimaging
-Analysis Primer](http://www.neuroimagingprimers.org/) as a very useful introduction.
+If you are looking for additional materials after the
+course, we recommend the [Oxford Neuroimaging Primers](http://www.neuroimagingprimers.org/). This bookseries
+published by Oxford University Press contains several short
+introductions and currently includes: 'Introduction to Neuroimaging
+Analysis' and, 'Introduction to Perfusion Quantification using
+Arterial Spin Labelling'. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bookpic/nip1.png"
 class="img-responsive" width="35%" style="float: left" />
@@ -148,10 +144,5 @@ class="img-responsive" width="35%" style="float: left" />
 
 <div style="clear: both;"></div>
 
-If you are looking for additional materials after the
-course, we recommend the [Oxford Neuroimaging Primers](http://www.neuroimagingprimers.org/). This bookseries
-published by Oxford University Press contains several short
-introductions and currently includes: 'Introduction to Neuroimaging
-Analysis' and, 'Introduction to Perfusion Quantification using
-Arterial Spin Labelling'. 
+
 <p> &nbsp; </p>
