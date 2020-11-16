@@ -42,7 +42,7 @@ via the neuroimagingprimers.org website.
 
 If you are new to FSL we recommend these three short introductory FSL practicals on [FSLeyes](https://www.youtube.com/watch?v=80d9FoqvuGo&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC&index=1), [BET](https://www.youtube.com/watch?v=CcjBoqpgACc&index=1&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC), and [FSL Utils](https://www.youtube.com/watch?v=7Ud6uBuxqXY&list=PLvgasosJnUVku_GE64BfFuftEvh3Y8lHC&index=2).
 
-The (FSL course)[http://fsl.fmrib.ox.ac.uk/fslcourse/online_materials.html] provides a wide range of videos and practical
+The [FSL course](http://fsl.fmrib.ox.ac.uk/fslcourse/online_materials.html) provides a wide range of videos and practical
 exercises. Whilst you do not need to have looked at any of this before
 the BASIL course, you might find some of it helpful background for
 topics that will be covered (especially for the group analysis
@@ -75,12 +75,12 @@ encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
 The invidivual videos:
-(1 - Introduction)[https://youtu.be/grSeSiZZ8hE]
-(2 - Acquisition)[https://youtu.be/PpUq7eX8KZA]
-(3 - Analysis)[https://youtu.be/baK7XRmmSOk]
-(4 - Quantification)[https://youtu.be/5GA9XQvTMQY]
-(5 - Group Analysis)[https://youtu.be/2zVQ7vYe73k]
-(6 - Advanced Analysis)[https://youtu.be/Pp-jRHpGrOQ]
+* [1 - Introduction)](ttps://youtu.be/grSeSiZZ8hE)
+* [2 - Acquisition](https://youtu.be/PpUq7eX8KZA)
+* [3 - Analysis](https://youtu.be/baK7XRmmSOk)
+* [4 - Quantification](https://youtu.be/5GA9XQvTMQY)
+* [5 - Group Analysis](https://youtu.be/2zVQ7vYe73k)
+* [6 - Advanced Analysis](https://youtu.be/Pp-jRHpGrOQ)
 
 <div style="clear: both;"></div>
 
