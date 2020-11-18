@@ -78,7 +78,7 @@ The invidivual videos:
 * [1 - Introduction](ttps://youtu.be/grSeSiZZ8hE)
 * [2 - Acquisition](https://youtu.be/PpUq7eX8KZA)
 * [3 - Analysis](https://youtu.be/baK7XRmmSOk)
-* [4 - Quantification](https://youtu.be/5GA9XQvTMQY)
+* [4 - Quantification](https://youtu.be/yC46T4kvJKI) (updated)
 * [5 - Group Analysis](https://youtu.be/2zVQ7vYe73k)
 * [6 - Advanced Analysis](https://youtu.be/Pp-jRHpGrOQ)
 
