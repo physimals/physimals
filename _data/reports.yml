@@ -5,3 +5,11 @@
   link:
     url: "https://users.fmrib.ox.ac.uk/~chappell/papers/TR07MC1.pdf"
     display: "PDF document"
+
+- title: "The FMRIB Variational Bayes Tutorial II: Stochastic Variational Bayes"
+  image: vb2.png
+  description: "Stochastic Variational Bayes"
+  authors: "Chappell MA, Woolrich MW"
+  link:
+    url: "https://arxiv.org/pdf/2007.02725.pdf"
+    display: "PDF document"
