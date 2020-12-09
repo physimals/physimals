@@ -13,3 +13,11 @@
   link:
     url: "https://arxiv.org/pdf/2007.02725.pdf"
     display: "PDF document"
+
+- title: "Stochastic Variational Bayesian inference for a non-linear forward model"
+  image: svb.png
+  description: "Stochastic Variational Bayesian inference for a non-linear forward model"
+  authors: "Chappell MA, Craig MS, Woolrich MW"
+  link:
+    url: "https://arxiv.org/pdf/2007.01675.pdf"
+    display: "PDF document"
