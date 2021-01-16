@@ -45,7 +45,7 @@ processing specific to the data type.
    and also supporting multiphase and vessel-encoded ASL data.
  - [verbena](https://verbena.readthedocs.io) is a pipeline for processing 
    DSC data.
- - [hcp-asl](https://github.com/ibme-qubic/hcp-asl) is a pipeline for processing ASL data from the Human
+ - [hcp-asl](https://github.com/physimals/hcp-asl) is a pipeline for processing ASL data from the Human
    Connectome Project
 
 <div style="clear: both;"></div>
