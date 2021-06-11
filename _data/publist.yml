@@ -1,3 +1,12 @@
+- title: "Partial Volume Correction in Arterial Spin Labeling Perfusion MRI: A method to disentangle anatomy from physiology or an analysis step too far?"
+  image: PVreview.png
+  description:
+  authors: "Chappell MA, Kennedy McConnell FA, Golay X, Gunther M, Hernandedz-Tamames JA, van Osch MJ, Asllani I"
+  link:
+     url: "https://doi.org/10.1016/j.neuroimage.2021.118236"
+     display: "NeuroImage 238:118236 (2021)"
+  highlight: 1
+
 - title: "Toblerone: Surface-Based Partial Volume Estimation"
   image: toblerone.png
   description:
