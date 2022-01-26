@@ -164,7 +164,7 @@ Jump to [staff](#staff), [alumni](#alumni),
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
-  Now {{ member.now }} <!--br> {{ member.in }}-->
+  Now {{ member.now }} <!--br> <{{ member.in }}-->
   <ul style="overflow: hidden">
   
    </ul>
