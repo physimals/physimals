@@ -1,7 +1,7 @@
 - name: Michael Chappell
   photo: michael_photo.png
   physimal: Michael_physimal.png
-  info: Professor of Biomedical Imaging<br> Honorary Fellow, Wellcome Centre for Integrative Neuroimaging, University of Oxford<br> Visiting Professor, Medical Gerentology, Trinity College Dublin
+  info: Professor of Biomedical Imaging<br> Chief Scientific Office & Co-Foudner, Quantified Imaging<br> Honorary Fellow, Wellcome Centre for Integrative Neuroimaging, University of Oxford<br> Visiting Professor, Medical Gerentology, Trinity College Dublin
   email: michael.chappell@nottingham.ac.uk   
   number_educ: 5
   education1: MEng Engineering Science, University of Oxford, UK
@@ -9,30 +9,10 @@
   education3: Research Associate, FMIRB Centre, University of Oxford, UK
   education4: Deputy Group Leader, PUMMA, Institute of Biomedical Engineering, University of Oxford, UK
   education5: Associate Professor, Institute of Biomedical Engineering, University of Oxford, UK
-  external_sites: 2
+  external_sites: 3
   google_scholar: 
-  orcid:  
-  
-- name: Flora Kennedy McConnell
-  photo: flora_photo.png
-  physimal: Flora_physimal.jpg
-  info: Research Fellow & Deputy Group Leader
-  email: flora.kennedymcconnell@nottingham.ac.uk   
-  number_educ: 2
-  education1: MEng Engineering Science, University of Oxford, UK
-  education2: DPhil CDT in Healthcare Innovation Biomedical/Medical Engineering
-  google_scholar: 
-  orcid:  
-
-- name: Jack Toner
-  photo: jack_photo.png
-  physimal: Jack_physimal.jpg
-  info: Research Assistant
-  email: jack.toner@nottingham.ac.uk   
-  number_educ: 1
-  education1: MEng Engineering Science, University of Oxford, UK
-  google_scholar: 
-  orcid:  
+  orcid:
+  in: https://www.linkedin.com/in/michael-chappell-98113467
   
 - name: Martin Craig
   photo: martin_photo.png

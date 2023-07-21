@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the
-[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"}
-and part of the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"} in the
+We are a research group in the the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"} in the
 School of Medicine, University of Nottingham. We are an
 interdisciplinary team who use medical imaging technology to
 make measurements of physiological processes when and where they happen in the
